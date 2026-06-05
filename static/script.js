@@ -46,9 +46,15 @@
     const head = document.createElement('div');
     head.className = 'oyoyo-item-head';
     const source = document.createElement('span');
-    const isYt = item.source === 'youtube';
-    source.className = 'oyoyo-source oyoyo-source-' + (isYt ? 'youtube' : 'bluesky');
-    source.textContent = isYt ? 'YouTube' : 'Bluesky';
+    const labelMap = {
+      youtube: 'YouTube',
+      bluesky: 'Bluesky',
+      reddit: 'Reddit',
+      hackernews: 'Hacker News',
+    };
+    const key = item.source || 'bluesky';
+    source.className = 'oyoyo-source oyoyo-source-' + key;
+    source.textContent = labelMap[key] || key;
     head.appendChild(source);
     if (item.author) {
       const author = document.createElement('span');
@@ -69,10 +75,11 @@
     text.innerHTML = highlightKeyword(item.text || '');
     a.appendChild(text);
 
-    if (isYt && item.video_title) {
+    if (item.video_title) {
       const vt = document.createElement('div');
       vt.className = 'oyoyo-video-title';
-      vt.textContent = '🎬 ' + item.video_title;
+      const prefix = key === 'youtube' ? '🎬 ' : (key === 'reddit' ? '📌 ' : (key === 'hackernews' ? '🔶 ' : '› '));
+      vt.textContent = prefix + item.video_title;
       a.appendChild(vt);
     }
     return a;

@@ -207,22 +207,124 @@ def collect_youtube() -> list[dict]:
     return items
 
 
+# ---------- Reddit ----------
+
+REDDIT_UA = 'oyoyo-feed/0.1 (https://oyoyo-corporate.onrender.com)'
+
+
+def reddit_search(keyword: str, limit: int = 25) -> list[dict]:
+    """Reddit 検索（OAuth なし、 User-Agent 指定）"""
+    try:
+        res = requests.get(
+            'https://www.reddit.com/search.json',
+            params={'q': keyword, 'limit': limit, 'sort': 'new', 'restrict_sr': 'false'},
+            headers={'User-Agent': REDDIT_UA, 'Accept': 'application/json'},
+            timeout=20,
+        )
+        if not res.ok:
+            print(f'[reddit] search failed for {keyword}: {res.status_code}', file=sys.stderr)
+            return []
+        # Reddit が稀に HTML を返すケースに対応
+        ct = res.headers.get('content-type', '')
+        if 'json' not in ct:
+            print(f'[reddit] non-json response for {keyword}: {ct}', file=sys.stderr)
+            return []
+        return res.json().get('data', {}).get('children', [])
+    except Exception as e:
+        print(f'[reddit] error for {keyword}: {e}', file=sys.stderr)
+        return []
+
+
+def collect_reddit() -> list[dict]:
+    items: list[dict] = []
+    seen: set[str] = set()
+    for kw in KEYWORDS:
+        for child in reddit_search(kw):
+            d = child.get('data') or {}
+            post_id = d.get('id', '')
+            if not post_id or post_id in seen:
+                continue
+            seen.add(post_id)
+            title = d.get('title', '')
+            body = d.get('selftext', '')
+            text = (title + '\n\n' + body).strip() if body else title
+            if not matches_keyword(text):
+                continue
+            items.append({
+                'source': 'reddit',
+                'text': text,
+                'author': 'u/' + d.get('author', ''),
+                'url': 'https://www.reddit.com' + d.get('permalink', ''),
+                'posted_at': datetime.fromtimestamp(d.get('created_utc', 0), tz=timezone.utc).isoformat(timespec='seconds') if d.get('created_utc') else '',
+                'lang': '',
+                'video_title': 'r/' + d.get('subreddit', ''),
+            })
+    print(f'[reddit] collected {len(items)} items', file=sys.stderr)
+    return items
+
+
+# ---------- Hacker News (Algolia) ----------
+
+def hn_search(keyword: str) -> list[dict]:
+    try:
+        res = requests.get(
+            'https://hn.algolia.com/api/v1/search_by_date',
+            params={'query': keyword, 'tags': '(story,comment)', 'hitsPerPage': 30},
+            timeout=20,
+        )
+        if not res.ok:
+            print(f'[hn] search failed for {keyword}: {res.status_code}', file=sys.stderr)
+            return []
+        return res.json().get('hits', [])
+    except Exception as e:
+        print(f'[hn] error for {keyword}: {e}', file=sys.stderr)
+        return []
+
+
+def collect_hn() -> list[dict]:
+    items: list[dict] = []
+    seen: set[str] = set()
+    for kw in KEYWORDS:
+        for hit in hn_search(kw):
+            obj_id = hit.get('objectID', '')
+            if not obj_id or obj_id in seen:
+                continue
+            seen.add(obj_id)
+            text = hit.get('comment_text') or hit.get('story_text') or hit.get('title') or ''
+            if not matches_keyword(text):
+                continue
+            items.append({
+                'source': 'hackernews',
+                'text': text,
+                'author': hit.get('author', ''),
+                'url': f'https://news.ycombinator.com/item?id={obj_id}',
+                'posted_at': hit.get('created_at', ''),
+                'lang': '',
+                'video_title': hit.get('story_title', ''),
+            })
+    print(f'[hn] collected {len(items)} items', file=sys.stderr)
+    return items
+
+
 # ---------- main ----------
 
 def main() -> None:
     bluesky_items = collect_bluesky()
     youtube_items = collect_youtube()
-    all_items = bluesky_items + youtube_items
+    reddit_items = collect_reddit()
+    hn_items = collect_hn()
+    all_items = bluesky_items + youtube_items + reddit_items + hn_items
     all_items.sort(key=lambda x: x.get('posted_at', ''), reverse=True)
     all_items = all_items[:MAX_ITEMS]
+
+    sources = {}
+    for item in all_items:
+        sources[item['source']] = sources.get(item['source'], 0) + 1
 
     output = {
         'updated_at': datetime.now(timezone.utc).isoformat(timespec='seconds'),
         'count': len(all_items),
-        'sources': {
-            'bluesky': sum(1 for i in all_items if i['source'] == 'bluesky'),
-            'youtube': sum(1 for i in all_items if i['source'] == 'youtube'),
-        },
+        'sources': sources,
         'items': all_items,
     }
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)

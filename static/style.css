@@ -517,6 +517,14 @@ button { font-family: inherit; }
   background: rgba(255, 78, 78, 0.18);
   color: #ff7e7e;
 }
+.oyoyo-source-reddit {
+  background: rgba(255, 140, 60, 0.2);
+  color: #ffac6e;
+}
+.oyoyo-source-hackernews {
+  background: rgba(255, 180, 80, 0.18);
+  color: #ffb84d;
+}
 .oyoyo-author {
   font-weight: 600;
   color: rgba(255, 255, 255, 0.7);
