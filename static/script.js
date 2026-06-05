@@ -5,6 +5,96 @@
   const yearEl = document.getElementById('year');
   if (yearEl) yearEl.textContent = new Date().getFullYear();
 
+  // ---- 世界中の今日のoyoyo フィード ----
+  loadOyoyoFeed();
+
+  async function loadOyoyoFeed() {
+    const meta = document.getElementById('oyoyo-meta');
+    const feed = document.getElementById('oyoyo-feed');
+    if (!meta || !feed) return;
+    try {
+      const res = await fetch('data/oyoyo-feed.json', { cache: 'no-store' });
+      if (!res.ok) throw new Error('feed not available');
+      const data = await res.json();
+      const items = Array.isArray(data.items) ? data.items : [];
+      if (data.updated_at) {
+        const d = new Date(data.updated_at);
+        const fmt = d.toLocaleString('ja-JP', { year: 'numeric', month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit' });
+        meta.textContent = `${fmt} 時点（Bluesky / YouTube から自動収集）`;
+      } else {
+        meta.textContent = '（自動収集はまだ動いていません）';
+      }
+      if (items.length === 0) {
+        feed.innerHTML = '<div class="oyoyo-empty">今日はまだ何も拾えていません。</div>';
+        return;
+      }
+      feed.innerHTML = '';
+      items.forEach(item => feed.appendChild(buildItem(item)));
+    } catch (err) {
+      meta.textContent = '';
+      feed.innerHTML = '<div class="oyoyo-empty">フィードを読み込めませんでした。</div>';
+    }
+  }
+
+  function buildItem(item) {
+    const a = document.createElement('a');
+    a.className = 'oyoyo-item';
+    a.href = item.url || '#';
+    a.target = '_blank';
+    a.rel = 'noopener noreferrer';
+
+    const head = document.createElement('div');
+    head.className = 'oyoyo-item-head';
+    const source = document.createElement('span');
+    const isYt = item.source === 'youtube';
+    source.className = 'oyoyo-source oyoyo-source-' + (isYt ? 'youtube' : 'bluesky');
+    source.textContent = isYt ? 'YouTube' : 'Bluesky';
+    head.appendChild(source);
+    if (item.author) {
+      const author = document.createElement('span');
+      author.className = 'oyoyo-author';
+      author.textContent = item.author;
+      head.appendChild(author);
+    }
+    if (item.posted_at) {
+      const when = document.createElement('span');
+      when.className = 'oyoyo-when';
+      when.textContent = relativeTime(item.posted_at);
+      head.appendChild(when);
+    }
+    a.appendChild(head);
+
+    const text = document.createElement('div');
+    text.className = 'oyoyo-text';
+    text.innerHTML = highlightKeyword(item.text || '');
+    a.appendChild(text);
+
+    if (isYt && item.video_title) {
+      const vt = document.createElement('div');
+      vt.className = 'oyoyo-video-title';
+      vt.textContent = '🎬 ' + item.video_title;
+      a.appendChild(vt);
+    }
+    return a;
+  }
+
+  function highlightKeyword(text) {
+    const escaped = String(text).replace(/[&<>"']/g, c => ({
+      '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#039;'
+    }[c]));
+    return escaped.replace(/(oyoyo|オヨヨ|ｵﾖﾖ)/gi, '<mark>$1</mark>');
+  }
+
+  function relativeTime(iso) {
+    const d = new Date(iso);
+    if (isNaN(d.getTime())) return '';
+    const diff = (Date.now() - d.getTime()) / 1000;
+    if (diff < 60) return 'たった今';
+    if (diff < 3600) return Math.floor(diff / 60) + '分前';
+    if (diff < 86400) return Math.floor(diff / 3600) + '時間前';
+    return Math.floor(diff / 86400) + '日前';
+  }
+
   // ---- お問い合わせフォーム AJAX 送信 ----
   const form = document.getElementById('contact-form');
   if (form) {
