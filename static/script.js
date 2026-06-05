@@ -23,17 +23,17 @@
           headers: { 'Accept': 'application/json' },
         });
         if (res.ok) {
-          showToast('送信しました。担当者から2〜3営業日以内にご連絡します。', 'success');
+          showToast('送信しました。', 'success');
           form.reset();
         } else {
           const data = await res.json().catch(() => ({}));
           const msg = (data.errors && data.errors[0] && data.errors[0].message)
             ? data.errors[0].message
             : '送信に失敗しました。少し時間をおいて再度お試しください。';
-          showToast(msg, 'error');
+          showToast('送信に失敗しました。', 'error');
         }
       } catch (err) {
-        showToast('通信エラーが発生しました。少し時間をおいて再度お試しください。', 'error');
+        showToast('通信エラーが発生しました。', 'error');
       } finally {
         if (submitBtn) {
           submitBtn.disabled = false;
