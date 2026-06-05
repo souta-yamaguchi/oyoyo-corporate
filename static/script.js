@@ -5,6 +5,72 @@
   const yearEl = document.getElementById('year');
   if (yearEl) yearEl.textContent = new Date().getFullYear();
 
+  // ---- お問い合わせフォーム AJAX 送信 ----
+  const form = document.getElementById('contact-form');
+  if (form) {
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const submitBtn = form.querySelector('.btn-submit');
+      const originalLabel = submitBtn ? submitBtn.textContent : '';
+      if (submitBtn) {
+        submitBtn.disabled = true;
+        submitBtn.textContent = '送信中…';
+      }
+      try {
+        const res = await fetch(form.action, {
+          method: 'POST',
+          body: new FormData(form),
+          headers: { 'Accept': 'application/json' },
+        });
+        if (res.ok) {
+          showToast('送信しました。担当者から2〜3営業日以内にご連絡します。', 'success');
+          form.reset();
+        } else {
+          const data = await res.json().catch(() => ({}));
+          const msg = (data.errors && data.errors[0] && data.errors[0].message)
+            ? data.errors[0].message
+            : '送信に失敗しました。少し時間をおいて再度お試しください。';
+          showToast(msg, 'error');
+        }
+      } catch (err) {
+        showToast('通信エラーが発生しました。少し時間をおいて再度お試しください。', 'error');
+      } finally {
+        if (submitBtn) {
+          submitBtn.disabled = false;
+          submitBtn.textContent = originalLabel;
+        }
+      }
+    });
+  }
+
+  function showToast(message, variant) {
+    // 既存トーストがあれば消す
+    const existing = document.getElementById('contact-toast');
+    if (existing) existing.remove();
+
+    const toast = document.createElement('div');
+    toast.id = 'contact-toast';
+    toast.className = 'toast toast-' + (variant || 'success');
+    toast.setAttribute('role', 'status');
+    toast.innerHTML = `
+      <span class="toast-icon">${variant === 'error' ? '⚠' : '✓'}</span>
+      <span class="toast-message"></span>
+      <button class="toast-close" aria-label="閉じる">×</button>
+    `;
+    toast.querySelector('.toast-message').textContent = message;
+    document.body.appendChild(toast);
+    // 表示遷移
+    requestAnimationFrame(() => toast.classList.add('is-shown'));
+    // 閉じる
+    const close = () => {
+      toast.classList.remove('is-shown');
+      setTimeout(() => toast.remove(), 350);
+    };
+    toast.querySelector('.toast-close').addEventListener('click', close);
+    // 6秒で自動クローズ
+    setTimeout(close, 6000);
+  }
+
   // ハンバーガーメニュー
   const btn = document.getElementById('hamburger-btn');
   const nav = document.getElementById('site-nav');
