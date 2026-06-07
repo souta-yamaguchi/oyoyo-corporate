@@ -1,11 +1,62 @@
 {
-  "updated_at": "2026-06-07T04:05:28+00:00",
-  "count": 30,
+  "updated_at": "2026-06-07T21:59:32+00:00",
+  "count": 27,
   "sources": {
-    "youtube": 7,
-    "bluesky": 23
+    "youtube": 9,
+    "bluesky": 12,
+    "mastodon": 6
   },
   "items": [
+    {
+      "source": "youtube",
+      "text": "🤓✊💯#oyoyo #hanisingh #trending #vairalvideo #cockroach #trending",
+      "author": "Villain_studio_890",
+      "url": "https://www.youtube.com/watch?v=ITjv3o4fgEI",
+      "posted_at": "2026-06-07T12:59:45Z",
+      "lang": "",
+      "video_title": "🤓✊💯#oyoyo #hanisingh #trending #vairalvideo #cockroach #trending",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "出てたのかーー😭\n気づかなかったよ……ｵﾖﾖ",
+      "author": "@nbaui7.bsky.social",
+      "url": "https://bsky.app/profile/nbaui7.bsky.social/post/3mnp4yxdv3s2q",
+      "posted_at": "2026-06-07T12:07:47.972Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "エンドレス資格取得条件を己に課したせいであまり休まらないですオヨヨ…",
+      "author": "@houzuki422.bsky.social",
+      "url": "https://bsky.app/profile/houzuki422.bsky.social/post/3mnowd6zfy22r",
+      "posted_at": "2026-06-07T10:08:12.467Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "オリーブオイル忘れてた！！！オヨヨ",
+      "author": "@renge32.bsky.social",
+      "url": "https://bsky.app/profile/renge32.bsky.social/post/3mnorya24vk2o",
+      "posted_at": "2026-06-07T08:50:28.061Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "クマフェスで取れてしまった銀バッジなんて所詮はニセ銀じゃけぇのぅ……（ｵﾖﾖ",
+      "author": "@oamochi.com",
+      "url": "https://bsky.app/profile/oamochi.com/post/3mnonv4nrpcaz",
+      "posted_at": "2026-06-07T07:37:10.767Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "可哀想に\n頭おかしくなっちゃったのね…ｵﾖﾖ",
+      "author": "@gsgo0407.bsky.social",
+      "url": "https://bsky.app/profile/gsgo0407.bsky.social/post/3mnoe7c32kc2e",
+      "posted_at": "2026-06-07T04:43:55.362Z",
+      "lang": "ja"
+    },
     {
       "source": "youtube",
       "text": "Papa oyoyo",
@@ -93,82 +144,6 @@
       "lang": "ja"
     },
     {
-      "source": "bluesky",
-      "text": "ｵﾖﾖ…",
-      "author": "@wakamine1131.bsky.social",
-      "url": "https://bsky.app/profile/wakamine1131.bsky.social/post/3mnk4ot4rz22d",
-      "posted_at": "2026-06-05T12:18:46.762Z",
-      "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "OYOYO~~ 🤭",
-      "author": "@jyujyur_janggal ",
-      "url": "https://www.youtube.com/watch?v=QQufzn4dpZE",
-      "posted_at": "2026-06-05T11:09:59Z",
-      "lang": "",
-      "video_title": "OYOYO~~ 🤭",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "God Akwaaba Oyoyo",
-      "author": "Sokisoo - Topic",
-      "url": "https://www.youtube.com/watch?v=8Wah4DpIHzU",
-      "posted_at": "2026-06-05T10:03:01Z",
-      "lang": "",
-      "video_title": "God Akwaaba Oyoyo",
-      "kind": "video_title"
-    },
-    {
-      "source": "bluesky",
-      "text": "週末に演奏会に出る身なんですけど、直前で追い詰められているのか関係者ラインでチクチク言葉の応酬があり、そういうのがマジ苦手なので引っ張られてメンタルが弱々になり、芋蔓式に過去のトラウマいろいろ思い出してオヨヨの気持ち...。お仕事関係の方に「演奏聴きに行くね！」って言われただけで、有り難さが極まり半泣きになったりもした...楽しくやりたい...",
-      "author": "@317ikari.bsky.social",
-      "url": "https://bsky.app/profile/317ikari.bsky.social/post/3mnjpou42pc2v",
-      "posted_at": "2026-06-05T08:26:09.762Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "ぱぺかわいい〜😭😭😭オヨヨ",
-      "author": "@mizutakiyummy.bsky.social",
-      "url": "https://bsky.app/profile/mizutakiyummy.bsky.social/post/3mnjbeiohds2o",
-      "posted_at": "2026-06-05T04:09:49.564Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "なんかすごく一つ一つ細かくレポート書いてたらバカ長くなってしまってオヨヨー😡😡😡😡💦💦💦💦なってる\nそれほど授業に熱心だったとかで許してくれませんか許してくれませんよね知ってた",
-      "author": "@sayukako.bsky.social",
-      "url": "https://bsky.app/profile/sayukako.bsky.social/post/3mni2ep4m5s22",
-      "posted_at": "2026-06-04T16:31:59.575Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "あ〜、そういえば、以前流行った「自分を形成する漫画9作品選ぶ」みたいなやつ、『オヨネコぶーにゃん』を入れるの忘れてた！！\nあれは大事だよ。\n漫画もアニメもよくみてたもの。\n絵はほとんど描かなかった僕がオヨヨだけはよく描いてたもの。",
-      "author": "@saxophoneko.bsky.social",
-      "url": "https://bsky.app/profile/saxophoneko.bsky.social/post/3mnhiigakg22i",
-      "posted_at": "2026-06-04T11:11:57.263Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "ストレスによる謎の背中痛❗️🥺 しごとするよｵﾖﾖ",
-      "author": "@shorse76.bsky.social",
-      "url": "https://bsky.app/profile/shorse76.bsky.social/post/3mnhdt4bhtk2d",
-      "posted_at": "2026-06-04T09:48:27.861Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "Oyoyo... Viro... Pretty... 😲\n\nWhy is this so pretty, help 🫠",
-      "author": "@michitomochitoart.bsky.social",
-      "url": "https://bsky.app/profile/michitomochitoart.bsky.social/post/3mnhcbfdbuc25",
-      "posted_at": "2026-06-04T09:20:36.982Z",
-      "lang": "es"
-    },
-    {
       "source": "youtube",
       "text": "EVENING OYOYO |3RD JUNE 2026",
       "author": "Wazobia FM",
@@ -177,54 +152,6 @@
       "lang": "",
       "video_title": "EVENING OYOYO |3RD JUNE 2026",
       "kind": "video_title"
-    },
-    {
-      "source": "bluesky",
-      "text": "BSD artists now:\n\nMain Manga: Harukawa \nWan: Kanai Neco \nDead Apple: Ganjii \nBEAST, Fifteen, Stormbringer: Hoshikawa \nGaiden: Oyoyo \nUntold Origins: Tomori Adachi \nThe Day I Picked Up Dazai: Sokura Shikiji\n\n#bsd ##bungostraydogs",
-      "author": "@chuunews.bsky.social",
-      "url": "https://bsky.app/profile/chuunews.bsky.social/post/3mngslnhdyk2g",
-      "posted_at": "2026-06-04T04:40:03.059Z",
-      "lang": "en"
-    },
-    {
-      "source": "bluesky",
-      "text": "しょめさんが仮の加入だったとしても、あの3人が一番私の理想系すぎて...ｵﾖﾖ…😭手も足も出ないほまに　\n\n近所の子供かしたっぱを作りたい欲\n父さんなタイドプールで食っていこうと思うんだ(闇落ち父)\n#くらくら_ミズムシ",
-      "author": "@mizumusi2.bsky.social",
-      "url": "https://bsky.app/profile/mizumusi2.bsky.social/post/3mnf7bds6rk2e",
-      "posted_at": "2026-06-03T13:21:37.161Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "オヨヨ………(´-ω-`)",
-      "author": "@tsuki-idi.bsky.social",
-      "url": "https://bsky.app/profile/tsuki-idi.bsky.social/post/3mnetni4fdk2s",
-      "posted_at": "2026-06-03T09:53:39.567Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "オヨヨですわあ😭",
-      "author": "@templatezero1.bsky.social",
-      "url": "https://bsky.app/profile/templatezero1.bsky.social/post/3mnesph7kh22c",
-      "posted_at": "2026-06-03T09:36:51.867Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "みんな絵が上手くてオヨヨってなるなぁ……",
-      "author": "@kogetashokupan.bsky.social",
-      "url": "https://bsky.app/profile/kogetashokupan.bsky.social/post/3mnescbhghs2b",
-      "posted_at": "2026-06-03T09:29:29.664Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "部屋を片付ければ片付けるほど散らかってさっきまであった居住スペースがゼロになった 何を言ってるかわからねーと思うが以下省略……………ｵﾖﾖ………………",
-      "author": "@chihiros-room.bsky.social",
-      "url": "https://bsky.app/profile/chihiros-room.bsky.social/post/3mnep4k5jx22t",
-      "posted_at": "2026-06-03T08:32:36.164Z",
-      "lang": "ja"
     },
     {
       "source": "youtube",
@@ -237,28 +164,88 @@
       "kind": "video_title"
     },
     {
-      "source": "bluesky",
-      "text": "2026もインセインの新しい公式シナリオ集もほしいぞ～オヨヨ～",
-      "author": "@wakakom.bsky.social",
-      "url": "https://bsky.app/profile/wakakom.bsky.social/post/3mne3fd57ss26",
-      "posted_at": "2026-06-03T02:39:35.364Z",
-      "lang": "ja"
+      "source": "youtube",
+      "text": "オヨヨ！#プロスピa #プロスピ #プロ野球 #プロ野球スピリッツa #プロ野球スピリッツ #ゲーム #ショート #shorts #music #sランク契約書 #契約書開封 #阪神タイガース",
+      "author": "石井GOちゃんねる",
+      "url": "https://www.youtube.com/watch?v=JdLOzEtF84Y",
+      "posted_at": "2026-06-01T00:28:47Z",
+      "lang": "",
+      "video_title": "オヨヨ！#プロスピa #プロスピ #プロ野球 #プロ野球スピリッツa #プロ野球スピリッツ #ゲーム #ショート #shorts #music #sランク契約書 #契約書開封 #阪神タイガース",
+      "kind": "video_title"
     },
     {
-      "source": "bluesky",
-      "text": "いつぶりかで三人称視点で文章書き始めたらめっちゃ書けなくてｵﾖﾖ~~~~~~となっている…\nえむず…でも三人称で書きたい雰囲気の物語な気がしているんじゃい…",
-      "author": "@maul0v0l.bsky.social",
-      "url": "https://bsky.app/profile/maul0v0l.bsky.social/post/3mnd3bxeayc22",
-      "posted_at": "2026-06-02T17:05:04.862Z",
-      "lang": "ja"
+      "source": "youtube",
+      "text": "EVENING OYOYO | 25TH MAY 2026",
+      "author": "Wazobia FM",
+      "url": "https://www.youtube.com/watch?v=AE0eVFyQ7PU",
+      "posted_at": "2026-05-26T05:58:51Z",
+      "lang": "",
+      "video_title": "EVENING OYOYO | 25TH MAY 2026",
+      "kind": "video_title"
     },
     {
-      "source": "bluesky",
-      "text": "やよい軒の麻婆定食終わっちゃったっぽい…食べたかっためう　ｵﾖﾖ〜",
-      "author": "@arpkgohan05.bsky.social",
-      "url": "https://bsky.app/profile/arpkgohan05.bsky.social/post/3mncy4qomos2a",
-      "posted_at": "2026-06-02T16:08:27.664Z",
-      "lang": "ja"
+      "source": "youtube",
+      "text": "マンチカンの子猫ボルくんのオヨヨっシリーズ🫣💕💕まん丸お目目でオヨっ😳 #cat #munchkin #子猫 #マンチカン #猫のいる暮らし #かわいい #癒し",
+      "author": "マンチのボル",
+      "url": "https://www.youtube.com/watch?v=hEoBmQ-sID8",
+      "posted_at": "2026-05-15T09:42:38Z",
+      "lang": "",
+      "video_title": "マンチカンの子猫ボルくんのオヨヨっシリーズ🫣💕💕まん丸お目目でオヨっ😳 #cat #munchkin #子猫 #マンチカン #猫のいる暮らし #かわいい #癒し",
+      "kind": "video_title"
+    },
+    {
+      "source": "mastodon",
+      "text": "入荷案内です。市川みさこさんの「意地悪だけど憎めないオヨヨ歳時記篇」が入りました。市川みさこさんのコーナーにあります。ーーーーーーーーーーーーーー漫画林(札幌マンガ古本屋)は高価買取をしています。お気軽にお問合せ下さい（＾ω＾）mangarinsapporo@gmail.comTEL011-562-6103#漫画 #comic  #マンガ #漫画林 #manga #古本屋 #札幌 #comics #少年漫画 #青年漫画 #少女漫画 #Sapporo #Hokkaido #北海道 #石山通 #山鼻 #藻岩山 #市電 #ラノベ　#市川みさこ　#オヨヨ　#オヨネコぶーにゃん #しあわせさん",
+      "author": "@mangarin",
+      "url": "https://fedibird.com/@mangarin/112642897774054025",
+      "posted_at": "2024-06-19T10:50:16.534Z",
+      "lang": "ja",
+      "video_title": "#オヨヨ @ fedibird.com"
+    },
+    {
+      "source": "mastodon",
+      "text": "入荷案内です。市川みさこさんの「意地悪だけど憎めないオヨヨ歳時記篇」が入りました。市川みさこさんのコーナーにあります。ーーーーーーーーーーーーーー漫画林(札幌マンガ古本屋)は高価買取をしています。お気軽にお問合せ下さい（＾ω＾）mangarinsapporo@gmail.comTEL011-562-6103#漫画 #comic  #マンガ #漫画林 #manga #古本屋 #札幌 #comics #少年漫画 #青年漫画 #少女漫画 #Sapporo #Hokkaido #北海道 #石山通 #山鼻 #藻岩山 #市電 #ラノベ　#市川みさこ　#オヨヨ　#オヨネコぶーにゃん #しあわせさん",
+      "author": "@mangarin@fedibird.com",
+      "url": "https://fedibird.com/@mangarin/112642897774054025",
+      "posted_at": "2024-06-19T10:50:16.000Z",
+      "lang": "ja",
+      "video_title": "#オヨヨ @ mstdn.jp"
+    },
+    {
+      "source": "mastodon",
+      "text": "入荷案内です。市川みさこさんの「意地悪だけど憎めないオヨヨ歳時記篇」が入りました。市川みさこさんのコーナーにあります。ーーーーーーーーーーーーーー漫画林(札幌マンガ古本屋)は高価買取をしています。お気軽にお問合せ下さい（＾ω＾）mangarinsapporo@gmail.comTEL011-562-6103#漫画 #comic  #マンガ #漫画林 #manga #古本屋 #札幌 #comics #少年漫画 #青年漫画 #少女漫画 #Sapporo #Hokkaido #北海道 #石山通 #山鼻 #藻岩山 #市電 #ラノベ　#市川みさこ　#オヨヨ　#オヨネコぶーにゃん #しあわせさん",
+      "author": "@mangarin@fedibird.com",
+      "url": "https://fedibird.com/@mangarin/112642897774054025",
+      "posted_at": "2024-06-19T10:50:16.000Z",
+      "lang": "ja",
+      "video_title": "#オヨヨ @ mastodon.social"
+    },
+    {
+      "source": "mastodon",
+      "text": "Der künstlerische Dokumentarfilm #Oyoyo von Chetna Vora aus dem Jahr 1980 ist Ausgangspunkt der aktuellen Ausstellung „Bis zum Sonnenaufgang“ der Abteilung Forschung der Staatlichen Kunstsammlungen Dresden. Wir zeigen die digitalisierte und restaurierte Langversion zum ersten Mal in Dresden.1/3",
+      "author": "@zentralkino@chaos.social",
+      "url": "https://chaos.social/@zentralkino/112275629546937676",
+      "posted_at": "2024-04-15T14:09:08.000Z",
+      "lang": "de",
+      "video_title": "#oyoyo @ mastodon.social"
+    },
+    {
+      "source": "mastodon",
+      "text": "なんだかクソ真面目なことを言いたくなった夜。ついに自分も耄碌してきたか。#ｵﾖﾖ",
+      "author": "@repserc@kirishima.cloud",
+      "url": "https://kirishima.cloud/@repserc/111432046401800259",
+      "posted_at": "2023-11-18T14:34:50.000Z",
+      "lang": "ja",
+      "video_title": "#オヨヨ @ mstdn.jp"
+    },
+    {
+      "source": "mastodon",
+      "text": "角田龍平の蛤御門のヘン | KBS京都ラジオ | 2018/10/18/木 | 19:30-21:00 #radiko http://radiko.jp/share/?t=20181018193000&amp;sid=KBS#nowlistening #蛤御門のヘン #スケスケ #オヨヨ",
+      "author": "@kajio",
+      "url": "https://mstdn.jp/@kajio/100917200303232138",
+      "posted_at": "2018-10-18T14:51:12.279Z",
+      "lang": "ja",
+      "video_title": "#オヨヨ @ mstdn.jp"
     }
   ]
 }
