@@ -1,6 +1,7 @@
 """Bluesky と YouTube から "oyoyo"/"オヨヨ" 言及を収集して data/oyoyo-feed.json に保存する。"""
 import os
 import json
+import re
 import sys
 import time
 from datetime import datetime, timezone
@@ -12,6 +13,9 @@ OUTPUT = Path('data/oyoyo-feed.json')
 MAX_ITEMS = 30
 KEYWORDS = ['oyoyo', 'オヨヨ', 'ｵﾖﾖ']
 
+# ASCII 用は単語境界つき (yoyoyo などの部分一致を弾く)
+WORD_RE = re.compile(r'\boyoyo\b', re.IGNORECASE)
+
 BLUESKY_HANDLE = os.environ.get('BLUESKY_HANDLE', '').strip()
 BLUESKY_APP_PASSWORD = os.environ.get('BLUESKY_APP_PASSWORD', '').strip()
 YOUTUBE_API_KEY = os.environ.get('YOUTUBE_API_KEY', '').strip()
@@ -20,8 +24,11 @@ YOUTUBE_API_KEY = os.environ.get('YOUTUBE_API_KEY', '').strip()
 def matches_keyword(text: str) -> bool:
     if not text:
         return False
-    t = text.lower()
-    return any(k.lower() in t for k in KEYWORDS)
+    if WORD_RE.search(text):
+        return True
+    if 'オヨヨ' in text or 'ｵﾖﾖ' in text:
+        return True
+    return False
 
 
 # ---------- Bluesky ----------
@@ -263,6 +270,140 @@ def collect_reddit() -> list[dict]:
     return items
 
 
+# ---------- Mastodon (複数インスタンス) ----------
+
+MASTODON_INSTANCES = [
+    'mstdn.jp',
+    'mastodon.social',
+    'pawoo.net',
+    'fedibird.com',
+]
+
+
+def mastodon_tag_timeline(instance: str, tag: str, limit: int = 40) -> list[dict]:
+    """Mastodon の公開ハッシュタグタイムライン (認証不要)"""
+    try:
+        res = requests.get(
+            f'https://{instance}/api/v1/timelines/tag/{tag}',
+            params={'limit': limit},
+            headers={'User-Agent': REDDIT_UA},
+            timeout=20,
+        )
+        if not res.ok:
+            print(f'[mastodon/{instance}#{tag}] failed: {res.status_code}', file=sys.stderr)
+            return []
+        return res.json()
+    except Exception as e:
+        print(f'[mastodon/{instance}#{tag}] error: {e}', file=sys.stderr)
+        return []
+
+
+def collect_mastodon() -> list[dict]:
+    items: list[dict] = []
+    seen: set[str] = set()
+    tags = ['oyoyo', 'オヨヨ']
+    for instance in MASTODON_INSTANCES:
+        for tag in tags:
+            for status in mastodon_tag_timeline(instance, tag, limit=40):
+                sid = status.get('id', '')
+                key = f'{instance}:{sid}'
+                if not sid or key in seen:
+                    continue
+                seen.add(key)
+                html = status.get('content', '')
+                text = re.sub(r'<[^>]+>', '', html).strip()
+                if not matches_keyword(text):
+                    continue
+                acc = status.get('account') or {}
+                handle = acc.get('acct', '')
+                items.append({
+                    'source': 'mastodon',
+                    'text': text,
+                    'author': f'@{handle}' if handle else '',
+                    'url': status.get('url', ''),
+                    'posted_at': status.get('created_at', ''),
+                    'lang': status.get('language', '') or '',
+                    'video_title': f'#{tag} @ {instance}',
+                })
+    print(f'[mastodon] collected {len(items)} items', file=sys.stderr)
+    return items
+
+
+# ---------- Lemmy ----------
+
+LEMMY_INSTANCES = ['lemmy.world', 'sh.itjust.works', 'beehaw.org']
+
+
+def lemmy_search(instance: str, keyword: str, limit: int = 20) -> list[dict]:
+    try:
+        res = requests.get(
+            f'https://{instance}/api/v3/search',
+            params={'q': keyword, 'type_': 'All', 'sort': 'New', 'limit': limit},
+            headers={'User-Agent': REDDIT_UA},
+            timeout=20,
+        )
+        if not res.ok:
+            print(f'[lemmy/{instance}] search failed for {keyword}: {res.status_code}', file=sys.stderr)
+            return []
+        return res.json()
+    except Exception as e:
+        print(f'[lemmy/{instance}] error for {keyword}: {e}', file=sys.stderr)
+        return []
+
+
+def collect_lemmy() -> list[dict]:
+    items: list[dict] = []
+    seen: set[str] = set()
+    for instance in LEMMY_INSTANCES:
+        for kw in KEYWORDS:
+            data = lemmy_search(instance, kw, limit=20)
+            if not isinstance(data, dict):
+                continue
+            for post_wrap in data.get('posts', []):
+                post = post_wrap.get('post') or {}
+                pid = post.get('id', '')
+                key = f'p{instance}:{pid}'
+                if not pid or key in seen:
+                    continue
+                seen.add(key)
+                text = ((post.get('name') or '') + '\n\n' + (post.get('body') or '')).strip()
+                if not matches_keyword(text):
+                    continue
+                creator = post_wrap.get('creator') or {}
+                comm = post_wrap.get('community') or {}
+                items.append({
+                    'source': 'lemmy',
+                    'text': text,
+                    'author': creator.get('name', ''),
+                    'url': post.get('ap_id', '') or f'https://{instance}/post/{pid}',
+                    'posted_at': post.get('published', ''),
+                    'lang': '',
+                    'video_title': comm.get('name', '') and f'!{comm["name"]}@{instance}',
+                })
+            for comment_wrap in data.get('comments', []):
+                comment = comment_wrap.get('comment') or {}
+                cid = comment.get('id', '')
+                key = f'c{instance}:{cid}'
+                if not cid or key in seen:
+                    continue
+                seen.add(key)
+                text = comment.get('content', '') or ''
+                if not matches_keyword(text):
+                    continue
+                creator = comment_wrap.get('creator') or {}
+                items.append({
+                    'source': 'lemmy',
+                    'text': text,
+                    'author': creator.get('name', ''),
+                    'url': comment.get('ap_id', ''),
+                    'posted_at': comment.get('published', ''),
+                    'lang': '',
+                    'video_title': instance,
+                })
+    print(f'[lemmy] collected {len(items)} items', file=sys.stderr)
+    return items
+
+
 # ---------- Hacker News (Algolia) ----------
 
 def hn_search(keyword: str) -> list[dict]:
@@ -313,7 +454,9 @@ def main() -> None:
     youtube_items = collect_youtube()
     reddit_items = collect_reddit()
     hn_items = collect_hn()
-    all_items = bluesky_items + youtube_items + reddit_items + hn_items
+    mastodon_items = collect_mastodon()
+    lemmy_items = collect_lemmy()
+    all_items = bluesky_items + youtube_items + reddit_items + hn_items + mastodon_items + lemmy_items
     all_items.sort(key=lambda x: x.get('posted_at', ''), reverse=True)
     all_items = all_items[:MAX_ITEMS]
 

@@ -525,6 +525,14 @@ button { font-family: inherit; }
   background: rgba(255, 180, 80, 0.18);
   color: #ffb84d;
 }
+.oyoyo-source-mastodon {
+  background: rgba(99, 100, 255, 0.22);
+  color: #a0a3ff;
+}
+.oyoyo-source-lemmy {
+  background: rgba(0, 200, 130, 0.18);
+  color: #4be3a3;
+}
 .oyoyo-author {
   font-weight: 600;
   color: rgba(255, 255, 255, 0.7);

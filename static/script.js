@@ -51,6 +51,8 @@
       bluesky: 'Bluesky',
       reddit: 'Reddit',
       hackernews: 'Hacker News',
+      mastodon: 'Mastodon',
+      lemmy: 'Lemmy',
     };
     const key = item.source || 'bluesky';
     source.className = 'oyoyo-source oyoyo-source-' + key;
