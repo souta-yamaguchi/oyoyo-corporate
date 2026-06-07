@@ -11,6 +11,7 @@ import requests
 
 OUTPUT = Path('data/oyoyo-feed.json')
 MAX_ITEMS = 30
+PER_SOURCE_MAX = 12
 KEYWORDS = ['oyoyo', 'オヨヨ', 'ｵﾖﾖ']
 
 # ASCII 用は単語境界つき (yoyoyo などの部分一致を弾く)
@@ -457,8 +458,16 @@ def main() -> None:
     mastodon_items = collect_mastodon()
     lemmy_items = collect_lemmy()
     all_items = bluesky_items + youtube_items + reddit_items + hn_items + mastodon_items + lemmy_items
-    all_items.sort(key=lambda x: x.get('posted_at', ''), reverse=True)
-    all_items = all_items[:MAX_ITEMS]
+    # ソース別に新しい順で PER_SOURCE_MAX 件まで絞ってから全体ソート
+    by_source: dict[str, list[dict]] = {}
+    for item in all_items:
+        by_source.setdefault(item['source'], []).append(item)
+    limited: list[dict] = []
+    for src, lst in by_source.items():
+        lst.sort(key=lambda x: x.get('posted_at', ''), reverse=True)
+        limited.extend(lst[:PER_SOURCE_MAX])
+    limited.sort(key=lambda x: x.get('posted_at', ''), reverse=True)
+    all_items = limited[:MAX_ITEMS]
 
     sources = {}
     for item in all_items:
