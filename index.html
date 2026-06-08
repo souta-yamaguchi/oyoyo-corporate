@@ -5,6 +5,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>オヨヨ株式会社</title>
 <link rel="stylesheet" href="static/style.css">
+<script type="importmap">
+{ "imports": { "three": "https://unpkg.com/three@0.160.0/build/three.module.js" } }
+</script>
 </head>
 <body>
 
@@ -39,9 +42,23 @@
 
 <div class="container">
 
-  <!-- Hero (地球 + コメント) -->
+  <!-- Hero (地球を直接埋め込み + コメント) -->
   <header class="hero" id="hero">
-    <iframe id="hero-earth-iframe" src="static/earth-embed.html" title="" frameborder="0" scrolling="no" aria-hidden="true"></iframe>
+    <!-- earth_globe 由来の要素 (スクリプトが参照するので必要) -->
+    <div id="app"></div>
+    <div id="boot">地球を生成中… テクスチャ読み込み<div class="bar"><i id="bootbar"></i></div></div>
+    <div id="err"></div>
+    <div id="card"></div>
+    <div id="top" style="display:none">
+      <div id="layers">
+        <button data-l="clouds" class="on"></button>
+        <button data-l="night" class="on"></button>
+        <button data-l="pins" class="on"></button>
+        <button data-l="spin" class="on"></button>
+      </div>
+    </div>
+    <div id="search" style="display:none"><input id="searchBox" type="text"></div>
+
     <div class="hero-bubbles" id="hero-bubbles" aria-hidden="true"></div>
     <div class="hero-content" id="hero-content">
       <h1 id="hero-title">オヨヨ株式会社</h1>
@@ -176,5 +193,6 @@
 
 <script src="static/script.js"></script>
 <script src="static/hero.js"></script>
+<script type="module" src="static/earth-globe.js"></script>
 </body>
 </html>

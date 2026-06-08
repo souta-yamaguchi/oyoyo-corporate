@@ -1,89 +1,3 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>EARTH — インタラクティブ地球儀</title>
-<style>
-  :root { color-scheme: dark; }
-  * { margin:0; padding:0; box-sizing:border-box; }
-  html,body { width:100%; height:100%; overflow:hidden; background:#01030a; }
-  body { font-family:"Segoe UI","Yu Gothic UI",system-ui,sans-serif; color:#dde8ff; }
-  #app { position:fixed; inset:0; cursor:grab; }
-  #app.grabbing { cursor:grabbing; }
-
-  #top { position:fixed; top:0; left:0; right:0; padding:14px 20px; z-index:5; pointer-events:none;
-    display:flex; align-items:flex-start; gap:18px; flex-wrap:wrap;
-    background:linear-gradient(to bottom, rgba(1,3,12,.7), rgba(1,3,12,0)); }
-  #brand { font-size:16px; font-weight:600; letter-spacing:.06em; color:#fff; }
-  #brand small { display:block; font-size:10.5px; font-weight:400; color:#7f93bf; letter-spacing:.16em; }
-  .spacer{ flex:1; }
-  #layers { display:flex; gap:8px; pointer-events:auto; flex-wrap:wrap; }
-  #layers button { cursor:pointer; font:inherit; font-size:12px; color:#cfe0ff;
-    background:rgba(28,42,80,.6); border:1px solid rgba(120,160,255,.3); padding:7px 12px; border-radius:9px; transition:all .14s; }
-  #layers button:hover { background:rgba(60,95,180,.65); }
-  #layers button.on { background:rgba(60,110,200,.7); border-color:rgba(150,200,255,.6); color:#fff; }
-
-  #hint { position:fixed; left:0; right:0; bottom:0; padding:12px 20px 14px; z-index:5; pointer-events:none;
-    color:#9fb2d8; font-size:12.5px; text-align:center; line-height:1.6;
-    background:linear-gradient(to top, rgba(1,3,12,.68), rgba(1,3,12,0)); }
-  #hint b{ color:#fff; }
-
-  /* 国情報カード */
-  #card { position:fixed; z-index:7; min-width:200px; max-width:280px; padding:14px 16px; border-radius:12px;
-    background:rgba(8,14,30,.9); border:1px solid rgba(120,160,255,.35); backdrop-filter:blur(8px);
-    display:none; pointer-events:none; box-shadow:0 8px 30px rgba(0,0,0,.5); }
-  #card .flag{ font-size:30px; line-height:1; }
-  #card h3{ font-size:18px; color:#fff; margin:6px 0 2px; letter-spacing:.02em; }
-  #card .row{ font-size:12.5px; color:#aebfe0; line-height:1.7; margin-top:6px; }
-  #card .row b{ color:#eaf2ff; font-weight:600; }
-  #card .note{ font-size:10.5px; color:#6f86b8; margin-top:8px; }
-
-  /* 検索 */
-  #search { position:fixed; left:50%; bottom:50px; transform:translateX(-50%); z-index:5; pointer-events:auto; }
-  #search input{ font:inherit; font-size:13px; color:#eaf2ff; background:rgba(10,16,34,.7);
-    border:1px solid rgba(120,160,255,.32); border-radius:999px; padding:9px 18px; width:min(360px,70vw); outline:none; text-align:center; }
-  #search input::placeholder{ color:#6f86b8; }
-
-  #boot { position:fixed; inset:0; display:flex; align-items:center; justify-content:center; z-index:9;
-    background:#01030a; color:#7f93bf; font-size:14px; letter-spacing:.1em; transition:opacity .6s; }
-  #boot.gone{ opacity:0; pointer-events:none; }
-  #boot .bar{ width:200px; height:3px; background:rgba(120,160,255,.16); border-radius:3px; margin-top:14px; overflow:hidden; }
-  #boot .bar i{ display:block; height:100%; width:0%; background:linear-gradient(90deg,#3a7bd5,#7fe0ff); transition:width .3s; }
-  #err{ position:fixed; inset:0; display:none; align-items:center; justify-content:center; padding:40px; text-align:center;
-    color:#ffb4b4; background:#0a0410; font-size:14px; line-height:1.8; z-index:10; }
-</style>
-</head>
-<body>
-<div id="app"></div>
-
-<div id="top">
-  <div id="brand">EARTH<small>インタラクティブ地球儀</small></div>
-  <div class="spacer"></div>
-  <div id="layers">
-    <button data-l="clouds" class="on">☁ 雲</button>
-    <button data-l="night" class="on">🌃 夜の灯り</button>
-    <button data-l="pins" class="on">📍 国ピン</button>
-    <button data-l="spin" class="on">🔄 自転</button>
-  </div>
-</div>
-
-<div id="search"><input id="searchBox" type="text" placeholder="国名で検索（例：日本、Brazil）→ Enter で移動" /></div>
-
-<div id="hint">
-  <b>ドラッグ</b>で回転 &nbsp;·&nbsp; <b>ホイール</b>でズーム &nbsp;·&nbsp; <b>📍ピンをクリック</b>で首都・人口
-</div>
-
-<div id="card"></div>
-
-<div id="boot">地球を生成中… テクスチャ読み込み<div class="bar"><i id="bootbar"></i></div></div>
-<div id="err"></div>
-
-<script type="importmap">
-{ "imports": { "three": "https://unpkg.com/three@0.160.0/build/three.module.js" } }
-</script>
-
-<script type="module">
 import * as THREE from 'three';
 
 const bootEl=document.getElementById('boot'), bootbar=document.getElementById('bootbar'), errEl=document.getElementById('err');
@@ -414,7 +328,7 @@ try {
   // 本物のNASA地図テクスチャを取得して手描き版を差し替え。
   // ①同梱の textures/（最優先・file://で確実）→ ②CDN の順でフォールバック。
   (function upgradeTextures(){
-    const LOCAL='textures/';
+    const LOCAL='static/textures/';
     const CDN='https://raw.githubusercontent.com/mrdoob/three.js/r160/examples/textures/planets/';
     const ld=new THREE.TextureLoader(); ld.setCrossOrigin('anonymous');
     const tryLoad=(srcs)=> new Promise(res=>{
@@ -528,6 +442,3 @@ try {
   animate();
 
 } catch(e){ fail(e&&e.message?e.message:String(e), e); }
-</script>
-</body>
-</html>
