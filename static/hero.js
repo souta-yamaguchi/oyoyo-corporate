@@ -1,165 +1,160 @@
-// Hero 演出制御
-import { createEarth } from './earth.js';
+'use strict';
 
-const SOURCE_LABEL = {
-  bluesky: 'Bluesky',
-  youtube: 'YouTube',
-  mastodon: 'Mastodon',
-  reddit: 'Reddit',
-  hackernews: 'Hacker News',
-  lemmy: 'Lemmy',
-};
+(function () {
+  const SOURCE_LABEL = {
+    bluesky: 'Bluesky',
+    youtube: 'YouTube',
+    mastodon: 'Mastodon',
+    reddit: 'Reddit',
+    hackernews: 'Hacker News',
+    lemmy: 'Lemmy',
+  };
+  const SOURCE_ICON = {
+    bluesky: '🦋',
+    youtube: '▶',
+    mastodon: '🐘',
+    reddit: '🟠',
+    hackernews: '🔶',
+    lemmy: '🐭',
+  };
 
-const SOURCE_ICON = {
-  bluesky: '🦋',
-  youtube: '▶',
-  mastodon: '🐘',
-  reddit: '🟠',
-  hackernews: '🔶',
-  lemmy: '🐭',
-};
-
-init();
-
-async function init() {
-  const container = document.getElementById('hero-earth');
-  if (!container) return;
-
-  // 地球を初期化
-  const earth = createEarth(container);
-
-  // コメントを取得
-  const items = await loadFeedItems();
+  // earth-embed.html (iframe) は earth_globe を一切改変せず読み込む。
+  // 親側から CSS を inject して、 地球以外の UI 部品 (上部メニュー・検索・ヒント等) だけ非表示にする。
+  const iframe = document.getElementById('hero-earth-iframe');
+  if (iframe) {
+    iframe.addEventListener('load', () => {
+      try {
+        const doc = iframe.contentDocument;
+        if (!doc) return;
+        const style = doc.createElement('style');
+        style.textContent = `
+          #top, #hint, #search, #card { display: none !important; }
+          #boot { background: transparent !important; }
+          body { background: transparent !important; }
+        `;
+        doc.head.appendChild(style);
+      } catch (e) { /* same origin only */ }
+    });
+  }
 
   // 演出シーケンス
-  // 0.4s: 地球出現
-  // 2.0s ~: コメント順次 pop-in
-  // 4.5s: タイトル fade-in
-  setTimeout(() => earth.enter(), 400);
-  setTimeout(() => populateBubbles(items), 2000);
-  setTimeout(() => showTitle(), 4500);
-}
+  setTimeout(populate, 2000);
+  setTimeout(showTitle, 4500);
+  setTimeout(showScroll, 5400);
 
-async function loadFeedItems() {
-  try {
-    const res = await fetch('data/oyoyo-feed.json', { cache: 'no-store' });
-    if (!res.ok) return [];
-    const data = await res.json();
-    return Array.isArray(data.items) ? data.items : [];
-  } catch (e) {
-    return [];
+  async function populate() {
+    const layer = document.getElementById('hero-bubbles');
+    if (!layer) return;
+    let items = [];
+    try {
+      const res = await fetch('data/oyoyo-feed.json', { cache: 'no-store' });
+      if (res.ok) {
+        const data = await res.json();
+        items = Array.isArray(data.items) ? data.items : [];
+      }
+    } catch (e) { /* noop */ }
+    const isMobile = window.innerWidth < 720;
+    const slots = isMobile ? mobileSlots() : desktopSlots();
+    const usable = pickItems(items, slots.length);
+    slots.forEach((slot, idx) => {
+      const item = usable[idx];
+      if (!item) return;
+      const b = buildBubble(item);
+      b.style.left = slot.left;
+      b.style.top = slot.top;
+      layer.appendChild(b);
+      setTimeout(() => b.classList.add('is-shown'), idx * 110);
+    });
   }
-}
 
-function populateBubbles(items) {
-  const layer = document.getElementById('hero-bubbles');
-  if (!layer) return;
-  const isMobile = window.innerWidth < 720;
-  const slots = isMobile ? mobileSlots() : desktopSlots();
-  const usable = pickItems(items, slots.length);
-
-  slots.forEach((slot, idx) => {
-    const item = usable[idx];
-    if (!item) return;
-    const bubble = buildBubble(item);
-    bubble.style.left = slot.left;
-    bubble.style.top = slot.top;
-    bubble.style.transformOrigin = slot.origin || 'center';
-    layer.appendChild(bubble);
-    // 順番に pop-in
-    setTimeout(() => bubble.classList.add('is-shown'), idx * 110);
-  });
-}
-
-function pickItems(items, count) {
-  // 各ソースから均等に取って多様性確保
-  const bySource = {};
-  items.forEach(it => {
-    (bySource[it.source] = bySource[it.source] || []).push(it);
-  });
-  const sources = Object.keys(bySource);
-  const picked = [];
-  let safety = 0;
-  while (picked.length < count && safety < count * 4) {
-    for (const src of sources) {
-      if (picked.length >= count) break;
-      const next = bySource[src].shift();
-      if (next) picked.push(next);
+  function pickItems(items, count) {
+    const bySource = {};
+    items.forEach(it => { (bySource[it.source] = bySource[it.source] || []).push(it); });
+    const sources = Object.keys(bySource);
+    const picked = [];
+    let safety = 0;
+    while (picked.length < count && safety < count * 4) {
+      for (const src of sources) {
+        if (picked.length >= count) break;
+        const next = bySource[src].shift();
+        if (next) picked.push(next);
+      }
+      safety++;
+      if (sources.every(s => bySource[s].length === 0)) break;
     }
-    safety++;
-    if (sources.every(s => bySource[s].length === 0)) break;
+    return picked;
   }
-  return picked;
-}
 
-function buildBubble(item) {
-  const b = document.createElement('div');
-  b.className = 'hero-bubble';
-  const head = document.createElement('div');
-  head.className = 'hero-bubble-head';
-  const icon = document.createElement('span');
-  icon.className = 'hero-bubble-icon';
-  icon.textContent = SOURCE_ICON[item.source] || '✦';
-  const label = document.createElement('span');
-  label.className = 'hero-bubble-label';
-  label.textContent = (SOURCE_LABEL[item.source] || item.source) + 'のコメント';
-  head.appendChild(icon);
-  head.appendChild(label);
+  function buildBubble(item) {
+    const b = document.createElement('div');
+    b.className = 'hero-bubble';
+    const head = document.createElement('div');
+    head.className = 'hero-bubble-head';
+    const icon = document.createElement('span');
+    icon.className = 'hero-bubble-icon';
+    icon.textContent = SOURCE_ICON[item.source] || '✦';
+    const label = document.createElement('span');
+    label.className = 'hero-bubble-label';
+    label.textContent = (SOURCE_LABEL[item.source] || item.source) + 'のコメント';
+    head.appendChild(icon);
+    head.appendChild(label);
+    const body = document.createElement('div');
+    body.className = 'hero-bubble-body';
+    body.textContent = clip(item.text, 80);
+    b.appendChild(head);
+    b.appendChild(body);
+    if (item.author) {
+      const author = document.createElement('div');
+      author.className = 'hero-bubble-author';
+      author.textContent = item.author;
+      b.appendChild(author);
+    }
+    return b;
+  }
 
-  const body = document.createElement('div');
-  body.className = 'hero-bubble-body';
-  body.textContent = clip(item.text, 80);
+  function clip(s, n) {
+    if (!s) return '';
+    const t = String(s).replace(/\s+/g, ' ').trim();
+    return t.length > n ? t.slice(0, n) + '…' : t;
+  }
 
-  const author = document.createElement('div');
-  author.className = 'hero-bubble-author';
-  author.textContent = item.author || '';
+  function showTitle() {
+    const el = document.getElementById('hero-content');
+    if (el) el.classList.add('is-shown');
+  }
+  function showScroll() {
+    const el = document.querySelector('.hero-scroll');
+    if (el) el.classList.add('is-shown');
+  }
 
-  b.appendChild(head);
-  b.appendChild(body);
-  if (item.author) b.appendChild(author);
-  return b;
-}
-
-function clip(s, n) {
-  if (!s) return '';
-  const t = String(s).replace(/\s+/g, ' ').trim();
-  return t.length > n ? t.slice(0, n) + '…' : t;
-}
-
-function showTitle() {
-  const title = document.getElementById('hero-title');
-  if (title) title.classList.add('is-shown');
-}
-
-// 配置スロット: 地球を中心とした周囲のグリッド位置（vw/vh ベース）
-function desktopSlots() {
-  return [
-    { left: '4%',  top: '14%' },
-    { left: '20%', top: '6%' },
-    { left: '40%', top: '4%' },
-    { left: '60%', top: '5%' },
-    { left: '78%', top: '12%' },
-    { left: '2%',  top: '36%' },
-    { left: '82%', top: '32%' },
-    { left: '0%',  top: '58%' },
-    { left: '84%', top: '54%' },
-    { left: '6%',  top: '78%' },
-    { left: '22%', top: '88%' },
-    { left: '44%', top: '90%' },
-    { left: '64%', top: '88%' },
-    { left: '80%', top: '78%' },
-  ];
-}
-
-function mobileSlots() {
-  return [
-    { left: '3%',  top: '10%' },
-    { left: '50%', top: '4%' },
-    { left: '60%', top: '20%' },
-    { left: '2%',  top: '36%' },
-    { left: '62%', top: '54%' },
-    { left: '4%',  top: '60%' },
-    { left: '40%', top: '82%' },
-    { left: '60%', top: '88%' },
-  ];
-}
+  function desktopSlots() {
+    return [
+      { left: '3%',  top: '10%' },
+      { left: '20%', top: '4%'  },
+      { left: '40%', top: '2%'  },
+      { left: '60%', top: '3%'  },
+      { left: '78%', top: '10%' },
+      { left: '1%',  top: '34%' },
+      { left: '82%', top: '30%' },
+      { left: '0%',  top: '60%' },
+      { left: '84%', top: '56%' },
+      { left: '5%',  top: '82%' },
+      { left: '22%', top: '92%' },
+      { left: '46%', top: '94%' },
+      { left: '66%', top: '92%' },
+      { left: '80%', top: '82%' },
+    ];
+  }
+  function mobileSlots() {
+    return [
+      { left: '2%',  top: '8%'  },
+      { left: '54%', top: '4%'  },
+      { left: '64%', top: '22%' },
+      { left: '0%',  top: '40%' },
+      { left: '62%', top: '58%' },
+      { left: '2%',  top: '66%' },
+      { left: '38%', top: '86%' },
+      { left: '64%', top: '90%' },
+    ];
+  }
+})();

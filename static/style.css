@@ -171,7 +171,7 @@ button { font-family: inherit; }
 .hamburger.is-open span:nth-child(2) { opacity: 0; }
 .hamburger.is-open span:nth-child(3) { transform: translateY(-7.5px) rotate(-45deg); }
 
-/* ===== Hero (地球 + コメント) ===== */
+/* ===== Hero (地球 iframe + コメント + souta-portal タイトル) ===== */
 .hero {
   position: relative;
   margin: 0 -24px 80px;
@@ -180,16 +180,18 @@ button { font-family: inherit; }
   min-height: 720px;
   max-height: 1000px;
   overflow: hidden;
-  background: radial-gradient(circle at center, #051026 0%, #01030a 70%);
+  isolation: isolate;
+  background: #01030a;
 }
-.hero-earth {
+#hero-earth-iframe {
   position: absolute;
   inset: 0;
   width: 100%;
   height: 100%;
+  border: 0;
   pointer-events: none;
+  z-index: 1;
 }
-.hero-earth canvas { display: block; }
 .hero-bubbles {
   position: absolute;
   inset: 0;
@@ -239,40 +241,69 @@ button { font-family: inherit; }
   margin-top: 6px;
   letter-spacing: 0.02em;
 }
-.hero-title {
+
+/* ----- souta-portal とまったく同じタイトル＆演出 ----- */
+.hero-content {
   position: absolute;
   left: 50%;
   top: 50%;
-  transform: translate(-50%, -50%) scale(0.94);
-  z-index: 4;
-  font-size: clamp(34px, 5.5vw, 72px);
-  font-weight: 800;
-  letter-spacing: 0.06em;
-  color: #fff;
-  text-shadow: 0 0 18px rgba(10, 24, 60, 0.85), 0 0 40px rgba(40, 70, 140, 0.6);
-  white-space: nowrap;
+  transform: translate(-50%, -50%) translateY(20px);
+  z-index: 50;
   opacity: 0;
-  transition: opacity 1.6s ease-out, transform 1.6s cubic-bezier(0.16, 1, 0.3, 1);
   pointer-events: none;
+  text-align: center;
+  white-space: nowrap;
 }
-.hero-title.is-shown {
-  opacity: 1;
-  transform: translate(-50%, -50%) scale(1);
+.hero-content.is-shown {
+  animation: hero-title-fade 1.0s ease-out forwards;
 }
+@keyframes hero-title-fade {
+  from { opacity: 0; transform: translate(-50%, -50%) translateY(20px); }
+  to   { opacity: 1; transform: translate(-50%, -50%) translateY(0); }
+}
+.hero-content h1 {
+  margin: 0;
+  font-size: 56px;
+  font-weight: bold;
+  letter-spacing: 4px;
+  background: linear-gradient(90deg, #ff7eb6, #ffb86c, #8be9fd, #5fd97b);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: shimmer 8s linear infinite;
+}
+@keyframes shimmer {
+  0% { background-position: 0% center; }
+  100% { background-position: 200% center; }
+}
+
 .hero-scroll {
   position: absolute;
+  bottom: 18px;
   left: 50%;
-  bottom: 28px;
-  transform: translateX(-50%);
   z-index: 5;
   font-size: 11px;
   letter-spacing: 6px;
-  color: rgba(255, 255, 255, 0.55);
-  animation: scroll-bounce 2.2s ease-in-out infinite;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: 'Helvetica Neue', sans-serif;
+  pointer-events: none;
+  opacity: 0;
+  transform: translateX(-50%);
+}
+.hero-scroll.is-shown {
+  animation:
+    intro-fade-scroll 0.8s ease-out forwards,
+    scroll-bounce 2.4s ease-in-out 0.8s infinite;
+}
+@keyframes intro-fade-scroll {
+  from { opacity: 0; transform: translateX(-50%) translateY(20px); }
+  to   { opacity: 1; transform: translateX(-50%) translateY(0); }
 }
 @keyframes scroll-bounce {
   0%, 100% { transform: translateX(-50%) translateY(0); }
-  50% { transform: translateX(-50%) translateY(6px); }
+  50%      { transform: translateX(-50%) translateY(8px); }
 }
 
 @media (max-width: 720px) {
@@ -286,8 +317,9 @@ button { font-family: inherit; }
   }
   .hero-bubble-head { font-size: 10px; }
   .hero-bubble-body { font-size: 11.5px; }
-  .hero-title {
-    font-size: clamp(30px, 8vw, 48px);
+  .hero-content h1 {
+    font-size: 36px;
+    letter-spacing: 2px;
   }
 }
 
