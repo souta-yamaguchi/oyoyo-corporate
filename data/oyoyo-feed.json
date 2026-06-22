@@ -1,12 +1,96 @@
 {
-  "updated_at": "2026-06-21T22:09:21+00:00",
-  "count": 27,
+  "updated_at": "2026-06-22T22:43:22+00:00",
+  "count": 26,
   "sources": {
+    "youtube": 8,
     "bluesky": 12,
-    "youtube": 9,
     "mastodon": 6
   },
   "items": [
+    {
+      "source": "youtube",
+      "text": "#OYOYO# King white money ft mpu",
+      "author": "King white money",
+      "url": "https://www.youtube.com/watch?v=yAVGpMZVD1c",
+      "posted_at": "2026-06-22T20:24:00Z",
+      "lang": "",
+      "video_title": "#OYOYO# King white money ft mpu",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "ｵﾖﾖ…最近溜めてた銀河の一票を最新話まで一気見していたらこの時間に",
+      "author": "@sanatty.bsky.social",
+      "url": "https://bsky.app/profile/sanatty.bsky.social/post/3movis5drukwb",
+      "posted_at": "2026-06-22T18:19:52.071Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "明日の用事の嫌さも混じって気持ちがオヨヨ\n無事にこなせたらスタバに寄って良いものとする☝️",
+      "author": "@roukaukauka.bsky.social",
+      "url": "https://bsky.app/profile/roukaukauka.bsky.social/post/3mouz4amr4c2u",
+      "posted_at": "2026-06-22T13:39:10.962Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "同居猫のようなハイパーわがままプリンセスが野良暮らしをする可能性があったと思うと オヨヨ すぐに保護されてほんまにラッキーガールです",
+      "author": "@arsswh.bsky.social",
+      "url": "https://bsky.app/profile/arsswh.bsky.social/post/3mouugrwsfs25",
+      "posted_at": "2026-06-22T12:15:35.867Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "企画に参加してる以上3日に1📮くらい生存確認にしたいなぁと思いつつ。10名以上の場での自我、苦手なんですね。\n\n見るのは好き。やるのが苦手……ｵﾖﾖ……",
+      "author": "@jio0nnn.bsky.social",
+      "url": "https://bsky.app/profile/jio0nnn.bsky.social/post/3mourzkfpt227",
+      "posted_at": "2026-06-22T11:32:26.871Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "地元、割とピリつきが少ないというか、明らかに困ってたら大丈夫…？くらいの雰囲気は出してくれて、東京にもあったんだ。と福山雅治をやらせてもろてるが、この前はまだ車内に余裕ある中でもマジで一歩も詰めてくれず、そのせいで上着バッグiPhoneのストラップ全部挟まったまま動けなくなっても完全無視されオヨヨとなった",
+      "author": "@suama-azu.bsky.social",
+      "url": "https://bsky.app/profile/suama-azu.bsky.social/post/3mouo64emuc22",
+      "posted_at": "2026-06-22T10:23:22.163Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "オヨヨ　唐代詩人キチガイﾍﾞｸﾞｰﾙでも作ろうかなあ",
+      "author": "@mi-mi2929.keik.info",
+      "url": "https://bsky.app/profile/mi-mi2929.keik.info/post/3moukl3jjec2a",
+      "posted_at": "2026-06-22T09:19:02.262Z",
+      "lang": ""
+    },
+    {
+      "source": "bluesky",
+      "text": "9話の描きたいとこ描き終わってないのに10話がきてしまう……ｵﾖﾖ……（こせんじょう中ですよ",
+      "author": "@ena-el2.bsky.social",
+      "url": "https://bsky.app/profile/ena-el2.bsky.social/post/3moubm5ss322t",
+      "posted_at": "2026-06-22T06:38:35.066Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "金沢マラソン落ちててオヨヨ...",
+      "author": "@ebullientfuture.bsky.social",
+      "url": "https://bsky.app/profile/ebullientfuture.bsky.social/post/3mottc2c6g22d",
+      "posted_at": "2026-06-22T02:22:23.171Z",
+      "lang": "ja"
+    },
+    {
+      "source": "youtube",
+      "text": "when God is your Eze oyoyo #viral #viralvideo #shorts #shortvideo",
+      "author": "Blessing family",
+      "url": "https://www.youtube.com/watch?v=EV-3AZrLKBo",
+      "posted_at": "2026-06-21T21:18:30Z",
+      "lang": "",
+      "video_title": "when God is your Eze oyoyo #viral #viralvideo #shorts #shortvideo",
+      "kind": "video_title"
+    },
     {
       "source": "bluesky",
       "text": "今回グッズ見送ったの悔しいｨ~~😭グッズはどうにか出来なかったｵﾖﾖ",
@@ -34,16 +118,6 @@
       "lang": "ja"
     },
     {
-      "source": "youtube",
-      "text": "David oyoyo",
-      "author": "Uzonwanne",
-      "url": "https://www.youtube.com/watch?v=RonQoT6lrw4",
-      "posted_at": "2026-06-21T14:42:03Z",
-      "lang": "",
-      "video_title": "David oyoyo",
-      "kind": "video_title"
-    },
-    {
       "source": "bluesky",
       "text": "ｵﾖﾖ〜",
       "author": "@boxinibaqune.blue",
@@ -57,90 +131,6 @@
       "author": "@zerokonron9.bsky.social",
       "url": "https://bsky.app/profile/zerokonron9.bsky.social/post/3morz3qkebk2o",
       "posted_at": "2026-06-21T09:00:55.065Z",
-      "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "oyoyo",
-      "author": "MUHAMMAD ALI 7",
-      "url": "https://www.youtube.com/watch?v=yxMZMbdFJsY",
-      "posted_at": "2026-06-21T03:50:00Z",
-      "lang": "",
-      "video_title": "oyoyo",
-      "kind": "video_title"
-    },
-    {
-      "source": "bluesky",
-      "text": "今だにフォンテーヌで旅人がリネリネに怒ってたのがファデュイだからって思ってる人たちが多数いるみたいでオヨヨ……。\nあれはファデュイだったからじゃなくて、裁判の証人という立場に立ってくれた旅人にファデュイである事を黙っていたリネリネの不誠実さに怒ってたんだって……。",
-      "author": "@tsukumo1.bsky.social",
-      "url": "https://bsky.app/profile/tsukumo1.bsky.social/post/3moqh3mz5gc26",
-      "posted_at": "2026-06-20T18:06:05.160Z",
-      "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "oyoyo🤍🌹🫠",
-      "author": "YA_ALLAH.🤍🕋",
-      "url": "https://www.youtube.com/watch?v=zbTMoucM_n4",
-      "posted_at": "2026-06-20T15:24:09Z",
-      "lang": "",
-      "video_title": "oyoyo🤍🌹🫠",
-      "kind": "video_title"
-    },
-    {
-      "source": "bluesky",
-      "text": "一時停止見損ねて突っ込んできた相手が悪い‼️ってずっと思ってるので貰い事故って言い張ってるんですけどこの間保険から2割負担です😊って通知来てｵﾖﾖ…そりゃそう…私の車…",
-      "author": "@azknakn2691.bsky.social",
-      "url": "https://bsky.app/profile/azknakn2691.bsky.social/post/3mopyluzhz22w",
-      "posted_at": "2026-06-20T13:46:43.860Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "Xのリポストで目にしたぬいぐるみだらけの部屋の写真にえ〜あいですねって言っている人がいたので、すぐに疑うのいくなくない…？って思っちゃったのコーナーだけれど、その人の他のポストを見たら実在の人物の数十年後っつーことでえ〜あいで作成していた画像を投稿していたので、オヨヨ…ってなってしまいマントヒヒ。うそをうそであると見抜ける人でないとXを使うのは難しい。ペケ。",
-      "author": "@roadtosky2002.bsky.social",
-      "url": "https://bsky.app/profile/roadtosky2002.bsky.social/post/3mopcyhrnz22b",
-      "posted_at": "2026-06-20T07:20:06.169Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "ボートレースも横断幕廃止になるなんて…オヨヨ…",
-      "author": "@yumiiii125.bsky.social",
-      "url": "https://bsky.app/profile/yumiiii125.bsky.social/post/3monu7z5gus2o",
-      "posted_at": "2026-06-19T17:23:10.964Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "オヨヨ〜なんでこんないやいや原稿してるのオタク意味わかんない",
-      "author": "@snow1005.bsky.social",
-      "url": "https://bsky.app/profile/snow1005.bsky.social/post/3monsuinqps2o",
-      "posted_at": "2026-06-19T16:58:50.161Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "ﾂｲ…Xにも投稿したんだけどサーチバン食らってるらしくて本当に終わったかもしれん　ちいさい垢は見つけてもらえなかったらおわりだよ…ｵﾖﾖ……",
-      "author": "@ushiisaba.bsky.social",
-      "url": "https://bsky.app/profile/ushiisaba.bsky.social/post/3monfvookw22c",
-      "posted_at": "2026-06-19T13:06:52.071Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "秘匿が美味すぎて真っ先にあれを考えました😚\n\nｵﾖﾖ〜〜〜〜〜〜〜\n涙しか出ない",
-      "author": "@sunayo.bsky.social",
-      "url": "https://bsky.app/profile/sunayo.bsky.social/post/3mon2rzvovk2z",
-      "posted_at": "2026-06-19T09:48:00.166Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "今新人二人いて新人Aはできるけど新人Bはできない\nでも今Bに任せてる仕事もAにやらすのはちょっと不安なので交代させることもできないみたいな状態や　ｵﾖﾖ……",
-      "author": "@cs9s.bsky.social",
-      "url": "https://bsky.app/profile/cs9s.bsky.social/post/3mom66p6aws2q",
-      "posted_at": "2026-06-19T01:16:05.576Z",
       "lang": "ja"
     },
     {
