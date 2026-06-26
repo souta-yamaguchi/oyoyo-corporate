@@ -1,18 +1,72 @@
 {
-  "updated_at": "2026-06-25T22:16:30+00:00",
-  "count": 29,
+  "updated_at": "2026-06-26T22:05:39+00:00",
+  "count": 27,
   "sources": {
+    "youtube": 9,
     "bluesky": 12,
-    "youtube": 11,
     "mastodon": 6
   },
   "items": [
     {
+      "source": "youtube",
+      "text": "MAMA OYOYO 🌞 | The Most Beautiful African Kids Song",
+      "author": "Kids Sphere Tv",
+      "url": "https://www.youtube.com/watch?v=LUncc29fwec",
+      "posted_at": "2026-06-26T15:30:33Z",
+      "lang": "",
+      "video_title": "MAMA OYOYO 🌞 | The Most Beautiful African Kids Song",
+      "kind": "video_title"
+    },
+    {
       "source": "bluesky",
-      "text": "臨時休校になったせいで来週の休みが無くなり、グラッテに行けなくなりました……😭ｵﾖﾖ",
-      "author": "@dukenori.bsky.social",
-      "url": "https://bsky.app/profile/dukenori.bsky.social/post/3mp5ggq5zak2d",
-      "posted_at": "2026-06-25T21:58:59.764Z",
+      "text": "！！ｵﾖﾖ…万寅さんに言っていただけるなんて…！！下書き頑張って綺麗にしちゃおっ😤\nあーー見たすぎます見たすぎます😭😭待ってます😭😭😭",
+      "author": "@skm2sm.bsky.social",
+      "url": "https://bsky.app/profile/skm2sm.bsky.social/post/3mp75x6tocs24",
+      "posted_at": "2026-06-26T14:32:27.168Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "オヨヨ",
+      "author": "@myanmeatark.bsky.social",
+      "url": "https://bsky.app/profile/myanmeatark.bsky.social/post/3mp74qgbemc2h",
+      "posted_at": "2026-06-26T14:10:49.271Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "もし自分の県だったらと考えるとｵﾖﾖだよ🥲イベント数日前にこんな大きな揺れあったらって考えると家族の心配がデカくて行かせてもらえるかもわからんし…ただでさえ台風でｵﾖﾖなのに🥲皆さんご安全に🥲",
+      "author": "@genki-daikon.bsky.social",
+      "url": "https://bsky.app/profile/genki-daikon.bsky.social/post/3mp743vecrs2k",
+      "posted_at": "2026-06-26T13:59:16.573Z",
+      "lang": "ja"
+    },
+    {
+      "source": "youtube",
+      "text": "Eze Ebube....  Eze Oyoyo #shortvideo #shorts #christainmusic #viralshort",
+      "author": "bae4realz",
+      "url": "https://www.youtube.com/watch?v=6qTwm9SZRO0",
+      "posted_at": "2026-06-26T09:23:45Z",
+      "lang": "",
+      "video_title": "Eze Ebube....  Eze Oyoyo #shortvideo #shorts #christainmusic #viralshort",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "oyoyo new song trending",
+      "author": "mista ji",
+      "url": "https://www.youtube.com/watch?v=DgW64l0XbFQ",
+      "posted_at": "2026-06-26T07:38:28Z",
+      "lang": "",
+      "video_title": "oyoyo new song trending",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "じ...実はまだ紙にもなってなくてェ..._(´-`_ _)_ｵﾖﾖ",
+      "author": "@wasure-iku.bsky.social",
+      "url": "https://bsky.app/profile/wasure-iku.bsky.social/post/3mp5vdorwzk2i",
+      "posted_at": "2026-06-26T02:25:43.364Z",
       "lang": "ja"
     },
     {
@@ -23,16 +77,6 @@
       "posted_at": "2026-06-25T13:43:07Z",
       "lang": "",
       "video_title": "Oyoyo #keşfet #akım # #kpop ytdayibenionecikarnolur",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "yuşo oyoyo yapmayın benim gibi telefonunuz gider",
-      "author": "👑əli baba pro👑 ",
-      "url": "https://www.youtube.com/watch?v=L_kriAjQ6qY",
-      "posted_at": "2026-06-25T11:57:02Z",
-      "lang": "",
-      "video_title": "yuşo oyoyo yapmayın benim gibi telefonunuz gider",
       "kind": "video_title"
     },
     {
@@ -92,75 +136,11 @@
       "lang": "ja"
     },
     {
-      "source": "youtube",
-      "text": "Oyoyo ckkkksellll olduuu#ytdayibenionecikarnolur #keşfet #keşfet #keşfet #kesfet",
-      "author": "sieun editssss",
-      "url": "https://www.youtube.com/watch?v=MryoEi5HFpc",
-      "posted_at": "2026-06-24T12:48:58Z",
-      "lang": "",
-      "video_title": "Oyoyo ckkkksellll olduuu#ytdayibenionecikarnolur #keşfet #keşfet #keşfet #kesfet",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "#goviral  dancing to Eze Oyoyo by: Davidjonesdavid💃👌",
-      "author": "Mercedita Love",
-      "url": "https://www.youtube.com/watch?v=yuoas2kCVUk",
-      "posted_at": "2026-06-24T12:19:07Z",
-      "lang": "",
-      "video_title": "#goviral  dancing to Eze Oyoyo by: Davidjonesdavid💃👌",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "オヨヨドォースララフェルすこ",
-      "author": "@イワイヨヨ",
-      "url": "https://www.youtube.com/watch?v=SP3oA080798",
-      "posted_at": "2026-06-24T10:52:56Z",
-      "lang": "",
-      "video_title": "オヨヨドォース！ #ff14",
-      "kind": "comment"
-    },
-    {
       "source": "bluesky",
       "text": "鬼体調崩し丸　この時期はいつもそう...オヨヨ",
       "author": "@ma-nu-ko.bsky.social",
       "url": "https://bsky.app/profile/ma-nu-ko.bsky.social/post/3mozpnz3f4c2v",
       "posted_at": "2026-06-24T10:33:27.766Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "ﾝｸﾞｳｳｳｳｳッッッ\nしかも今日夕飯いらない日だったというのは内緒だよｫ…オヨヨ…",
-      "author": "@skr618.bsky.social",
-      "url": "https://bsky.app/profile/skr618.bsky.social/post/3mozossgp4k23",
-      "posted_at": "2026-06-24T10:18:16.064Z",
-      "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "オヨヨドォース！ #ff14",
-      "author": "エオルゼア地形さんぽ",
-      "url": "https://www.youtube.com/watch?v=SP3oA080798",
-      "posted_at": "2026-06-24T09:40:29Z",
-      "lang": "",
-      "video_title": "オヨヨドォース！ #ff14",
-      "kind": "video_title"
-    },
-    {
-      "source": "bluesky",
-      "text": "オヨヨ…………………………………実況もあるんだけどだいぶボリュームあるからあんまり人におすすめしてきてないんだよな………………………まぢ将来勝ち取ってください、ﾊﾟｿﾝｺｺを………",
-      "author": "@mi-mi2929.keik.info",
-      "url": "https://bsky.app/profile/mi-mi2929.keik.info/post/3mozlqbkzw22j",
-      "posted_at": "2026-06-24T09:23:09.070Z",
-      "lang": ""
-    },
-    {
-      "source": "bluesky",
-      "text": "HDDは衝撃に弱いよー！って言われましてん。SDカードは通電必須って🥺\nスマホから直接データを別のものに保存したいんですよね。私、今iPadしか持ってなくて。\nSSDもいつかは…ですよね。数年に1度買い換えるの？🥺💸ｵﾖﾖ\n\nどよーんとしますよね🤭 撮ってる時は気にならないのに後で見ると暗ぇ！濁ってる！って思います☁おしゃれ建築とかだと撮り方次第で何とかなるのかな…夜の撮影は諦め気味だし🙄",
-      "author": "@3mojiy.bsky.social",
-      "url": "https://bsky.app/profile/3mojiy.bsky.social/post/3mozljzzf3s2p",
-      "posted_at": "2026-06-24T09:19:41.067Z",
       "lang": "ja"
     },
     {
