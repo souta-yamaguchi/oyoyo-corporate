@@ -1,12 +1,124 @@
 {
-  "updated_at": "2026-06-30T22:12:14+00:00",
-  "count": 23,
+  "updated_at": "2026-07-01T22:14:07+00:00",
+  "count": 27,
   "sources": {
+    "youtube": 9,
     "bluesky": 12,
-    "youtube": 8,
-    "mastodon": 3
+    "mastodon": 6
   },
   "items": [
+    {
+      "source": "youtube",
+      "text": "ওর চোখে প্রচুর মায়া ❤️ #omoronfire #funny #alwaysonfire #comedy #fry #unfrezzmyaccount #oyoyo #opob",
+      "author": "Omor on fire shorts ",
+      "url": "https://www.youtube.com/watch?v=meIOlg7wzzk",
+      "posted_at": "2026-07-01T17:46:07Z",
+      "lang": "",
+      "video_title": "ওর চোখে প্রচুর মায়া ❤️ #omoronfire #funny #alwaysonfire #comedy #fry #unfrezzmyaccount #oyoyo #opob",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "🚨LE SCANDALE OYOYO JESUS ! 😱🙏💔 Trahison de Minuit &amp; Faux Miracles 🕛🕯️🚨",
+      "author": "Sous l'arbre à palabre ",
+      "url": "https://www.youtube.com/watch?v=O3J_T7UlQRw",
+      "posted_at": "2026-07-01T17:27:11Z",
+      "lang": "",
+      "video_title": "🚨LE SCANDALE OYOYO JESUS ! 😱🙏💔 Trahison de Minuit &amp; Faux Miracles 🕛🕯️🚨",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "Oyoyo Jesus ",
+      "author": "SP",
+      "url": "https://www.youtube.com/watch?v=s643S8JwTPQ",
+      "posted_at": "2026-07-01T15:50:30Z",
+      "lang": "",
+      "video_title": "Oyoyo Jesus ",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "オヨヨ…",
+      "author": "@oisiisiitake.bsky.social",
+      "url": "https://bsky.app/profile/oisiisiitake.bsky.social/post/3mpluiiv2m22f",
+      "posted_at": "2026-07-01T15:47:47.226Z",
+      "lang": "ja"
+    },
+    {
+      "source": "youtube",
+      "text": "Happy new month my beautiful Oyoyo family. God bless you all🙏#newmonth #monthlyblessings #viral",
+      "author": "OYOYO KITCHEN  TV",
+      "url": "https://www.youtube.com/watch?v=4_VnRcSXEKM",
+      "posted_at": "2026-07-01T13:39:21Z",
+      "lang": "",
+      "video_title": "Happy new month my beautiful Oyoyo family. God bless you all🙏#newmonth #monthlyblessings #viral",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "見たいけど‼️見たいけど‼️‼️‼️\nそれはそれとして……某人はめちゃくちゃ推しでありめちゃくちゃ「「傷」」だからよ……😭😭😭\nオヨヨ……",
+      "author": "@hiiragi-knm.bsky.social",
+      "url": "https://bsky.app/profile/hiiragi-knm.bsky.social/post/3mpllz7lk622m",
+      "posted_at": "2026-07-01T13:16:03.619Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "ｵﾖﾖ…ありがとうございます…確かに耳もよく聞くなあ",
+      "author": "@rararayu.bsky.social",
+      "url": "https://bsky.app/profile/rararayu.bsky.social/post/3mplkyeyars2l",
+      "posted_at": "2026-07-01T12:57:42.635Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "急に残業祭りになってヨボヨボしてる\nオヨヨ",
+      "author": "@leseratte-mono.bsky.social",
+      "url": "https://bsky.app/profile/leseratte-mono.bsky.social/post/3mpliq7ffas2d",
+      "posted_at": "2026-07-01T12:17:21.522Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "隣からめっちゃ広東語聞こえるなーって横見たら15人ぐらい家族いてオヨヨ…",
+      "author": "@shimaninjin.bsky.social",
+      "url": "https://bsky.app/profile/shimaninjin.bsky.social/post/3mplbzctz6c2e",
+      "posted_at": "2026-07-01T10:17:11.424Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "オヨヨ……付き合って初日みたいな気持ちだ(あなたは毎日そうでは❓)",
+      "author": "@tanabe311.bsky.social",
+      "url": "https://bsky.app/profile/tanabe311.bsky.social/post/3mpl7rqjvxs2d",
+      "posted_at": "2026-07-01T09:37:08.524Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "アフターで１回連れて行ってもらったキリだけど、「五島人」というお店の食ってた魚の骨を持っていかれてオヨヨ....と思っていたら唐揚げにされて戻ってきた時最高だったからあそこもう一度行きたい",
+      "author": "@pckaiwa.bsky.social",
+      "url": "https://bsky.app/profile/pckaiwa.bsky.social/post/3mpl6f5kbnc2v",
+      "posted_at": "2026-07-01T09:12:12.627Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "ｵﾖﾖ…になりたいわけではなく！私は先日食べたシュークリームが美味しかった話とチャイナドレスいっぱい見れてすごい嬉しかった話がしたいの！！！！！仕事てめぇ首洗って待ってろ私が捌いてやる（大暴れ）",
+      "author": "@boxhakota.bsky.social",
+      "url": "https://bsky.app/profile/boxhakota.bsky.social/post/3mpkzivvg3k2e",
+      "posted_at": "2026-07-01T07:44:49.722Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "ベレトは天使長ルさんの部下(どこかのイベスト？で言ってたような)気がするけど…ｵﾖﾖベルフィ元はガブ君ルシさん系の髪色だったんだね…ｵﾖﾖ…ｵﾖﾖ",
+      "author": "@tudura8.bsky.social",
+      "url": "https://bsky.app/profile/tudura8.bsky.social/post/3mpk6zep2o22q",
+      "posted_at": "2026-06-30T23:50:51.431Z",
+      "lang": "ja"
+    },
     {
       "source": "bluesky",
       "text": "ｵﾖﾖ、運営お疲れ様です",
@@ -29,108 +141,6 @@
       "author": "@hamiru189.bsky.social",
       "url": "https://bsky.app/profile/hamiru189.bsky.social/post/3mpilvtkjbc2g",
       "posted_at": "2026-06-30T08:36:11.824Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "…実はﾊｹｰﾝになって再来月で通算5年になりまして…あのルール適応可能らしい😌\nここまでくるのが第3目標だったので良く頑張ったな…と…😭ｵﾖﾖ",
-      "author": "@closezukaa.bsky.social",
-      "url": "https://bsky.app/profile/closezukaa.bsky.social/post/3mpieehhgns2b",
-      "posted_at": "2026-06-30T06:21:16.820Z",
-      "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "Bishop James Ogwo Leak Videos With Church Women Of Oyoyo Ministry",
-      "author": "Edeson TV",
-      "url": "https://www.youtube.com/watch?v=8eKrDtMgpkQ",
-      "posted_at": "2026-06-30T04:33:01Z",
-      "lang": "",
-      "video_title": "Bishop James Ogwo Leak Videos With Church Women Of Oyoyo Ministry",
-      "kind": "video_title"
-    },
-    {
-      "source": "bluesky",
-      "text": "ｳ\nｵﾖﾖ…ﾖﾖ…",
-      "author": "@gsgo0407.bsky.social",
-      "url": "https://bsky.app/profile/gsgo0407.bsky.social/post/3mpi56gp4os2h",
-      "posted_at": "2026-06-30T04:12:35.124Z",
-      "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "much b a.k.a Mr oyoyo",
-      "author": "Edun Much B",
-      "url": "https://www.youtube.com/watch?v=Z8LsrGukiiY",
-      "posted_at": "2026-06-29T14:55:17Z",
-      "lang": "",
-      "video_title": "much b a.k.a Mr oyoyo",
-      "kind": "video_title"
-    },
-    {
-      "source": "bluesky",
-      "text": "し○とから帰ってきて車から降りたら隣の家のお母さんに声をかけられる。ほら、あそこ見てみてと言われて見てみると、ここらへんでは見たことがなかったサルが家の屋根の上に居た。器用に電線を渡っていって別の電柱へスタコラサッサ。別の地区だとサルがいるのはニュースで見ていたけれど、まさか自分の住む地区まで進出してきているとは…オヨヨ…ってなっちった。その後鬱蒼とした場所に消えていったが、味を占めて大量出現するようになっちゃったら、ちょっと、ちょっとちょっとだわさ…。",
-      "author": "@roadtosky2002.bsky.social",
-      "url": "https://bsky.app/profile/roadtosky2002.bsky.social/post/3mpgijanzvk2b",
-      "posted_at": "2026-06-29T12:30:09.563Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "脳内が伊作と広瀬で忙しい ｵﾖﾖ",
-      "author": "@oscarururu.bsky.social",
-      "url": "https://bsky.app/profile/oscarururu.bsky.social/post/3mpgaiapgts27",
-      "posted_at": "2026-06-29T10:06:25.464Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "Twitter、シナリオ好きな方も嫌いな方も攻撃的なツイート多くて怖よ…\nｵﾖﾖ…",
-      "author": "@negiwolf.bsky.social",
-      "url": "https://bsky.app/profile/negiwolf.bsky.social/post/3mpfxqudkg22m",
-      "posted_at": "2026-06-29T07:30:10.668Z",
-      "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "EZE OYOYO",
-      "author": "Blessing Paul",
-      "url": "https://www.youtube.com/watch?v=MJnlCQy2B58",
-      "posted_at": "2026-06-29T06:00:07Z",
-      "lang": "",
-      "video_title": "EZE OYOYO",
-      "kind": "video_title"
-    },
-    {
-      "source": "bluesky",
-      "text": "久保くんまた欠場なんや… ｵﾖﾖ",
-      "author": "@c39hope.bsky.social",
-      "url": "https://bsky.app/profile/c39hope.bsky.social/post/3mpf4lyxfbs2u",
-      "posted_at": "2026-06-28T23:24:17.178Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "大事にしてくれてる人がいるのに自信がないのはとても不誠実だ、、、オヨヨ、、、涙、、、、、",
-      "author": "@tanabe311.bsky.social",
-      "url": "https://bsky.app/profile/tanabe311.bsky.social/post/3mpeee3uyms2o",
-      "posted_at": "2026-06-28T16:10:21.670Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "もういい時期なのにｵﾖﾖ~な感じっぽいから今はやめておこう...の判断を下してる",
-      "author": "@cm25.bsky.social",
-      "url": "https://bsky.app/profile/cm25.bsky.social/post/3mpee366vqs2w",
-      "posted_at": "2026-06-28T16:05:22.265Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "〜だしねって打つとたまに\nだ・しね  で改行されてしまってｵﾖﾖ~ﾝとなる",
-      "author": "@tontamuro.bsky.social",
-      "url": "https://bsky.app/profile/tontamuro.bsky.social/post/3mpedx3qtgs2p",
-      "posted_at": "2026-06-28T16:03:04.360Z",
       "lang": "ja"
     },
     {
@@ -199,6 +209,15 @@
       "url": "https://fedibird.com/@mangarin/112642897774054025",
       "posted_at": "2024-06-19T10:50:16.000Z",
       "lang": "ja",
+      "video_title": "#オヨヨ @ mstdn.jp"
+    },
+    {
+      "source": "mastodon",
+      "text": "入荷案内です。市川みさこさんの「意地悪だけど憎めないオヨヨ歳時記篇」が入りました。市川みさこさんのコーナーにあります。ーーーーーーーーーーーーーー漫画林(札幌マンガ古本屋)は高価買取をしています。お気軽にお問合せ下さい（＾ω＾）mangarinsapporo@gmail.comTEL011-562-6103#漫画 #comic  #マンガ #漫画林 #manga #古本屋 #札幌 #comics #少年漫画 #青年漫画 #少女漫画 #Sapporo #Hokkaido #北海道 #石山通 #山鼻 #藻岩山 #市電 #ラノベ　#市川みさこ　#オヨヨ　#オヨネコぶーにゃん #しあわせさん",
+      "author": "@mangarin@fedibird.com",
+      "url": "https://fedibird.com/@mangarin/112642897774054025",
+      "posted_at": "2024-06-19T10:50:16.000Z",
+      "lang": "ja",
       "video_title": "#オヨヨ @ mastodon.social"
     },
     {
@@ -209,6 +228,24 @@
       "posted_at": "2024-04-15T14:09:08.000Z",
       "lang": "de",
       "video_title": "#oyoyo @ mastodon.social"
+    },
+    {
+      "source": "mastodon",
+      "text": "なんだかクソ真面目なことを言いたくなった夜。ついに自分も耄碌してきたか。#ｵﾖﾖ",
+      "author": "@repserc@kirishima.cloud",
+      "url": "https://kirishima.cloud/@repserc/111432046401800259",
+      "posted_at": "2023-11-18T14:34:50.000Z",
+      "lang": "ja",
+      "video_title": "#オヨヨ @ mstdn.jp"
+    },
+    {
+      "source": "mastodon",
+      "text": "角田龍平の蛤御門のヘン | KBS京都ラジオ | 2018/10/18/木 | 19:30-21:00 #radiko http://radiko.jp/share/?t=20181018193000&amp;sid=KBS#nowlistening #蛤御門のヘン #スケスケ #オヨヨ",
+      "author": "@kajio",
+      "url": "https://mstdn.jp/@kajio/100917200303232138",
+      "posted_at": "2018-10-18T14:51:12.279Z",
+      "lang": "ja",
+      "video_title": "#オヨヨ @ mstdn.jp"
     }
   ]
 }
