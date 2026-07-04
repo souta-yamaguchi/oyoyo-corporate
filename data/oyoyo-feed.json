@@ -1,12 +1,116 @@
 {
-  "updated_at": "2026-07-03T21:59:55+00:00",
-  "count": 28,
+  "updated_at": "2026-07-04T21:51:59+00:00",
+  "count": 27,
   "sources": {
+    "youtube": 9,
     "bluesky": 12,
-    "youtube": 10,
     "mastodon": 6
   },
   "items": [
+    {
+      "source": "youtube",
+      "text": "oyoyo #teoden #ytdayibenionecikarnolur #dahaonyedi ?#helinelveren #atayaşat",
+      "author": "Adasq",
+      "url": "https://www.youtube.com/watch?v=fWCeYkXnNcU",
+      "posted_at": "2026-07-04T21:14:15Z",
+      "lang": "",
+      "video_title": "oyoyo #teoden #ytdayibenionecikarnolur #dahaonyedi ?#helinelveren #atayaşat",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "#igboamaka #funny #shortsfeed #comedy #shorts #viral video#wahala too much #ayoolasmart #oyoyo",
+      "author": "Hommie comedy",
+      "url": "https://www.youtube.com/watch?v=b6vQvmFzJbE",
+      "posted_at": "2026-07-04T20:22:27Z",
+      "lang": "",
+      "video_title": "#igboamaka #funny #shortsfeed #comedy #shorts #viral video#wahala too much #ayoolasmart #oyoyo",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "😆 oyoyo",
+      "author": "STRIKE PUBG",
+      "url": "https://www.youtube.com/watch?v=0qi98Op0yPc",
+      "posted_at": "2026-07-04T15:27:37Z",
+      "lang": "",
+      "video_title": "😆 oyoyo",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "いっぱいアドバイスありがとうございます😭何を条件で探したらいいのかもわからずｵﾖﾖ🥲となっていたのでめちゃくちゃ助かります…\n家賃等も相談に乗ってくれるんですね、参考になります😖\nとりあえずスーモでいいなを探すところからやってみます〜！\nまた良かったらひとり暮らし相談させてください〜😭😭",
+      "author": "@ameinuobake.bsky.social",
+      "url": "https://bsky.app/profile/ameinuobake.bsky.social/post/3mpt7wt6wl22p",
+      "posted_at": "2026-07-04T14:01:17.730Z",
+      "lang": "ja"
+    },
+    {
+      "source": "youtube",
+      "text": "Oyoyo Chimo Naraekele Mgiribia Divine Voice International Choir ",
+      "author": "NPLA Lomè Togo (Togo 2000)",
+      "url": "https://www.youtube.com/watch?v=xv9BdRdvm8o",
+      "posted_at": "2026-07-04T12:59:34Z",
+      "lang": "",
+      "video_title": "Oyoyo Chimo Naraekele Mgiribia Divine Voice International Choir ",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "普段飲まないからチューハイ2杯でフラフラなって帰宅 ｵﾖﾖ",
+      "author": "@na2o8h.bsky.social",
+      "url": "https://bsky.app/profile/na2o8h.bsky.social/post/3mpsw4dcnlc2l",
+      "posted_at": "2026-07-04T11:05:25.022Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "Stage 1-2 (Super Gussun Oyoyo 2, SNES, Kan's, 1996)",
+      "author": "@videogamebeach.bsky.social",
+      "url": "https://bsky.app/profile/videogamebeach.bsky.social/post/3mpsvmstxkk26",
+      "posted_at": "2026-07-04T10:56:44.224Z",
+      "lang": "en"
+    },
+    {
+      "source": "bluesky",
+      "text": "無意識に右向きばかり描いてたことに気づいたのでどこかのタイミングで左向きとかそれ以外を挟まなければ……ｵﾖﾖ",
+      "author": "@makamogmog.bsky.social",
+      "url": "https://bsky.app/profile/makamogmog.bsky.social/post/3mpsmu2fqbc27",
+      "posted_at": "2026-07-04T08:19:42.522Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "気になったので動画撮ってたんですが音が消せてなくｵﾖﾖ",
+      "author": "@omochimochiwo.bsky.social",
+      "url": "https://bsky.app/profile/omochimochiwo.bsky.social/post/3mps7i44xqk2a",
+      "posted_at": "2026-07-04T04:20:24.020Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "ブルスカも全部追えてない気がする！😭昨夜は友人から電話かかってきてじゃむぱんさんのフートにも入れなかったし…オヨ…オヨヨ……",
+      "author": "@cd2fm.bsky.social",
+      "url": "https://bsky.app/profile/cd2fm.bsky.social/post/3mps25rl5ms2v",
+      "posted_at": "2026-07-04T02:45:08.221Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "ヨーテイ奇譚きてたの知らんくて最近ゲーム離れしてることに気づいてしまうオヨヨ…",
+      "author": "@umeongr3244.bsky.social",
+      "url": "https://bsky.app/profile/umeongr3244.bsky.social/post/3mprquryufk2g",
+      "posted_at": "2026-07-03T23:59:03.327Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "オヨヨ（泣いている）\n\n春日さんそれでいいヨォ・・・（オヨヨ）",
+      "author": "@imori30rou.bsky.social",
+      "url": "https://bsky.app/profile/imori30rou.bsky.social/post/3mprma5plxs25",
+      "posted_at": "2026-07-03T22:35:56.830Z",
+      "lang": "ja"
+    },
     {
       "source": "bluesky",
       "text": "DM5ヶ月放置事件(あまりにも最悪‼️)に衝撃受けすぎて胃がやられた　ぜ……脆弱\nみなさん追加のメッセージもなくフォローも外さず待ってくださっていたうえに焦り散らかしていたわたしに優しい言葉までかけてくださって……オヨヨ……\nもう二度とDM解放しないぞ　極論",
@@ -38,120 +142,6 @@
       "url": "https://bsky.app/profile/ydayo1.bsky.social/post/3mpqjjdmqns2i",
       "posted_at": "2026-07-03T12:14:43.226Z",
       "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "😭ｵﾖﾖ",
-      "author": "@swhiroshi501.bsky.social",
-      "url": "https://bsky.app/profile/swhiroshi501.bsky.social/post/3mpqgtkbmdc25",
-      "posted_at": "2026-07-03T11:26:44.924Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "オヨヨはこんな試合で投げる投手じゃない😭😭絶対ここから復活しような🥺\n勝ちパのオヨヨを待ってるから！！",
-      "author": "@intelligenceagents.bsky.social",
-      "url": "https://bsky.app/profile/intelligenceagents.bsky.social/post/3mpqgb6tfec2m",
-      "posted_at": "2026-07-03T11:16:29.324Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "オヨヨ…",
-      "author": "@kngaai.bsky.social",
-      "url": "https://bsky.app/profile/kngaai.bsky.social/post/3mpplewoty22g",
-      "posted_at": "2026-07-03T03:15:24.425Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "オセロ1話目を読切用に整えてるんだけど。サイトにUPしてる時は、あえて描かなかったところを、追加で描いてるので…49頁の予定が55頁前後になりそう。考えながら描いてるせいかいつもより描くスピード遅いかも。オヨヨ。あとシンプルに体調が悪い。",
-      "author": "@s-nh.bsky.social",
-      "url": "https://bsky.app/profile/s-nh.bsky.social/post/3mppaz5pmrk2o",
-      "posted_at": "2026-07-03T00:09:50.126Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "旅行用のデカめのしか持ってなくて😔オヨヨ😔",
-      "author": "@ma-nu-ko.bsky.social",
-      "url": "https://bsky.app/profile/ma-nu-ko.bsky.social/post/3mpp6we37ek2b",
-      "posted_at": "2026-07-02T23:32:28.623Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "みんなおはスト〜\n昨日はまけほ〜🥺\n下村君よく投げたし木下\nザキ、ドリス工藤もピンチよく抑えたが……\n及川君がオヨヨ川だったわ\n一向に良くなる気配ないので秋まで二軍でおやすみください💢‪\n今日からまた広島戦\n久々の大竹さん\n雨だけは降るなよー☔",
-      "author": "@stlike0323.bsky.social",
-      "url": "https://bsky.app/profile/stlike0323.bsky.social/post/3mpp4mehkts2x",
-      "posted_at": "2026-07-02T22:51:05.925Z",
-      "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "OYOYO AKARA BUSINESS 🤣🤣 #fyp #viralvideo #fun #viral #everyone #viralshorts #fypシ #akara",
-      "author": "Sir Funny Comedy TV ",
-      "url": "https://www.youtube.com/watch?v=buQCZLKV1mU",
-      "posted_at": "2026-07-02T18:20:19Z",
-      "lang": "",
-      "video_title": "OYOYO AKARA BUSINESS 🤣🤣 #fyp #viralvideo #fun #viral #everyone #viralshorts #fypシ #akara",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "Oyoyo | #tarutoban on #Twitch",
-      "author": "Taruto Ban Ch.",
-      "url": "https://www.youtube.com/watch?v=QrelHGjuR5U",
-      "posted_at": "2026-07-02T17:10:28Z",
-      "lang": "",
-      "video_title": "Oyoyo | #tarutoban on #Twitch",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "Oyoyo",
-      "author": "Adventures of Baby J",
-      "url": "https://www.youtube.com/watch?v=nRB-tmpIg3E",
-      "posted_at": "2026-07-02T16:39:35Z",
-      "lang": "",
-      "video_title": "Oyoyo",
-      "kind": "video_title"
-    },
-    {
-      "source": "bluesky",
-      "text": "留の縋るような顔にギュンッッッてなった😭😭😭\nオヨヨ…楽しみ…",
-      "author": "@hona34869.bsky.social",
-      "url": "https://bsky.app/profile/hona34869.bsky.social/post/3mpoh4eymxc2d",
-      "posted_at": "2026-07-02T16:26:20.722Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "もうオヨヨは下でじっくり調整させてあげてくれ…なんなら今シーズン上げなくてもいいから\nこんな落ちぶれた姿見ててツラいわ😭😭",
-      "author": "@intelligenceagents.bsky.social",
-      "url": "https://bsky.app/profile/intelligenceagents.bsky.social/post/3mpo6e6dohk2m",
-      "posted_at": "2026-07-02T13:49:38.932Z",
-      "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "Eze Oyoyo by David Jones David #ezeyoyo #igbomusic #gospelmusic #music",
-      "author": "African Traditions & ValuesFolkTales  ",
-      "url": "https://www.youtube.com/watch?v=PGN5RfibFug",
-      "posted_at": "2026-07-02T09:32:30Z",
-      "lang": "",
-      "video_title": "Eze Oyoyo by David Jones David #ezeyoyo #igbomusic #gospelmusic #music",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "Eze oyoyo🕺💃 #gospelmusic #viral #duet #shortvideo #love #short #trending #viralvideo",
-      "author": "Gospel DJ FlexGreat",
-      "url": "https://www.youtube.com/watch?v=h3aJXWPeiKQ",
-      "posted_at": "2026-07-02T07:37:57Z",
-      "lang": "",
-      "video_title": "Eze oyoyo🕺💃 #gospelmusic #viral #duet #shortvideo #love #short #trending #viralvideo",
-      "kind": "video_title"
     },
     {
       "source": "youtube",
