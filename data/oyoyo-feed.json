@@ -1,12 +1,104 @@
 {
-  "updated_at": "2026-07-25T21:45:56+00:00",
-  "count": 26,
+  "updated_at": "2026-07-26T21:52:41+00:00",
+  "count": 28,
   "sources": {
+    "youtube": 10,
     "bluesky": 12,
-    "youtube": 8,
     "mastodon": 6
   },
   "items": [
+    {
+      "source": "youtube",
+      "text": "Oyoyo maulidi",
+      "author": "Usman Narasulu",
+      "url": "https://www.youtube.com/watch?v=BJWLi_m0elQ",
+      "posted_at": "2026-07-26T21:48:30Z",
+      "lang": "",
+      "video_title": "Oyoyo maulidi",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "OYOYO Khiga welcome to gombe 2",
+      "author": "Siyasa 360 Hausa",
+      "url": "https://www.youtube.com/watch?v=Uieqx9IELpo",
+      "posted_at": "2026-07-26T17:14:53Z",
+      "lang": "",
+      "video_title": "OYOYO Khiga welcome to gombe 2",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "OYOYO Khiga welcome to gombe",
+      "author": "Siyasa 360 Hausa",
+      "url": "https://www.youtube.com/watch?v=2uvY0TEi_MQ",
+      "posted_at": "2026-07-26T16:51:37Z",
+      "lang": "",
+      "video_title": "OYOYO Khiga welcome to gombe",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "今日までの放置スタジオの存在TLで今知った　行けば良かった〜〜〜オヨヨ🫠",
+      "author": "@komomo-kozakura.bsky.social",
+      "url": "https://bsky.app/profile/komomo-kozakura.bsky.social/post/3mrkap3rj3k2w",
+      "posted_at": "2026-07-26T11:11:16.668Z",
+      "lang": "ja"
+    },
+    {
+      "source": "youtube",
+      "text": "oyoyo yerum sizii #keşfet #keşfet #roblox #pkxduniversd #pkxd #pkxdarquivos #keşfetteyiz #edit",
+      "author": "𝐛𝐞𝐥𝐥𝐲𝐗𝐃",
+      "url": "https://www.youtube.com/watch?v=AVec886yS98",
+      "posted_at": "2026-07-26T10:51:04Z",
+      "lang": "",
+      "video_title": "oyoyo yerum sizii #keşfet #keşfet #roblox #pkxduniversd #pkxd #pkxdarquivos #keşfetteyiz #edit",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "oyoyo sarı civcivim🥺💛 #keşfet #azerbaijan #ytdayibenionecikarnolur #automobile",
+      "author": "𝙇𝙞𝙙𝙞𝙬𝙠𝙖",
+      "url": "https://www.youtube.com/watch?v=NZyoGRgGuwk",
+      "posted_at": "2026-07-26T09:20:45Z",
+      "lang": "",
+      "video_title": "oyoyo sarı civcivim🥺💛 #keşfet #azerbaijan #ytdayibenionecikarnolur #automobile",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "《#OW 参加型》オヨヨ",
+      "author": "Sanny🎮channel💖",
+      "url": "https://www.youtube.com/watch?v=jmLOz38aEk0",
+      "posted_at": "2026-07-26T07:15:10Z",
+      "lang": "",
+      "video_title": "《#OW 参加型》オヨヨ",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "たくさん考えてるけどンズもルカも難しすぎて描けないよ~😭ｵﾖﾖ…",
+      "author": "@sisn7.bsky.social",
+      "url": "https://bsky.app/profile/sisn7.bsky.social/post/3mrjruiv4222s",
+      "posted_at": "2026-07-26T06:45:52.473Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "行ってみますた。クレヨンしんちゃん推しで、セル画とか声優さん陣のお祝いサインなどあった（佐藤智恵さんの筆跡も✨）セル画以外は撮影禁止の表示はないけど日和ってしまい何も撮らず😅\n\nハットリ君など藤子系は当然ながら、美味しんぼのセル画はちょっとレアよね😳\n\nオヨネコぶーにゃんの呼称は、結局「オヨヨ」と「ぶーにゃん」とどっちが正解なの？😅",
+      "author": "@birakki.bsky.social",
+      "url": "https://bsky.app/profile/birakki.bsky.social/post/3mrjgvp2zo226",
+      "posted_at": "2026-07-26T03:30:01.166Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "雷でテレビが～ｵﾖﾖ",
+      "author": "@nikomam.bsky.social",
+      "url": "https://bsky.app/profile/nikomam.bsky.social/post/3mrjgv3yrds2n",
+      "posted_at": "2026-07-26T03:29:21.772Z",
+      "lang": "ja"
+    },
     {
       "source": "bluesky",
       "text": "あとで遅刻になるけど賑やかしのイラスト描くぞぉ\n作文は似たような話をもうすでにいっぱい書いてしまい　ｵﾖﾖ",
@@ -48,32 +140,12 @@
       "lang": "ja"
     },
     {
-      "source": "youtube",
-      "text": "o yoyo oyoyo oyoyo",
-      "author": "Agus prastyo",
-      "url": "https://www.youtube.com/watch?v=m4GV-3fOu3o",
-      "posted_at": "2026-07-25T07:22:01Z",
-      "lang": "",
-      "video_title": "o yoyo oyoyo oyoyo",
-      "kind": "video_title"
-    },
-    {
       "source": "bluesky",
       "text": "チョコザップいってきたんだけど、暑すぎてそれまでの用事＋移動でめちゃくちゃ体力持っていかれており最低限しか出来なかったオヨヨ  人が活動していい気温じゃない…😭",
       "author": "@likeanavygray.bsky.social",
       "url": "https://bsky.app/profile/likeanavygray.bsky.social/post/3mrh54wpops2u",
       "posted_at": "2026-07-25T05:29:27.190Z",
       "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "Oyoyo",
-      "author": "Rose Chijioke",
-      "url": "https://www.youtube.com/watch?v=femaBFJYx3I",
-      "posted_at": "2026-07-24T16:31:34Z",
-      "lang": "",
-      "video_title": "Oyoyo",
-      "kind": "video_title"
     },
     {
       "source": "bluesky",
@@ -89,48 +161,6 @@
       "author": "@tohnyan.bsky.social",
       "url": "https://bsky.app/profile/tohnyan.bsky.social/post/3mrezsr5vrs27",
       "posted_at": "2026-07-24T09:24:43.571Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "低音の聞こえが、こんなもんでして、ｵﾖﾖ…",
-      "author": "@2525bnk.bsky.social",
-      "url": "https://bsky.app/profile/2525bnk.bsky.social/post/3mrewn7wivc2p",
-      "posted_at": "2026-07-24T08:28:01.372Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "私軸どっか行っちゃう軸なし人間🥵🥵🥵なので、みさんのようならしさがありながらも画力向上というのは中々達成出来ることではないんですｵﾖﾖ😭😭😭\n\n違和感の無さすぎる誤字すぎて気づきませんでした😂😂😂ちょっと語呂がいい…やど、やどかくほ…",
-      "author": "@mochi-imo.bsky.social",
-      "url": "https://bsky.app/profile/mochi-imo.bsky.social/post/3mrerrvpnuk2e",
-      "posted_at": "2026-07-24T07:01:06.671Z",
-      "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "Oyoyo #kesfet #kesfeteyyiz #ytdayibenionecikarnolur #keşfetbeniöneçıkar #keşfetedüş #kesfeet #keşfet",
-      "author": "CÜCE’",
-      "url": "https://www.youtube.com/watch?v=P53jc-_AV2I",
-      "posted_at": "2026-07-23T17:03:28Z",
-      "lang": "",
-      "video_title": "Oyoyo #kesfet #kesfeteyyiz #ytdayibenionecikarnolur #keşfetbeniöneçıkar #keşfetedüş #kesfeet #keşfet",
-      "kind": "video_title"
-    },
-    {
-      "source": "bluesky",
-      "text": "「この私が選んだ殿方よ。なにか不満かしら。」とやや怒られる。怒られました。オヨヨ…😢",
-      "author": "@arubawon2.bsky.social",
-      "url": "https://bsky.app/profile/arubawon2.bsky.social/post/3mrdc2bmz3k2r",
-      "posted_at": "2026-07-23T16:46:48.470Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "徳弘正也せんせいのあとがきに泣けてくる\n\nオヨヨ。。\n\n何十年もバイオレンス、ディストピア、（あと下品）描いてきた人は違うな。。（下品）",
-      "author": "@imori30rou.bsky.social",
-      "url": "https://bsky.app/profile/imori30rou.bsky.social/post/3mrctxd7qx22t",
-      "posted_at": "2026-07-23T12:34:37.566Z",
       "lang": "ja"
     },
     {
@@ -171,16 +201,6 @@
       "posted_at": "2026-07-10T06:11:10Z",
       "lang": "",
       "video_title": "EVENING OYOYO | 9TH JULY 2026",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "EZE OYOYO #shorts #fyp",
-      "author": "Jonesjoke Solution",
-      "url": "https://www.youtube.com/watch?v=0bkzpPFmH_0",
-      "posted_at": "2026-07-05T18:30:01Z",
-      "lang": "",
-      "video_title": "EZE OYOYO #shorts #fyp",
       "kind": "video_title"
     },
     {
