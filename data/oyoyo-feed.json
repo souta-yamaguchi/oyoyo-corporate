@@ -1,21 +1,81 @@
 {
-  "updated_at": "2026-07-27T21:58:55+00:00",
-  "count": 28,
+  "updated_at": "2026-07-28T21:56:37+00:00",
+  "count": 26,
   "sources": {
-    "youtube": 10,
     "bluesky": 12,
+    "youtube": 8,
     "mastodon": 6
   },
   "items": [
     {
+      "source": "bluesky",
+      "text": "改めてみても今までにないくらいすごいハマり方だなって思うんですが…しんそくちゃんがわしの好きな要素全部詰めでもうホンマホンマホンマにドンピシャこれこそわしが求めていたものって感じだったことが一番でかいですが、リアルタイムでライブやイベントがい～っぱいやってて公式が活発なこともでかいでする…🙏本当にここはでかい…そしてなかよくしてくださるﾎﾛﾜｧさんがたともリアルタイムで一緒に楽しめるのもありがてぇﾀﾞｽ😭ｵﾖﾖ…",
+      "author": "@ou-ewe.bsky.social",
+      "url": "https://bsky.app/profile/ou-ewe.bsky.social/post/3mrqfiqnpm226",
+      "posted_at": "2026-07-28T21:53:11.971Z",
+      "lang": "ja"
+    },
+    {
       "source": "youtube",
-      "text": "Eze oyoyo",
-      "author": "Jola ",
-      "url": "https://www.youtube.com/watch?v=KU1wZw_jP7c",
-      "posted_at": "2026-07-27T15:37:38Z",
+      "text": "Oyoyo Realty is live!",
+      "author": "Oyoyo Realty",
+      "url": "https://www.youtube.com/watch?v=dZA40GOnhqI",
+      "posted_at": "2026-07-28T19:32:25Z",
       "lang": "",
-      "video_title": "Eze oyoyo",
+      "video_title": "Oyoyo Realty is live!",
       "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "OYOYO ATIKU ABUBAKAR BY RARAN ATIKU ABUBAKAR ✍️✍️",
+      "author": "RARAN ATIKU ABUBAKAR",
+      "url": "https://www.youtube.com/watch?v=B1Cg2RKImLA",
+      "posted_at": "2026-07-28T15:34:56Z",
+      "lang": "",
+      "video_title": "OYOYO ATIKU ABUBAKAR BY RARAN ATIKU ABUBAKAR ✍️✍️",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "Aata Majhi satkali oyoyo song ",
+      "author": "super Anmol",
+      "url": "https://www.youtube.com/watch?v=IZGTqrzj75M",
+      "posted_at": "2026-07-28T12:26:52Z",
+      "lang": "",
+      "video_title": "Aata Majhi satkali oyoyo song ",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "おもっっくそ揺れてるところでやばい\nエッキシで一応従業員さんは無事みたいだけど　オヨヨ",
+      "author": "@noctis99.bsky.social",
+      "url": "https://bsky.app/profile/noctis99.bsky.social/post/3mrpaj4vm4k2c",
+      "posted_at": "2026-07-28T10:51:17.764Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "来週は惑溺デリュードープでイチャイチャしてもらいます オヨヨ…🥲",
+      "author": "@ruunaa1106.bsky.social",
+      "url": "https://bsky.app/profile/ruunaa1106.bsky.social/post/3mrp5nrnb6c2j",
+      "posted_at": "2026-07-28T10:00:10.170Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "人生初の震度5でした　無事です　でも眉山から煙上っててオヨヨです",
+      "author": "@mtmr610citron.bsky.social",
+      "url": "https://bsky.app/profile/mtmr610citron.bsky.social/post/3mrp2pueonc2g",
+      "posted_at": "2026-07-28T09:07:39.868Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "いさり、かわいく描いてもらったねえ…ｵﾖﾖ…😭",
+      "author": "@usarnity.bsky.social",
+      "url": "https://bsky.app/profile/usarnity.bsky.social/post/3mronkqdsik26",
+      "posted_at": "2026-07-28T05:12:08.466Z",
+      "lang": "ja"
     },
     {
       "source": "bluesky",
@@ -24,16 +84,6 @@
       "url": "https://bsky.app/profile/aco0622.bsky.social/post/3mrn6yet5ck2m",
       "posted_at": "2026-07-27T15:18:40.779Z",
       "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "MUCH MEDIA ENTERTAINMENT#much b#oyoyo#viral",
-      "author": "Edun Much B",
-      "url": "https://www.youtube.com/watch?v=Mv2InppoHW8",
-      "posted_at": "2026-07-27T10:33:55Z",
-      "lang": "",
-      "video_title": "MUCH MEDIA ENTERTAINMENT#much b#oyoyo#viral",
-      "kind": "video_title"
     },
     {
       "source": "bluesky",
@@ -52,42 +102,12 @@
       "lang": "ja"
     },
     {
-      "source": "youtube",
-      "text": "OYOYO Khiga welcome to gombe 2",
-      "author": "Siyasa 360 Hausa",
-      "url": "https://www.youtube.com/watch?v=Uieqx9IELpo",
-      "posted_at": "2026-07-26T17:14:53Z",
-      "lang": "",
-      "video_title": "OYOYO Khiga welcome to gombe 2",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "OYOYO Khiga welcome to gombe",
-      "author": "Siyasa 360 Hausa",
-      "url": "https://www.youtube.com/watch?v=2uvY0TEi_MQ",
-      "posted_at": "2026-07-26T16:51:37Z",
-      "lang": "",
-      "video_title": "OYOYO Khiga welcome to gombe",
-      "kind": "video_title"
-    },
-    {
       "source": "bluesky",
       "text": "今日までの放置スタジオの存在TLで今知った　行けば良かった〜〜〜オヨヨ🫠",
       "author": "@komomo-kozakura.bsky.social",
       "url": "https://bsky.app/profile/komomo-kozakura.bsky.social/post/3mrkap3rj3k2w",
       "posted_at": "2026-07-26T11:11:16.668Z",
       "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "oyoyo yerum sizii #keşfet #keşfet #roblox #pkxduniversd #pkxd #pkxdarquivos #keşfetteyiz #edit",
-      "author": "𝐛𝐞𝐥𝐥𝐲𝐗𝐃",
-      "url": "https://www.youtube.com/watch?v=AVec886yS98",
-      "posted_at": "2026-07-26T10:51:04Z",
-      "lang": "",
-      "video_title": "oyoyo yerum sizii #keşfet #keşfet #roblox #pkxduniversd #pkxd #pkxdarquivos #keşfetteyiz #edit",
-      "kind": "video_title"
     },
     {
       "source": "youtube",
@@ -121,46 +141,6 @@
       "author": "@nikomam.bsky.social",
       "url": "https://bsky.app/profile/nikomam.bsky.social/post/3mrjgv3yrds2n",
       "posted_at": "2026-07-26T03:29:21.772Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "あとで遅刻になるけど賑やかしのイラスト描くぞぉ\n作文は似たような話をもうすでにいっぱい書いてしまい　ｵﾖﾖ",
-      "author": "@noctis99.bsky.social",
-      "url": "https://bsky.app/profile/noctis99.bsky.social/post/3mri5ijwgi22o",
-      "posted_at": "2026-07-25T15:08:35.679Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "エﾞーー！！！覗いてくれてありがとう………関係性とっても濃いですヨ❣❣❣（（大声））❣❣❣\nそう………そうなの………辛い…幸せにしてやりたい……………辛い………😭😭😭😭😭😭😭しばらくマダラに狂っていると思います……ｵﾖﾖ…😭✌✌✌",
-      "author": "@tekitoudeee.bsky.social",
-      "url": "https://bsky.app/profile/tekitoudeee.bsky.social/post/3mri4zl7yzk2v",
-      "posted_at": "2026-07-25T15:00:14.978Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "髭も半年に一回くらいで済ませてたのがワンシーズンで一回、今や一ヶ月に一回ペース。オヨヨ",
-      "author": "@afterfeast.bsky.social",
-      "url": "https://bsky.app/profile/afterfeast.bsky.social/post/3mrhtokregs2i",
-      "posted_at": "2026-07-25T12:13:02.367Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "花火見ようと思ったけど雨天中止でオヨヨ〜",
-      "author": "@leri.misskey.io.ap.brid.gy",
-      "url": "https://bsky.app/profile/leri.misskey.io.ap.brid.gy/post/3mrhogf2oqmy2",
-      "posted_at": "2026-07-25T10:39:06.187Z",
-      "lang": ""
-    },
-    {
-      "source": "bluesky",
-      "text": "さすがに私も話数多すぎておえないので！！！！色々訳あって（？）いきなり586話を見たのよ！！！😁😁😁✌✌✌全然他は追えてない‼️✌\nカッコイイよねん……‼️😭😭敵なんですよ……😭😭でも本当は一緒に平和を願ってた人なんですよ…ｵﾖﾖ",
-      "author": "@tekitoudeee.bsky.social",
-      "url": "https://bsky.app/profile/tekitoudeee.bsky.social/post/3mrhm246v422y",
-      "posted_at": "2026-07-25T09:56:18.969Z",
       "lang": "ja"
     },
     {
