@@ -1,12 +1,78 @@
 {
-  "updated_at": "2026-07-30T22:00:18+00:00",
-  "count": 28,
+  "updated_at": "2026-07-31T21:59:08+00:00",
+  "count": 30,
   "sources": {
+    "youtube": 12,
     "bluesky": 12,
-    "youtube": 10,
     "mastodon": 6
   },
   "items": [
+    {
+      "source": "youtube",
+      "text": "##JOIN ME TO COOK👉OYOYO OKRA SOUP MIXED WT BEEF, CRAYFISH, STOCKFISH &amp; BITTERLEAF 💖💖💖👍🌹🌹%%##",
+      "author": "KOLBIM SHORTS",
+      "url": "https://www.youtube.com/watch?v=nwZEaxfKKSk",
+      "posted_at": "2026-07-31T19:07:28Z",
+      "lang": "",
+      "video_title": "##JOIN ME TO COOK👉OYOYO OKRA SOUP MIXED WT BEEF, CRAYFISH, STOCKFISH &amp; BITTERLEAF 💖💖💖👍🌹🌹%%##",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "##OYOYO OKRA SOUP MIXED WITH BEEF, CRAYFISH, STOCKFISH &amp; BITTERLEAF💖💖💖👍👍🌹🌹🌹%%%##",
+      "author": "KOLBIM AFRICAN FOOD ",
+      "url": "https://www.youtube.com/watch?v=USu3008VYSk",
+      "posted_at": "2026-07-31T18:47:46Z",
+      "lang": "",
+      "video_title": "##OYOYO OKRA SOUP MIXED WITH BEEF, CRAYFISH, STOCKFISH &amp; BITTERLEAF💖💖💖👍👍🌹🌹🌹%%%##",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "Oyoyo kesfetmii #ytdayibenionecikarnolur #keşfetbeniöneçıkar #keşfet #jisoo",
+      "author": "𝐉𝐢𝐜𝐡𝐮_𝐛𝐥𝐢𝐧𝐭𝐨ৎ",
+      "url": "https://www.youtube.com/watch?v=nxpYAqGS8tA",
+      "posted_at": "2026-07-31T18:05:03Z",
+      "lang": "",
+      "video_title": "Oyoyo kesfetmii #ytdayibenionecikarnolur #keşfetbeniöneçıkar #keşfet #jisoo",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "ALH DAHIRU OYOYO MUNA MARABA  REMX REMX",
+      "author": "ALH dahiru hadimun annabi TV",
+      "url": "https://www.youtube.com/watch?v=NtIqFbJRa3s",
+      "posted_at": "2026-07-31T15:02:15Z",
+      "lang": "",
+      "video_title": "ALH DAHIRU OYOYO MUNA MARABA  REMX REMX",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "##OYOYO OKRA SOUP WITH SEMOLINA FUFU, TRY IT &amp; YOU WILL LOVE IT💖💖💖🌹🌹🌹👍👍%%%##",
+      "author": "KOLBIM AFRICAN FOOD ",
+      "url": "https://www.youtube.com/watch?v=yx3SrdrzM1g",
+      "posted_at": "2026-07-31T13:40:25Z",
+      "lang": "",
+      "video_title": "##OYOYO OKRA SOUP WITH SEMOLINA FUFU, TRY IT &amp; YOU WILL LOVE IT💖💖💖🌹🌹🌹👍👍%%%##",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "Oyoyo ce niveau de trollage",
+      "author": "@geol.tel",
+      "url": "https://bsky.app/profile/geol.tel/post/3mrwqguyimc24",
+      "posted_at": "2026-07-31T10:25:04.379Z",
+      "lang": "fr"
+    },
+    {
+      "source": "bluesky",
+      "text": "昨日深夜やっと帰宅してきたので一緒に朝マック行ってまた出勤を見送ってきた、ｵﾖﾖ……\n\n頑張れ",
+      "author": "@tsuyummt.bsky.social",
+      "url": "https://bsky.app/profile/tsuyummt.bsky.social/post/3mrvllcbqrk2q",
+      "posted_at": "2026-07-30T23:25:19.175Z",
+      "lang": "ja"
+    },
     {
       "source": "bluesky",
       "text": "シャワーだけお湯出なくて前途多難やねぇ‼️管理会社に連絡するレベルなのか分からんくて今日1日格闘したけどどうにもならんかったから一応連絡だけした…どうなる…どうにかしてくれ…ｵﾖﾖ…",
@@ -24,62 +90,12 @@
       "lang": "ja"
     },
     {
-      "source": "youtube",
-      "text": "oyoyo",
-      "author": "TheEsila",
-      "url": "https://www.youtube.com/watch?v=Eo4bhByzVJ8",
-      "posted_at": "2026-07-30T09:06:16Z",
-      "lang": "",
-      "video_title": "oyoyo",
-      "kind": "video_title"
-    },
-    {
       "source": "bluesky",
       "text": "けど行くしかなし……我は社会の奴隷……オヨヨ〜",
       "author": "@amamicom.bsky.social",
       "url": "https://bsky.app/profile/amamicom.bsky.social/post/3mrtmh33ztk2n",
       "posted_at": "2026-07-30T04:35:30.267Z",
       "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "oyoyo",
-      "author": "Ana Tails ",
-      "url": "https://www.youtube.com/watch?v=tK5IHbtWIOs",
-      "posted_at": "2026-07-30T01:20:59Z",
-      "lang": "",
-      "video_title": "oyoyo",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "HASKILU HASKE (OYOYO FADIMA) ",
-      "author": "HASKILU HASKE",
-      "url": "https://www.youtube.com/watch?v=b8DzkmVydoQ",
-      "posted_at": "2026-07-29T22:17:11Z",
-      "lang": "",
-      "video_title": "HASKILU HASKE (OYOYO FADIMA) ",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "Igwe Oyoyo ☺️",
-      "author": "@Onyebuking ",
-      "url": "https://www.youtube.com/watch?v=BGtJ1TEltcE",
-      "posted_at": "2026-07-29T20:27:00Z",
-      "lang": "",
-      "video_title": "Igwe Oyoyo ☺️",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "Eze Oyoyo❤️ #family #shorts #youtube",
-      "author": "Project Management with ChomChom",
-      "url": "https://www.youtube.com/watch?v=xMU0e4tg0Lc",
-      "posted_at": "2026-07-29T20:13:42Z",
-      "lang": "",
-      "video_title": "Eze Oyoyo❤️ #family #shorts #youtube",
-      "kind": "video_title"
     },
     {
       "source": "bluesky",
@@ -148,20 +164,14 @@
       "lang": "ja"
     },
     {
-      "source": "bluesky",
-      "text": "いさり、かわいく描いてもらったねえ…ｵﾖﾖ…😭",
-      "author": "@usarnity.bsky.social",
-      "url": "https://bsky.app/profile/usarnity.bsky.social/post/3mronkqdsik26",
-      "posted_at": "2026-07-28T05:12:08.466Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "わかりすぎりゅ😭😭😭マジでそういうの気まずくてヤバい　す，すみません…オヨヨ……すみません…通ります…オヨ……となる",
-      "author": "@aco0622.bsky.social",
-      "url": "https://bsky.app/profile/aco0622.bsky.social/post/3mrn6yet5ck2m",
-      "posted_at": "2026-07-27T15:18:40.779Z",
-      "lang": "ja"
+      "source": "youtube",
+      "text": "《#OW 参加型》オヨヨ",
+      "author": "Sanny🎮channel💖",
+      "url": "https://www.youtube.com/watch?v=jmLOz38aEk0",
+      "posted_at": "2026-07-26T07:15:10Z",
+      "lang": "",
+      "video_title": "《#OW 参加型》オヨヨ",
+      "kind": "video_title"
     },
     {
       "source": "youtube",
@@ -201,6 +211,16 @@
       "posted_at": "2026-07-10T06:11:10Z",
       "lang": "",
       "video_title": "EVENING OYOYO | 9TH JULY 2026",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "EZE OYOYO #shorts #fyp",
+      "author": "Jonesjoke Solution",
+      "url": "https://www.youtube.com/watch?v=0bkzpPFmH_0",
+      "posted_at": "2026-07-05T18:30:01Z",
+      "lang": "",
+      "video_title": "EZE OYOYO #shorts #fyp",
       "kind": "video_title"
     },
     {
