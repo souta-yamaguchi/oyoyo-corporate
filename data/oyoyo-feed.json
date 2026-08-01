@@ -1,12 +1,100 @@
 {
-  "updated_at": "2026-07-31T21:59:08+00:00",
+  "updated_at": "2026-08-01T21:47:09+00:00",
   "count": 30,
   "sources": {
-    "youtube": 12,
     "bluesky": 12,
+    "youtube": 12,
     "mastodon": 6
   },
   "items": [
+    {
+      "source": "bluesky",
+      "text": "オヨヨのほうが下だったんだ／阪神・木下里都「及川くんありがとうございます」後輩左腕に感謝 - サンスポ www.sanspo.com/article/2026...",
+      "author": "@yasuharu.bsky.social",
+      "url": "https://bsky.app/profile/yasuharu.bsky.social/post/3mrzw3uz6rs2j",
+      "posted_at": "2026-08-01T16:44:18.771Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "クレープ、今度遊びに行く期間あるじゃん🎶と思って見に行ったらホち後半だったから全然ダメだった オヨヨ〜ン どっかのタイミングで行きたい😭",
+      "author": "@yubaa579.bsky.social",
+      "url": "https://bsky.app/profile/yubaa579.bsky.social/post/3mrzv244msc2q",
+      "posted_at": "2026-08-01T16:25:17.369Z",
+      "lang": "ja"
+    },
+    {
+      "source": "youtube",
+      "text": "Quebra-cabeça Alucinante! Conheça Super Gussun Oyoyo 2 🧩👾",
+      "author": "Memória de Locadora",
+      "url": "https://www.youtube.com/watch?v=YCdeZr-UxAg",
+      "posted_at": "2026-08-01T15:00:06Z",
+      "lang": "",
+      "video_title": "Quebra-cabeça Alucinante! Conheça Super Gussun Oyoyo 2 🧩👾",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "## OYOYO OKRA SOUP IS READY LIFE AND DIRECT 💖💖💖💪💪💪🌹🌹🌹👍👍%%%##",
+      "author": "KOLBIM SHORTS",
+      "url": "https://www.youtube.com/watch?v=Wwn2aSHn6FY",
+      "posted_at": "2026-08-01T14:04:08Z",
+      "lang": "",
+      "video_title": "## OYOYO OKRA SOUP IS READY LIFE AND DIRECT 💖💖💖💪💪💪🌹🌹🌹👍👍%%%##",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "とらほー！\n序盤は雨の中断でしんどかったけど、6回の坂本のスリーランが大きかった！\nリリーフ陣の5回まで投げた将司、木下が苦しみながら2死奪って、オヨヨがピンチを切り抜けて、次のイニングも抑えて、工藤がしっかり抑えて、ザキが1死奪うも満塁になってしまったが、ドリちゃんが出てきてしっかりと抑えた\n\n勝負の8月！こういう継投できるなら、行けるぞ！\nザキ休ませたいので、湯浅はよ上がってきてくれ！\n#阪神タイガース",
+      "author": "@ethimajin.bsky.social",
+      "url": "https://bsky.app/profile/ethimajin.bsky.social/post/3mrzlozddk22m",
+      "posted_at": "2026-08-01T13:38:01.965Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "オヨヨそろそろビシッと抑えよか🥺",
+      "author": "@intelligenceagents.bsky.social",
+      "url": "https://bsky.app/profile/intelligenceagents.bsky.social/post/3mrziso5e7k2d",
+      "posted_at": "2026-08-01T12:46:23.476Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "オヨヨ\nイニング跨ぎナイスピッチング👍\nありがと‼️",
+      "author": "@luna-and-becky.bsky.social",
+      "url": "https://bsky.app/profile/luna-and-becky.bsky.social/post/3mrzisfueps22",
+      "posted_at": "2026-08-01T12:46:15.768Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "わらふぢなるお解散のニュースを寝る直前に見て、目覚めはPOISON GIRL BAND解散のニュースで…　オヨヨ…",
+      "author": "@kagamimochi.bsky.social",
+      "url": "https://bsky.app/profile/kagamimochi.bsky.social/post/3mry76sxww22j",
+      "posted_at": "2026-08-01T00:21:35.870Z",
+      "lang": "ja"
+    },
+    {
+      "source": "youtube",
+      "text": "OYOYO OKRA SOUP IS JUST TOO DELICIOUS 💖💖💖👍👍🌹🌹🌹%%%###",
+      "author": "KOLBIM SHORTS",
+      "url": "https://www.youtube.com/watch?v=ZWkl1h3ydzE",
+      "posted_at": "2026-08-01T00:18:07Z",
+      "lang": "",
+      "video_title": "OYOYO OKRA SOUP IS JUST TOO DELICIOUS 💖💖💖👍👍🌹🌹🌹%%%###",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "##OYOYO OKRA SOUP MIXED WT BEEF, STOCKFISH, CRAYFISH &amp; BITTERLEAF💖💖💖👊👊🌹🌹%%%## JOIN ME😁😁##",
+      "author": "KOLBIM AFRICAN FOOD ",
+      "url": "https://www.youtube.com/watch?v=-FZ3kr4wGt0",
+      "posted_at": "2026-08-01T00:03:04Z",
+      "lang": "",
+      "video_title": "##OYOYO OKRA SOUP MIXED WT BEEF, STOCKFISH, CRAYFISH &amp; BITTERLEAF💖💖💖👊👊🌹🌹%%%## JOIN ME😁😁##",
+      "kind": "video_title"
+    },
     {
       "source": "youtube",
       "text": "##JOIN ME TO COOK👉OYOYO OKRA SOUP MIXED WT BEEF, CRAYFISH, STOCKFISH &amp; BITTERLEAF 💖💖💖👍🌹🌹%%##",
@@ -15,46 +103,6 @@
       "posted_at": "2026-07-31T19:07:28Z",
       "lang": "",
       "video_title": "##JOIN ME TO COOK👉OYOYO OKRA SOUP MIXED WT BEEF, CRAYFISH, STOCKFISH &amp; BITTERLEAF 💖💖💖👍🌹🌹%%##",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "##OYOYO OKRA SOUP MIXED WITH BEEF, CRAYFISH, STOCKFISH &amp; BITTERLEAF💖💖💖👍👍🌹🌹🌹%%%##",
-      "author": "KOLBIM AFRICAN FOOD ",
-      "url": "https://www.youtube.com/watch?v=USu3008VYSk",
-      "posted_at": "2026-07-31T18:47:46Z",
-      "lang": "",
-      "video_title": "##OYOYO OKRA SOUP MIXED WITH BEEF, CRAYFISH, STOCKFISH &amp; BITTERLEAF💖💖💖👍👍🌹🌹🌹%%%##",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "Oyoyo kesfetmii #ytdayibenionecikarnolur #keşfetbeniöneçıkar #keşfet #jisoo",
-      "author": "𝐉𝐢𝐜𝐡𝐮_𝐛𝐥𝐢𝐧𝐭𝐨ৎ",
-      "url": "https://www.youtube.com/watch?v=nxpYAqGS8tA",
-      "posted_at": "2026-07-31T18:05:03Z",
-      "lang": "",
-      "video_title": "Oyoyo kesfetmii #ytdayibenionecikarnolur #keşfetbeniöneçıkar #keşfet #jisoo",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "ALH DAHIRU OYOYO MUNA MARABA  REMX REMX",
-      "author": "ALH dahiru hadimun annabi TV",
-      "url": "https://www.youtube.com/watch?v=NtIqFbJRa3s",
-      "posted_at": "2026-07-31T15:02:15Z",
-      "lang": "",
-      "video_title": "ALH DAHIRU OYOYO MUNA MARABA  REMX REMX",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "##OYOYO OKRA SOUP WITH SEMOLINA FUFU, TRY IT &amp; YOU WILL LOVE IT💖💖💖🌹🌹🌹👍👍%%%##",
-      "author": "KOLBIM AFRICAN FOOD ",
-      "url": "https://www.youtube.com/watch?v=yx3SrdrzM1g",
-      "posted_at": "2026-07-31T13:40:25Z",
-      "lang": "",
-      "video_title": "##OYOYO OKRA SOUP WITH SEMOLINA FUFU, TRY IT &amp; YOU WILL LOVE IT💖💖💖🌹🌹🌹👍👍%%%##",
       "kind": "video_title"
     },
     {
@@ -106,22 +154,6 @@
       "lang": "ja"
     },
     {
-      "source": "bluesky",
-      "text": "諸々どかして探したけど見つからなくてかなしい\nどこいったの〜😭ｵﾖﾖ",
-      "author": "@peacha.bsky.social",
-      "url": "https://bsky.app/profile/peacha.bsky.social/post/3mrrwxnsujc2m",
-      "posted_at": "2026-07-29T12:38:25.471Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "オヨヨ...",
-      "author": "@tdnnari.bsky.social",
-      "url": "https://bsky.app/profile/tdnnari.bsky.social/post/3mrrqb5tzcc2b",
-      "posted_at": "2026-07-29T10:38:25.894Z",
-      "lang": "ja"
-    },
-    {
       "source": "youtube",
       "text": "EVENING OYOYO | 28TH JULY 2026",
       "author": "Wazobia FM",
@@ -130,38 +162,6 @@
       "lang": "",
       "video_title": "EVENING OYOYO | 28TH JULY 2026",
       "kind": "video_title"
-    },
-    {
-      "source": "bluesky",
-      "text": "地震の影響で夫の仕事が大激務になり今日から帰れなくなるっぽい……ｵﾖﾖ",
-      "author": "@tsuyummt.bsky.social",
-      "url": "https://bsky.app/profile/tsuyummt.bsky.social/post/3mrqo5xec5c2b",
-      "posted_at": "2026-07-29T00:28:12.677Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "改めてみても今までにないくらいすごいハマり方だなって思うんですが…しんそくちゃんがわしの好きな要素全部詰めでもうホンマホンマホンマにドンピシャこれこそわしが求めていたものって感じだったことが一番でかいですが、リアルタイムでライブやイベントがい～っぱいやってて公式が活発なこともでかいでする…🙏本当にここはでかい…そしてなかよくしてくださるﾎﾛﾜｧさんがたともリアルタイムで一緒に楽しめるのもありがてぇﾀﾞｽ😭ｵﾖﾖ…",
-      "author": "@ou-ewe.bsky.social",
-      "url": "https://bsky.app/profile/ou-ewe.bsky.social/post/3mrqfiqnpm226",
-      "posted_at": "2026-07-28T21:53:11.971Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "おもっっくそ揺れてるところでやばい\nエッキシで一応従業員さんは無事みたいだけど　オヨヨ",
-      "author": "@noctis99.bsky.social",
-      "url": "https://bsky.app/profile/noctis99.bsky.social/post/3mrpaj4vm4k2c",
-      "posted_at": "2026-07-28T10:51:17.764Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "人生初の震度5でした　無事です　でも眉山から煙上っててオヨヨです",
-      "author": "@mtmr610citron.bsky.social",
-      "url": "https://bsky.app/profile/mtmr610citron.bsky.social/post/3mrp2pueonc2g",
-      "posted_at": "2026-07-28T09:07:39.868Z",
-      "lang": "ja"
     },
     {
       "source": "youtube",
