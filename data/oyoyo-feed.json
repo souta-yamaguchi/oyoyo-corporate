@@ -1,12 +1,64 @@
 {
-  "updated_at": "2026-08-01T21:47:09+00:00",
-  "count": 30,
+  "updated_at": "2026-08-02T21:47:46+00:00",
+  "count": 28,
   "sources": {
     "bluesky": 12,
-    "youtube": 12,
+    "youtube": 10,
     "mastodon": 6
   },
   "items": [
+    {
+      "source": "bluesky",
+      "text": "小説の蓮見、なんかすごそうな気配だけ察知してるけどまだこっちまで来てないらしい　ｵﾖﾖ",
+      "author": "@sunoko24.bsky.social",
+      "url": "https://bsky.app/profile/sunoko24.bsky.social/post/3ms4ga6d7b2v2",
+      "posted_at": "2026-08-02T16:38:14.068Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "オヨヨも復帰後がんばってる😇まぁぜんぜん本来のボールは投げれてないけど🙄\n0点で抑えてくれてればいいよ！結果がすべて！！このまま乗っていってくれ👍",
+      "author": "@intelligenceagents.bsky.social",
+      "url": "https://bsky.app/profile/intelligenceagents.bsky.social/post/3ms3xnlsirc2d",
+      "posted_at": "2026-08-02T12:17:19.067Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "オヨヨ\nナイスピッチング👏",
+      "author": "@luna-and-becky.bsky.social",
+      "url": "https://bsky.app/profile/luna-and-becky.bsky.social/post/3ms3xgw4lc22o",
+      "posted_at": "2026-08-02T12:13:34.766Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "なんというか、物語に関してはカラッカラの雑巾から水一滴を絞り取るくらい出てこないｵﾖﾖ………",
+      "author": "@odamaki32000.bsky.social",
+      "url": "https://bsky.app/profile/odamaki32000.bsky.social/post/3ms3xcfc3lc2s",
+      "posted_at": "2026-08-02T12:11:06.570Z",
+      "lang": "ja"
+    },
+    {
+      "source": "youtube",
+      "text": "Oyoyo yansh bouncing on the Music ",
+      "author": "The Prank Kingdom ",
+      "url": "https://www.youtube.com/watch?v=XrVJNv5JdFs",
+      "posted_at": "2026-08-02T06:40:55Z",
+      "lang": "",
+      "video_title": "Oyoyo yansh bouncing on the Music ",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "Baby Oyoyo",
+      "author": "Release - Topic",
+      "url": "https://www.youtube.com/watch?v=1-gcR7tv7mc",
+      "posted_at": "2026-08-01T23:04:36Z",
+      "lang": "",
+      "video_title": "Baby Oyoyo",
+      "kind": "video_title"
+    },
     {
       "source": "bluesky",
       "text": "オヨヨのほうが下だったんだ／阪神・木下里都「及川くんありがとうございます」後輩左腕に感謝 - サンスポ www.sanspo.com/article/2026...",
@@ -68,42 +120,22 @@
       "lang": "ja"
     },
     {
+      "source": "youtube",
+      "text": "Oyoyo",
+      "author": "Release - Topic",
+      "url": "https://www.youtube.com/watch?v=ar1wEjZ64dE",
+      "posted_at": "2026-08-01T10:03:48Z",
+      "lang": "",
+      "video_title": "Oyoyo",
+      "kind": "video_title"
+    },
+    {
       "source": "bluesky",
       "text": "わらふぢなるお解散のニュースを寝る直前に見て、目覚めはPOISON GIRL BAND解散のニュースで…　オヨヨ…",
       "author": "@kagamimochi.bsky.social",
       "url": "https://bsky.app/profile/kagamimochi.bsky.social/post/3mry76sxww22j",
       "posted_at": "2026-08-01T00:21:35.870Z",
       "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "OYOYO OKRA SOUP IS JUST TOO DELICIOUS 💖💖💖👍👍🌹🌹🌹%%%###",
-      "author": "KOLBIM SHORTS",
-      "url": "https://www.youtube.com/watch?v=ZWkl1h3ydzE",
-      "posted_at": "2026-08-01T00:18:07Z",
-      "lang": "",
-      "video_title": "OYOYO OKRA SOUP IS JUST TOO DELICIOUS 💖💖💖👍👍🌹🌹🌹%%%###",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "##OYOYO OKRA SOUP MIXED WT BEEF, STOCKFISH, CRAYFISH &amp; BITTERLEAF💖💖💖👊👊🌹🌹%%%## JOIN ME😁😁##",
-      "author": "KOLBIM AFRICAN FOOD ",
-      "url": "https://www.youtube.com/watch?v=-FZ3kr4wGt0",
-      "posted_at": "2026-08-01T00:03:04Z",
-      "lang": "",
-      "video_title": "##OYOYO OKRA SOUP MIXED WT BEEF, STOCKFISH, CRAYFISH &amp; BITTERLEAF💖💖💖👊👊🌹🌹%%%## JOIN ME😁😁##",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "##JOIN ME TO COOK👉OYOYO OKRA SOUP MIXED WT BEEF, CRAYFISH, STOCKFISH &amp; BITTERLEAF 💖💖💖👍🌹🌹%%##",
-      "author": "KOLBIM SHORTS",
-      "url": "https://www.youtube.com/watch?v=nwZEaxfKKSk",
-      "posted_at": "2026-07-31T19:07:28Z",
-      "lang": "",
-      "video_title": "##JOIN ME TO COOK👉OYOYO OKRA SOUP MIXED WT BEEF, CRAYFISH, STOCKFISH &amp; BITTERLEAF 💖💖💖👍🌹🌹%%##",
-      "kind": "video_title"
     },
     {
       "source": "bluesky",
@@ -122,38 +154,6 @@
       "lang": "ja"
     },
     {
-      "source": "bluesky",
-      "text": "シャワーだけお湯出なくて前途多難やねぇ‼️管理会社に連絡するレベルなのか分からんくて今日1日格闘したけどどうにもならんかったから一応連絡だけした…どうなる…どうにかしてくれ…ｵﾖﾖ…",
-      "author": "@nanginaseiheki.bsky.social",
-      "url": "https://bsky.app/profile/nanginaseiheki.bsky.social/post/3mrun46ipwc2z",
-      "posted_at": "2026-07-30T14:19:58.376Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "イソギンチャクを見つけ指をそっと近づけるちゃそ…スイッと吸いつかれて…オヨヨ💦とパッパに異議申し立てしだすかもね…(1日1自業自得ちゃそ)",
-      "author": "@v4gzj.bsky.social",
-      "url": "https://bsky.app/profile/v4gzj.bsky.social/post/3mrumd65bjc2g",
-      "posted_at": "2026-07-30T14:06:00.381Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "けど行くしかなし……我は社会の奴隷……オヨヨ〜",
-      "author": "@amamicom.bsky.social",
-      "url": "https://bsky.app/profile/amamicom.bsky.social/post/3mrtmh33ztk2n",
-      "posted_at": "2026-07-30T04:35:30.267Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "ちょびっと絵描いて寝ようかな、ｵﾖﾖ.......",
-      "author": "@egbssy.bsky.social",
-      "url": "https://bsky.app/profile/egbssy.bsky.social/post/3mrsfife7is2b",
-      "posted_at": "2026-07-29T16:58:19.275Z",
-      "lang": "ja"
-    },
-    {
       "source": "youtube",
       "text": "EVENING OYOYO | 28TH JULY 2026",
       "author": "Wazobia FM",
@@ -161,16 +161,6 @@
       "posted_at": "2026-07-29T06:18:54Z",
       "lang": "",
       "video_title": "EVENING OYOYO | 28TH JULY 2026",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "《#OW 参加型》オヨヨ",
-      "author": "Sanny🎮channel💖",
-      "url": "https://www.youtube.com/watch?v=jmLOz38aEk0",
-      "posted_at": "2026-07-26T07:15:10Z",
-      "lang": "",
-      "video_title": "《#OW 参加型》オヨヨ",
       "kind": "video_title"
     },
     {
@@ -211,16 +201,6 @@
       "posted_at": "2026-07-10T06:11:10Z",
       "lang": "",
       "video_title": "EVENING OYOYO | 9TH JULY 2026",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "EZE OYOYO #shorts #fyp",
-      "author": "Jonesjoke Solution",
-      "url": "https://www.youtube.com/watch?v=0bkzpPFmH_0",
-      "posted_at": "2026-07-05T18:30:01Z",
-      "lang": "",
-      "video_title": "EZE OYOYO #shorts #fyp",
       "kind": "video_title"
     },
     {
