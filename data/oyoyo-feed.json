@@ -1,20 +1,48 @@
 {
-  "updated_at": "2026-08-07T00:59:51+00:00",
-  "count": 29,
+  "updated_at": "2026-08-07T21:31:27+00:00",
+  "count": 25,
   "sources": {
-    "youtube": 11,
     "bluesky": 12,
+    "youtube": 7,
     "mastodon": 6
   },
   "items": [
     {
+      "source": "bluesky",
+      "text": "私の大切な大切な可愛い後輩……ｵﾖﾖ\nおまえ以外にかわいい女を知らない",
+      "author": "@gekiyakutarochan.bsky.social",
+      "url": "https://bsky.app/profile/gekiyakutarochan.bsky.social/post/3msiofd7yoc2h",
+      "posted_at": "2026-08-07T13:36:14.568Z",
+      "lang": "ja"
+    },
+    {
       "source": "youtube",
-      "text": "Mr oyoyo",
-      "author": "Edun Much B",
-      "url": "https://www.youtube.com/watch?v=2Dn96I-kx60",
-      "posted_at": "2026-08-06T18:36:16Z",
+      "text": "KPA OYOYO",
+      "author": "Release - Topic",
+      "url": "https://www.youtube.com/watch?v=eK6I7k6gZXg",
+      "posted_at": "2026-08-07T13:26:43Z",
       "lang": "",
-      "video_title": "Mr oyoyo",
+      "video_title": "KPA OYOYO",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "আমি হেঁটে ওপারে যাব। যদি আপনাদের #viral #trending #trending #fishing #reels #oyoyo #oyo",
+      "author": "Chayem Molla",
+      "url": "https://www.youtube.com/watch?v=7nRXT5oqXSk",
+      "posted_at": "2026-08-07T07:21:06Z",
+      "lang": "",
+      "video_title": "আমি হেঁটে ওপারে যাব। যদি আপনাদের #viral #trending #trending #fishing #reels #oyoyo #oyo",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "EVENING OYOYO |16TH AUGUST 2026",
+      "author": "Wazobia FM",
+      "url": "https://www.youtube.com/watch?v=cFxuKSHRiTY",
+      "posted_at": "2026-08-07T06:21:48Z",
+      "lang": "",
+      "video_title": "EVENING OYOYO |16TH AUGUST 2026",
       "kind": "video_title"
     },
     {
@@ -41,16 +69,6 @@
       "posted_at": "2026-08-06T06:03:01Z",
       "lang": "",
       "video_title": "EVENING OYOYO | 30TH || 5TH AUGUST 2026",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "Ranking yoyo808 animation #animation #oyoyo #yoyo808 #jumpscare #shorts #fivenightsatfreddys ",
-      "author": "Melatation",
-      "url": "https://www.youtube.com/watch?v=m7CLdHpskOA",
-      "posted_at": "2026-08-06T00:40:17Z",
-      "lang": "",
-      "video_title": "Ranking yoyo808 animation #animation #oyoyo #yoyo808 #jumpscare #shorts #fivenightsatfreddys ",
       "kind": "video_title"
     },
     {
@@ -126,14 +144,6 @@
       "lang": "ja"
     },
     {
-      "source": "bluesky",
-      "text": "オヨヨがんばってる😇",
-      "author": "@intelligenceagents.bsky.social",
-      "url": "https://bsky.app/profile/intelligenceagents.bsky.social/post/3msatzgxkzk2f",
-      "posted_at": "2026-08-04T10:55:40.575Z",
-      "lang": "ja"
-    },
-    {
       "source": "youtube",
       "text": "EVENING OYOYO | 28TH JULY 2026",
       "author": "Wazobia FM",
@@ -161,56 +171,6 @@
       "posted_at": "2026-07-17T06:03:56Z",
       "lang": "",
       "video_title": "EVENING OYOYO | 16TH JULY 2026",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "( ´:ω:` )ｵﾖﾖニャンコしゃんそんなものを...# #ai #aiart #aishorts #コスプレ #アニメーション #sf #自作曲",
-      "author": "のあわ",
-      "url": "https://www.youtube.com/watch?v=aSSPNmbypOU",
-      "posted_at": "2026-07-13T11:00:40Z",
-      "lang": "",
-      "video_title": "( ´:ω:` )ｵﾖﾖニャンコしゃんそんなものを...# #ai #aiart #aishorts #コスプレ #アニメーション #sf #自作曲",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "EZE OYOYO #shorts #fyp",
-      "author": "Jonesjoke Solution",
-      "url": "https://www.youtube.com/watch?v=0bkzpPFmH_0",
-      "posted_at": "2026-07-05T18:30:01Z",
-      "lang": "",
-      "video_title": "EZE OYOYO #shorts #fyp",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "孝太郎farmオヨヨ❕今年も何かがありました。",
-      "author": "孝太郎Farmオﾖﾖ‼️",
-      "url": "https://www.youtube.com/watch?v=BK6qqCDvkK8",
-      "posted_at": "2026-06-14T13:32:01Z",
-      "lang": "",
-      "video_title": "孝太郎farmオヨヨ❕今年も何かがありました。",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "オヨヨ！#プロスピa #プロスピ #プロ野球 #プロ野球スピリッツa #プロ野球スピリッツ #ゲーム #ショート #shorts #music #sランク契約書 #契約書開封 #阪神タイガース",
-      "author": "石井GOちゃんねる",
-      "url": "https://www.youtube.com/watch?v=JdLOzEtF84Y",
-      "posted_at": "2026-06-01T00:28:47Z",
-      "lang": "",
-      "video_title": "オヨヨ！#プロスピa #プロスピ #プロ野球 #プロ野球スピリッツa #プロ野球スピリッツ #ゲーム #ショート #shorts #music #sランク契約書 #契約書開封 #阪神タイガース",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "先発オヨヨで遊んでみたPart3【プロスピAリアタイ】【阪神純正】",
-      "author": "せうき",
-      "url": "https://www.youtube.com/watch?v=7VNxsbDlMVY",
-      "posted_at": "2026-03-07T02:01:53Z",
-      "lang": "",
-      "video_title": "先発オヨヨで遊んでみたPart3【プロスピAリアタイ】【阪神純正】",
       "kind": "video_title"
     },
     {
