@@ -1,12 +1,46 @@
 {
-  "updated_at": "2026-08-15T21:13:34+00:00",
-  "count": 26,
+  "updated_at": "2026-08-16T21:12:39+00:00",
+  "count": 28,
   "sources": {
-    "youtube": 8,
     "bluesky": 12,
+    "youtube": 10,
     "mastodon": 6
   },
   "items": [
+    {
+      "source": "bluesky",
+      "text": "今日で夏休み終了です…………オヨヨ…………",
+      "author": "@karaigohan.bsky.social",
+      "url": "https://bsky.app/profile/karaigohan.bsky.social/post/3mt77lvetv22c",
+      "posted_at": "2026-08-16T12:42:43.465Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "さいごはオヨヨ\nよろしくね🐱",
+      "author": "@luna-and-becky.bsky.social",
+      "url": "https://bsky.app/profile/luna-and-becky.bsky.social/post/3mt74zmk5gc2k",
+      "posted_at": "2026-08-16T11:56:42.266Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "後日描かれてたサンタコス見てああ…オヨヨ……となってしまったんですよねえっちえっち",
+      "author": "@umber1182.bsky.social",
+      "url": "https://bsky.app/profile/umber1182.bsky.social/post/3mt6w4rtukc2n",
+      "posted_at": "2026-08-16T09:53:11.172Z",
+      "lang": "ja"
+    },
+    {
+      "source": "youtube",
+      "text": "oyoyo my pikin welcome home. #gospelmusic #faith #fyp",
+      "author": "Grace Darlington",
+      "url": "https://www.youtube.com/watch?v=inCP3eo3ErQ",
+      "posted_at": "2026-08-16T04:44:08Z",
+      "lang": "",
+      "video_title": "oyoyo my pikin welcome home. #gospelmusic #faith #fyp",
+      "kind": "video_title"
+    },
     {
       "source": "youtube",
       "text": "Oyoyo",
@@ -32,6 +66,16 @@
       "url": "https://bsky.app/profile/riyru4l.bsky.social/post/3mt4hg2hpvk2b",
       "posted_at": "2026-08-15T10:24:36.867Z",
       "lang": "ja"
+    },
+    {
+      "source": "youtube",
+      "text": "Oyoyo 💯🪶👑#ancestors #igboamaka #fytytheancestor",
+      "author": "FYTY",
+      "url": "https://www.youtube.com/watch?v=PhdfjLSCOAs",
+      "posted_at": "2026-08-15T06:41:49Z",
+      "lang": "",
+      "video_title": "Oyoyo 💯🪶👑#ancestors #igboamaka #fytytheancestor",
+      "kind": "video_title"
     },
     {
       "source": "bluesky",
@@ -76,16 +120,6 @@
       "kind": "video_title"
     },
     {
-      "source": "youtube",
-      "text": "MAI OYOYO=Mai oyoyo ke yabo annabi Muhammadu new sounds",
-      "author": "Abubakar dan Zakeeru",
-      "url": "https://www.youtube.com/watch?v=Aude8nkx_yc",
-      "posted_at": "2026-08-14T15:30:05Z",
-      "lang": "",
-      "video_title": "MAI OYOYO=Mai oyoyo ke yabo annabi Muhammadu new sounds",
-      "kind": "video_title"
-    },
-    {
       "source": "bluesky",
       "text": "やっぱこのペンで漫画描くと時間かかるな………いつものペンの倍はかかってる気がする………オヨヨ……",
       "author": "@sayyeah000.bsky.social",
@@ -110,28 +144,14 @@
       "lang": "ja"
     },
     {
-      "source": "bluesky",
-      "text": "それだーーーー!!!!!現実改変が全然出てこなくてなんだっけ…ｱﾚ……ってなってました😂😂\nありがとうございます!!!🎯さんてほんと悪〜い感じ似合っちゃって困ります😣しかもそれがめろくて😣\nこれを元に描き進めてたものがあった記憶がうっすらあるんですけどどこいったか分かんなくなって今悲しんでいますｵﾖﾖ🥲",
-      "author": "@iiizuriii.bsky.social",
-      "url": "https://bsky.app/profile/iiizuriii.bsky.social/post/3mt233pf74k2d",
-      "posted_at": "2026-08-14T11:38:45.267Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "水着PU2に大体いつも泣いてるからやっぱり簡単に来てくれないよね！！！！！！ってハンカチ噛みしめるよオヨヨ",
-      "author": "@parum-rs.bsky.social",
-      "url": "https://bsky.app/profile/parum-rs.bsky.social/post/3mt225h4dik2y",
-      "posted_at": "2026-08-14T11:21:51.868Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "VRC名鑑という同じ楽しみ方をできる人を探せるサービスを試しに覗いてみたら、やっぱり自分がやりたい楽しみ方は想定されてないっぽくてオヨヨ...ってなった",
-      "author": "@yuma0728.bsky.social",
-      "url": "https://bsky.app/profile/yuma0728.bsky.social/post/3mszwzflddc2f",
-      "posted_at": "2026-08-14T10:25:53.663Z",
-      "lang": "ja"
+      "source": "youtube",
+      "text": "EVENING OYOYO | 11TH AUG 2026",
+      "author": "Wazobia FM",
+      "url": "https://www.youtube.com/watch?v=pgdzo1Jik7I",
+      "posted_at": "2026-08-12T06:04:13Z",
+      "lang": "",
+      "video_title": "EVENING OYOYO | 11TH AUG 2026",
+      "kind": "video_title"
     },
     {
       "source": "youtube",
@@ -175,12 +195,12 @@
     },
     {
       "source": "youtube",
-      "text": "EVENING OYOYO | 16TH JULY 2026",
-      "author": "Wazobia FM",
-      "url": "https://www.youtube.com/watch?v=zLLYjGEy3ZE",
-      "posted_at": "2026-07-17T06:03:56Z",
+      "text": "( ´:ω:` )ｵﾖﾖニャンコしゃんそんなものを...# #ai #aiart #aishorts #コスプレ #アニメーション #sf #自作曲",
+      "author": "のあわ",
+      "url": "https://www.youtube.com/watch?v=aSSPNmbypOU",
+      "posted_at": "2026-07-13T11:00:40Z",
       "lang": "",
-      "video_title": "EVENING OYOYO | 16TH JULY 2026",
+      "video_title": "( ´:ω:` )ｵﾖﾖニャンコしゃんそんなものを...# #ai #aiart #aishorts #コスプレ #アニメーション #sf #自作曲",
       "kind": "video_title"
     },
     {
