@@ -1,12 +1,112 @@
 {
-  "updated_at": "2026-08-18T21:15:45+00:00",
-  "count": 28,
+  "updated_at": "2026-08-19T21:18:17+00:00",
+  "count": 30,
   "sources": {
-    "youtube": 10,
+    "youtube": 12,
     "bluesky": 12,
     "mastodon": 6
   },
   "items": [
+    {
+      "source": "youtube",
+      "text": "OYOYO ANNABI ﷺ",
+      "author": "Al-Bidawey Azare ",
+      "url": "https://www.youtube.com/watch?v=o9_1lA50ckQ",
+      "posted_at": "2026-08-19T16:19:57Z",
+      "lang": "",
+      "video_title": "OYOYO ANNABI ﷺ",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "独が鬼灯様で鬼灯様が独に聞こえるという重症を…ｵﾖﾖ",
+      "author": "@sanznri0724.bsky.social",
+      "url": "https://bsky.app/profile/sanznri0724.bsky.social/post/3mth2oqeltk2m",
+      "posted_at": "2026-08-19T15:36:06.770Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "このおっきーの霊衣が実装されないのは何故…オヨヨ",
+      "author": "@ponchanpon.bsky.social",
+      "url": "https://bsky.app/profile/ponchanpon.bsky.social/post/3mth2izfrds2b",
+      "posted_at": "2026-08-19T15:32:55.111Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "全然描いてなかったから全然描けなくなっててオヨヨ、、、",
+      "author": "@k9u6ro.bsky.social",
+      "url": "https://bsky.app/profile/k9u6ro.bsky.social/post/3mtgvy3dtd22x",
+      "posted_at": "2026-08-19T14:11:51.375Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "やさしい🥺\n\nとりあえずSwitchの充電して本体更新します…！ｵﾖﾖ…",
+      "author": "@2525bnk.bsky.social",
+      "url": "https://bsky.app/profile/2525bnk.bsky.social/post/3mtgtx7ti3c2u",
+      "posted_at": "2026-08-19T13:35:38.369Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "サンキュー！オヨヨ！",
+      "author": "@intelligenceagents.bsky.social",
+      "url": "https://bsky.app/profile/intelligenceagents.bsky.social/post/3mtgomtujms2w",
+      "posted_at": "2026-08-19T12:00:19.171Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "オヨヨ！三凡でピシャッと抑えて反撃いこ！！",
+      "author": "@intelligenceagents.bsky.social",
+      "url": "https://bsky.app/profile/intelligenceagents.bsky.social/post/3mtgo7dcjc22w",
+      "posted_at": "2026-08-19T11:52:45.570Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "オヨヨ\n気持ち落ち着かせてな🥲\nあと、近々🌈フレの打ち合わせ？というか確認通話しましょ︎🙋‍♀️",
+      "author": "@oyasumi9324.bsky.social",
+      "url": "https://bsky.app/profile/oyasumi9324.bsky.social/post/3mtgk2u7bh22q",
+      "posted_at": "2026-08-19T10:38:41.265Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "調子悪いぜ\nオヨヨ\nそうめんでも食うか",
+      "author": "@koyuuzamakkuro.bsky.social",
+      "url": "https://bsky.app/profile/koyuuzamakkuro.bsky.social/post/3mtgegqyj4s2f",
+      "posted_at": "2026-08-19T08:57:57.162Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "あとは絵と作文で同じモチーフが出力できたらいいんだけどなあ　オヨヨ",
+      "author": "@noctis99.bsky.social",
+      "url": "https://bsky.app/profile/noctis99.bsky.social/post/3mtg47tc2bc2r",
+      "posted_at": "2026-08-19T06:30:54.565Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "え！！！\nうぞぉ～～…義務外出のついでに喫茶クレマチス行くぞ～☺と思ったら定休日　ｵﾖﾖ…😭",
+      "author": "@kansoiuumiusi.bsky.social",
+      "url": "https://bsky.app/profile/kansoiuumiusi.bsky.social/post/3mtfwmmpzv22v",
+      "posted_at": "2026-08-19T04:50:40.271Z",
+      "lang": "ja"
+    },
+    {
+      "source": "youtube",
+      "text": "OYOYO ANNABI #music #ghazals #duet #realiy #arewa #kannywood #stitch #arhaus #amanaz",
+      "author": "Al-Bidawey Azare ",
+      "url": "https://www.youtube.com/watch?v=p996WudSV4k",
+      "posted_at": "2026-08-19T00:25:36Z",
+      "lang": "",
+      "video_title": "OYOYO ANNABI #music #ghazals #duet #realiy #arewa #kannywood #stitch #arhaus #amanaz",
+      "kind": "video_title"
+    },
     {
       "source": "youtube",
       "text": "Oyoyo Chim (feat. Fabtunez)",
@@ -16,14 +116,6 @@
       "lang": "",
       "video_title": "Oyoyo Chim (feat. Fabtunez)",
       "kind": "video_title"
-    },
-    {
-      "source": "bluesky",
-      "text": "言葉に出すことは決してないけどほんとに心の余裕が無くて移動中とかずっと頭で他者と自分を罵倒しまくっている自分がいて自己嫌悪オヨヨ…いい人になりたかったﾅ",
-      "author": "@me00da.bsky.social",
-      "url": "https://bsky.app/profile/me00da.bsky.social/post/3mtegliak3223",
-      "posted_at": "2026-08-18T14:31:05.775Z",
-      "lang": "ja"
     },
     {
       "source": "bluesky",
@@ -42,28 +134,14 @@
       "lang": "ja"
     },
     {
-      "source": "bluesky",
-      "text": "湯浅くんはもうオーシャンでいくんやな😇オヨヨに続いてピシャッと頼むよ🙏",
-      "author": "@intelligenceagents.bsky.social",
-      "url": "https://bsky.app/profile/intelligenceagents.bsky.social/post/3mte4ae6ezk2p",
-      "posted_at": "2026-08-18T11:25:53.165Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "オヨヨ今日はピシャリと抑えてくれな😇",
-      "author": "@intelligenceagents.bsky.social",
-      "url": "https://bsky.app/profile/intelligenceagents.bsky.social/post/3mte3kchves2p",
-      "posted_at": "2026-08-18T11:13:32.763Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "間違えて色つけちゃったよ～～～ｵﾖﾖ🥹\nもっかいチャレンジ……🥹",
-      "author": "@youri0318.bsky.social",
-      "url": "https://bsky.app/profile/youri0318.bsky.social/post/3mtdxylilvk22",
-      "posted_at": "2026-08-18T10:09:57.066Z",
-      "lang": "ja"
+      "source": "youtube",
+      "text": "Oyoyo(Reminder)",
+      "author": "Neorain IFC - Topic",
+      "url": "https://www.youtube.com/watch?v=H2CXpe6Q1sE",
+      "posted_at": "2026-08-18T10:04:50Z",
+      "lang": "",
+      "video_title": "Oyoyo(Reminder)",
+      "kind": "video_title"
     },
     {
       "source": "youtube",
@@ -74,84 +152,6 @@
       "lang": "",
       "video_title": "Baby Oyoyo - Mhartino ft deMarquis and Olami",
       "kind": "video_title"
-    },
-    {
-      "source": "bluesky",
-      "text": "なんかネットで見てウマそ！と思って頼んだら熊本だったらしくて地震云々感謝ありがとうみたいな手紙が来てｵﾖﾖ💦お酒が飲みたいだけで💦こちらこそ忙しい時に何も知らないのに頼んですまん💦となってしまった\nほんまごめん",
-      "author": "@youudao.bsky.social",
-      "url": "https://bsky.app/profile/youudao.bsky.social/post/3mtdtzrfers2q",
-      "posted_at": "2026-08-18T08:59:00.465Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "ｵﾖﾖ……大丈夫かな……涼しくして水分とってお大事にね……",
-      "author": "@krkaze30.bsky.social",
-      "url": "https://bsky.app/profile/krkaze30.bsky.social/post/3mtdpwskqoc2f",
-      "posted_at": "2026-08-18T07:45:46.763Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "オヨヨ、、\nXRの傾向としては一番高いチケなほど前に座席用意される傾向に……あります！\nむしろ安いチケとっても後ろの方で見づらくなるのでそれならいっそのこと配信……と言う手もあるもかな！とは思います❗詳細出てないので何ともですが無理なされずに、！",
-      "author": "@poppuknk.bsky.social",
-      "url": "https://bsky.app/profile/poppuknk.bsky.social/post/3mtdh6bvxsk2p",
-      "posted_at": "2026-08-18T05:08:55.267Z",
-      "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "Mukarram Taka Oyoyo Sayyidi 2026",
-      "author": "Mukarram Taka",
-      "url": "https://www.youtube.com/watch?v=nRiOCYYuBa8",
-      "posted_at": "2026-08-17T19:17:06Z",
-      "lang": "",
-      "video_title": "Mukarram Taka Oyoyo Sayyidi 2026",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "MAI OYOYO=YA INYASS INYASS INYASS INYASA YA INYASS INYASS INYASA BAYE ",
-      "author": "Abubakar dan Zakeeru",
-      "url": "https://www.youtube.com/watch?v=6vFt0X2DeT0",
-      "posted_at": "2026-08-17T18:41:07Z",
-      "lang": "",
-      "video_title": "MAI OYOYO=YA INYASS INYASS INYASS INYASA YA INYASS INYASS INYASA BAYE ",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "MAI OYOYO=TAKEN YAN FAIRA NEWS SOUNDS ",
-      "author": "Abubakar dan Zakeeru",
-      "url": "https://www.youtube.com/watch?v=aUQrTlhXL-s",
-      "posted_at": "2026-08-17T18:17:21Z",
-      "lang": "",
-      "video_title": "MAI OYOYO=TAKEN YAN FAIRA NEWS SOUNDS ",
-      "kind": "video_title"
-    },
-    {
-      "source": "bluesky",
-      "text": "異世界じゃなくて異界……ｵﾖﾖ……",
-      "author": "@katoubn.bsky.social",
-      "url": "https://bsky.app/profile/katoubn.bsky.social/post/3mtbvdakk7224",
-      "posted_at": "2026-08-17T14:16:53.474Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "実家のイッヌが1匹老衰で先ほど亡くなったと連絡がきて、10月に帰省しようとしてたのに遅かった…となりオヨヨになった\n生きとし生けるもの…父母がいる時に苦しまずだったらしくそれは本当に良かった…うう",
-      "author": "@ymnyanxoxo.bsky.social",
-      "url": "https://bsky.app/profile/ymnyanxoxo.bsky.social/post/3mtbuqpp67k2g",
-      "posted_at": "2026-08-17T14:06:31.863Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "Super Gussan Oyoyo? www.hardcoregaming101.net/super-gussun...",
-      "author": "@arcadianrhythm.com",
-      "url": "https://bsky.app/profile/arcadianrhythm.com/post/3mtbgqy4c2s25",
-      "posted_at": "2026-08-17T09:56:08.567Z",
-      "lang": "en"
     },
     {
       "source": "youtube",
@@ -201,6 +201,26 @@
       "posted_at": "2026-07-13T11:00:40Z",
       "lang": "",
       "video_title": "( ´:ω:` )ｵﾖﾖニャンコしゃんそんなものを...# #ai #aiart #aishorts #コスプレ #アニメーション #sf #自作曲",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "EZE OYOYO #shorts #fyp",
+      "author": "Jonesjoke Solution",
+      "url": "https://www.youtube.com/watch?v=0bkzpPFmH_0",
+      "posted_at": "2026-07-05T18:30:01Z",
+      "lang": "",
+      "video_title": "EZE OYOYO #shorts #fyp",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "孝太郎farmオヨヨ❕今年も何かがありました。",
+      "author": "孝太郎Farmオﾖﾖ‼️",
+      "url": "https://www.youtube.com/watch?v=BK6qqCDvkK8",
+      "posted_at": "2026-06-14T13:32:01Z",
+      "lang": "",
+      "video_title": "孝太郎farmオヨヨ❕今年も何かがありました。",
       "kind": "video_title"
     },
     {
