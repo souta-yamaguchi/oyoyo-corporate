@@ -1,21 +1,65 @@
 {
-  "updated_at": "2026-08-19T21:18:17+00:00",
-  "count": 30,
+  "updated_at": "2026-08-20T21:20:44+00:00",
+  "count": 26,
   "sources": {
-    "youtube": 12,
+    "youtube": 8,
     "bluesky": 12,
     "mastodon": 6
   },
   "items": [
     {
       "source": "youtube",
-      "text": "OYOYO ANNABI ﷺ",
-      "author": "Al-Bidawey Azare ",
-      "url": "https://www.youtube.com/watch?v=o9_1lA50ckQ",
-      "posted_at": "2026-08-19T16:19:57Z",
+      "text": "Oyoyo Faruqu; by Yusuf Burku.",
+      "author": "Yusuf Burku",
+      "url": "https://www.youtube.com/watch?v=5E-FY8oZSvU",
+      "posted_at": "2026-08-20T13:09:01Z",
       "lang": "",
-      "video_title": "OYOYO ANNABI ﷺ",
+      "video_title": "Oyoyo Faruqu; by Yusuf Burku.",
       "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "Oyoyo Abul Zahra",
+      "author": "Bstar Sound - Topic",
+      "url": "https://www.youtube.com/watch?v=M6VXWeyttEo",
+      "posted_at": "2026-08-20T11:56:32Z",
+      "lang": "",
+      "video_title": "Oyoyo Abul Zahra",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "梱包、発送、返信、オヨヨ",
+      "author": "@cheap7.bsky.social",
+      "url": "https://bsky.app/profile/cheap7.bsky.social/post/3mtj6cdwzdc2t",
+      "posted_at": "2026-08-20T11:46:05.769Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "オヨヨ〜っ（健全な人かと思ったら、私は検便な人だった…………）\n\n\nｼﾞｬｰｰｰｰｰｰｰｰｰｰｰｰ（ちょっと掬われて、流される）",
+      "author": "@sinkinrui.misskey.io.ap.brid.gy",
+      "url": "https://bsky.app/profile/sinkinrui.misskey.io.ap.brid.gy/post/3mtix3mdzhc42",
+      "posted_at": "2026-08-20T09:37:07.965Z",
+      "lang": ""
+    },
+    {
+      "source": "youtube",
+      "text": "Sabuwar wakar kareka Mai Suna OYOYO KAREKA Daga Dr.khan Jahun",
+      "author": "JAHUN ENTERTAINMENT TV",
+      "url": "https://www.youtube.com/watch?v=kety-S5qBbw",
+      "posted_at": "2026-08-20T07:06:42Z",
+      "lang": "",
+      "video_title": "Sabuwar wakar kareka Mai Suna OYOYO KAREKA Daga Dr.khan Jahun",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "🕹️ Gussun Oyoyo\n📚 Playstation Magazine 5\n👤 ComfortFoodVideoGames (Internet Archive)",
+      "author": "@japmagads.bsky.social",
+      "url": "https://bsky.app/profile/japmagads.bsky.social/post/3mti27uixdq2j",
+      "posted_at": "2026-08-20T01:00:28.074Z",
+      "lang": "en-US"
     },
     {
       "source": "bluesky",
@@ -48,6 +92,16 @@
       "url": "https://bsky.app/profile/2525bnk.bsky.social/post/3mtgtx7ti3c2u",
       "posted_at": "2026-08-19T13:35:38.369Z",
       "lang": "ja"
+    },
+    {
+      "source": "youtube",
+      "text": "Oyoyo Akara #hsmfitv #africa #akara #myhealth",
+      "author": "HSMFI Tv",
+      "url": "https://www.youtube.com/watch?v=WOZAOncF95M",
+      "posted_at": "2026-08-19T12:05:39Z",
+      "lang": "",
+      "video_title": "Oyoyo Akara #hsmfitv #africa #akara #myhealth",
+      "kind": "video_title"
     },
     {
       "source": "bluesky",
@@ -90,70 +144,6 @@
       "lang": "ja"
     },
     {
-      "source": "bluesky",
-      "text": "え！！！\nうぞぉ～～…義務外出のついでに喫茶クレマチス行くぞ～☺と思ったら定休日　ｵﾖﾖ…😭",
-      "author": "@kansoiuumiusi.bsky.social",
-      "url": "https://bsky.app/profile/kansoiuumiusi.bsky.social/post/3mtfwmmpzv22v",
-      "posted_at": "2026-08-19T04:50:40.271Z",
-      "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "OYOYO ANNABI #music #ghazals #duet #realiy #arewa #kannywood #stitch #arhaus #amanaz",
-      "author": "Al-Bidawey Azare ",
-      "url": "https://www.youtube.com/watch?v=p996WudSV4k",
-      "posted_at": "2026-08-19T00:25:36Z",
-      "lang": "",
-      "video_title": "OYOYO ANNABI #music #ghazals #duet #realiy #arewa #kannywood #stitch #arhaus #amanaz",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "Oyoyo Chim (feat. Fabtunez)",
-      "author": "Canan Jones - Topic",
-      "url": "https://www.youtube.com/watch?v=yR0ZT--DUw4",
-      "posted_at": "2026-08-18T16:15:41Z",
-      "lang": "",
-      "video_title": "Oyoyo Chim (feat. Fabtunez)",
-      "kind": "video_title"
-    },
-    {
-      "source": "bluesky",
-      "text": "わぁ〜有難いご意見！逆に当日行かれないけど同じ内容だったら本で、という安心感もあるかもしれない…あるといいなあ🥲\nていうか34が怖い！まあ楽しんでもらえるなら正直いいんですけど、まあ扱いが…ｵﾖﾖ…\n転載されてるやつ英訳あるのにわざわざ日本語を置かれてて怒ってます(そこ？！)",
-      "author": "@8284-dr.bsky.social",
-      "url": "https://bsky.app/profile/8284-dr.bsky.social/post/3mteg74jq4c2z",
-      "posted_at": "2026-08-18T14:24:09.179Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "かわいいがいっぱいだー！！\nツーハン、あり、ますかね、ｵﾖﾖ",
-      "author": "@2525bnk.bsky.social",
-      "url": "https://bsky.app/profile/2525bnk.bsky.social/post/3mte6225zyk2r",
-      "posted_at": "2026-08-18T11:58:08.665Z",
-      "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "Oyoyo(Reminder)",
-      "author": "Neorain IFC - Topic",
-      "url": "https://www.youtube.com/watch?v=H2CXpe6Q1sE",
-      "posted_at": "2026-08-18T10:04:50Z",
-      "lang": "",
-      "video_title": "Oyoyo(Reminder)",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "Baby Oyoyo - Mhartino ft deMarquis and Olami",
-      "author": "Mhartino",
-      "url": "https://www.youtube.com/watch?v=20NL0OPNtE8",
-      "posted_at": "2026-08-18T09:00:02Z",
-      "lang": "",
-      "video_title": "Baby Oyoyo - Mhartino ft deMarquis and Olami",
-      "kind": "video_title"
-    },
-    {
       "source": "youtube",
       "text": "EVENING OYOYO |16TH AUGUST 2026",
       "author": "Wazobia FM",
@@ -191,36 +181,6 @@
       "posted_at": "2026-07-20T19:00:05Z",
       "lang": "",
       "video_title": "A very big oyoyo from daddy",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "( ´:ω:` )ｵﾖﾖニャンコしゃんそんなものを...# #ai #aiart #aishorts #コスプレ #アニメーション #sf #自作曲",
-      "author": "のあわ",
-      "url": "https://www.youtube.com/watch?v=aSSPNmbypOU",
-      "posted_at": "2026-07-13T11:00:40Z",
-      "lang": "",
-      "video_title": "( ´:ω:` )ｵﾖﾖニャンコしゃんそんなものを...# #ai #aiart #aishorts #コスプレ #アニメーション #sf #自作曲",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "EZE OYOYO #shorts #fyp",
-      "author": "Jonesjoke Solution",
-      "url": "https://www.youtube.com/watch?v=0bkzpPFmH_0",
-      "posted_at": "2026-07-05T18:30:01Z",
-      "lang": "",
-      "video_title": "EZE OYOYO #shorts #fyp",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "孝太郎farmオヨヨ❕今年も何かがありました。",
-      "author": "孝太郎Farmオﾖﾖ‼️",
-      "url": "https://www.youtube.com/watch?v=BK6qqCDvkK8",
-      "posted_at": "2026-06-14T13:32:01Z",
-      "lang": "",
-      "video_title": "孝太郎farmオヨヨ❕今年も何かがありました。",
       "kind": "video_title"
     },
     {
