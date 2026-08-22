@@ -1,12 +1,72 @@
 {
-  "updated_at": "2026-08-21T21:16:13+00:00",
-  "count": 26,
+  "updated_at": "2026-08-22T21:14:18+00:00",
+  "count": 30,
   "sources": {
-    "youtube": 8,
     "bluesky": 12,
+    "youtube": 12,
     "mastodon": 6
   },
   "items": [
+    {
+      "source": "bluesky",
+      "text": "ｵﾖﾖ",
+      "author": "@jawa-kkk.bsky.social",
+      "url": "https://bsky.app/profile/jawa-kkk.bsky.social/post/3mtor3oibtk2b",
+      "posted_at": "2026-08-22T17:05:41.865Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "AIにお金使いすぎと怒られたので節約です。ｵﾖﾖ",
+      "author": "@aoo.a-zero.net",
+      "url": "https://bsky.app/profile/aoo.a-zero.net/post/3mtoek3vfwk24",
+      "posted_at": "2026-08-22T13:21:06.875Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "もうだめすぎてオヨヨ",
+      "author": "@221trsm.bsky.social",
+      "url": "https://bsky.app/profile/221trsm.bsky.social/post/3mtoc36ahgc2l",
+      "posted_at": "2026-08-22T12:36:58.165Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "お世話になってる子を一部かいてみようかなと...バカむずくて悲鳴上げながら描いたよｵﾖﾖ...",
+      "author": "@hrnnnz3.bsky.social",
+      "url": "https://bsky.app/profile/hrnnnz3.bsky.social/post/3mto7xylp6s2g",
+      "posted_at": "2026-08-22T11:59:30.477Z",
+      "lang": "ja"
+    },
+    {
+      "source": "youtube",
+      "text": "oye hoe #popularsong viral songs like subscribe YouTube shorts ❤️ #oyoyo",
+      "author": "chandani I love banarasi 💕😊",
+      "url": "https://www.youtube.com/watch?v=kkV3PrTkHHM",
+      "posted_at": "2026-08-22T07:40:30Z",
+      "lang": "",
+      "video_title": "oye hoe #popularsong viral songs like subscribe YouTube shorts ❤️ #oyoyo",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "護符ももりもり増やさないとだｵﾖﾖ",
+      "author": "@omochimochiwo.bsky.social",
+      "url": "https://bsky.app/profile/omochimochiwo.bsky.social/post/3mtnmflqejk27",
+      "posted_at": "2026-08-22T06:09:05.771Z",
+      "lang": "ja"
+    },
+    {
+      "source": "youtube",
+      "text": "mana oyoyo #fypシ゚viral #haveitoldyoulatelythatiloveyou #dancevideo #duet #dance",
+      "author": "Chinelo Rita TV",
+      "url": "https://www.youtube.com/watch?v=JRX9oS3F-Rk",
+      "posted_at": "2026-08-22T00:10:22Z",
+      "lang": "",
+      "video_title": "mana oyoyo #fypシ゚viral #haveitoldyoulatelythatiloveyou #dancevideo #duet #dance",
+      "kind": "video_title"
+    },
     {
       "source": "youtube",
       "text": "SUPER GUSSUN OYOYO [SNES] I Pippozzi nel Tempio Maledetto Infame (Banpresto 1993)",
@@ -94,46 +154,6 @@
       "lang": "ja"
     },
     {
-      "source": "bluesky",
-      "text": "梱包、発送、返信、オヨヨ",
-      "author": "@cheap7.bsky.social",
-      "url": "https://bsky.app/profile/cheap7.bsky.social/post/3mtj6cdwzdc2t",
-      "posted_at": "2026-08-20T11:46:05.769Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "オヨヨ〜っ（健全な人かと思ったら、私は検便な人だった…………）\n\n\nｼﾞｬｰｰｰｰｰｰｰｰｰｰｰｰ（ちょっと掬われて、流される）",
-      "author": "@sinkinrui.misskey.io.ap.brid.gy",
-      "url": "https://bsky.app/profile/sinkinrui.misskey.io.ap.brid.gy/post/3mtix3mdzhc42",
-      "posted_at": "2026-08-20T09:37:07.965Z",
-      "lang": ""
-    },
-    {
-      "source": "bluesky",
-      "text": "🕹️ Gussun Oyoyo\n📚 Playstation Magazine 5\n👤 ComfortFoodVideoGames (Internet Archive)",
-      "author": "@japmagads.bsky.social",
-      "url": "https://bsky.app/profile/japmagads.bsky.social/post/3mti27uixdq2j",
-      "posted_at": "2026-08-20T01:00:28.074Z",
-      "lang": "en-US"
-    },
-    {
-      "source": "bluesky",
-      "text": "独が鬼灯様で鬼灯様が独に聞こえるという重症を…ｵﾖﾖ",
-      "author": "@sanznri0724.bsky.social",
-      "url": "https://bsky.app/profile/sanznri0724.bsky.social/post/3mth2oqeltk2m",
-      "posted_at": "2026-08-19T15:36:06.770Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "このおっきーの霊衣が実装されないのは何故…オヨヨ",
-      "author": "@ponchanpon.bsky.social",
-      "url": "https://bsky.app/profile/ponchanpon.bsky.social/post/3mth2izfrds2b",
-      "posted_at": "2026-08-19T15:32:55.111Z",
-      "lang": "ja"
-    },
-    {
       "source": "youtube",
       "text": "Oyoyo Akara #hsmfitv #africa #akara #myhealth",
       "author": "HSMFI Tv",
@@ -181,6 +201,26 @@
       "posted_at": "2026-07-20T19:00:05Z",
       "lang": "",
       "video_title": "A very big oyoyo from daddy",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "( ´:ω:` )ｵﾖﾖニャンコしゃんそんなものを...# #ai #aiart #aishorts #コスプレ #アニメーション #sf #自作曲",
+      "author": "のあわ",
+      "url": "https://www.youtube.com/watch?v=aSSPNmbypOU",
+      "posted_at": "2026-07-13T11:00:40Z",
+      "lang": "",
+      "video_title": "( ´:ω:` )ｵﾖﾖニャンコしゃんそんなものを...# #ai #aiart #aishorts #コスプレ #アニメーション #sf #自作曲",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "EZE OYOYO #shorts #fyp",
+      "author": "Jonesjoke Solution",
+      "url": "https://www.youtube.com/watch?v=0bkzpPFmH_0",
+      "posted_at": "2026-07-05T18:30:01Z",
+      "lang": "",
+      "video_title": "EZE OYOYO #shorts #fyp",
       "kind": "video_title"
     },
     {
