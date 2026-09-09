@@ -1,61 +1,117 @@
 {
-  "updated_at": "2026-09-08T23:05:30+00:00",
-  "count": 29,
+  "updated_at": "2026-09-09T22:52:30+00:00",
+  "count": 27,
   "sources": {
-    "youtube": 11,
+    "youtube": 9,
     "bluesky": 12,
     "mastodon": 6
   },
   "items": [
     {
       "source": "youtube",
-      "text": "OYOYO  is live! My Morning  Routine 🌅",
+      "text": "OYOYO  is live!",
       "author": "OYOYO ",
-      "url": "https://www.youtube.com/watch?v=PlrFljsbmrQ",
-      "posted_at": "2026-09-08T21:45:56Z",
+      "url": "https://www.youtube.com/watch?v=3cwNwuIhKfk",
+      "posted_at": "2026-09-09T21:41:19Z",
       "lang": "",
-      "video_title": "OYOYO  is live! My Morning  Routine 🌅",
+      "video_title": "OYOYO  is live!",
       "kind": "video_title"
     },
     {
       "source": "youtube",
-      "text": "OYOYO  is live!  Mary bu ide Mama o🎺🎵🎶",
+      "text": "ABUBAKAR NA MANZO OYOYO (OFFICIAL AUDIO MP4",
+      "author": "Musa Na Annabi Saw",
+      "url": "https://www.youtube.com/watch?v=3UefctkRSXE",
+      "posted_at": "2026-09-09T17:59:55Z",
+      "lang": "",
+      "video_title": "ABUBAKAR NA MANZO OYOYO (OFFICIAL AUDIO MP4",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "OYOYO  is live! Using Chewing Stick to Brush My Teeth",
       "author": "OYOYO ",
-      "url": "https://www.youtube.com/watch?v=vERFDiNYR9k",
-      "posted_at": "2026-09-08T20:41:37Z",
+      "url": "https://www.youtube.com/watch?v=rn5dIxRvrSA",
+      "posted_at": "2026-09-09T15:15:56Z",
       "lang": "",
-      "video_title": "OYOYO  is live!  Mary bu ide Mama o🎺🎵🎶",
+      "video_title": "OYOYO  is live! Using Chewing Stick to Brush My Teeth",
       "kind": "video_title"
     },
     {
       "source": "youtube",
-      "text": "late streaming oyoyo boi",
-      "author": "kurapa",
-      "url": "https://www.youtube.com/watch?v=-5gSNUw8zdo",
-      "posted_at": "2026-09-08T19:11:55Z",
-      "lang": "",
-      "video_title": "late streaming oyoyo boi",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "OYOYO  is live! SEWING 🧵",
+      "text": "OYOYO  is live! Tailoring is Stressful jorrh!!!",
       "author": "OYOYO ",
-      "url": "https://www.youtube.com/watch?v=9uRPt105v5c",
-      "posted_at": "2026-09-08T16:30:16Z",
+      "url": "https://www.youtube.com/watch?v=NFexPztqA6c",
+      "posted_at": "2026-09-09T14:32:29Z",
       "lang": "",
-      "video_title": "OYOYO  is live! SEWING 🧵",
+      "video_title": "OYOYO  is live! Tailoring is Stressful jorrh!!!",
       "kind": "video_title"
     },
     {
+      "source": "bluesky",
+      "text": "己の創作話的なアレソレとして根底にある精神的マウント云々の話を政治的な見解に紐づけられて悲しいよ･･･ｵﾖﾖ･･･",
+      "author": "@siontukiya.uktrompeloeil.com.ap.brid.gy",
+      "url": "https://bsky.app/profile/siontukiya.uktrompeloeil.com.ap.brid.gy/post/3mv3k64aafdw2",
+      "posted_at": "2026-09-09T12:31:45.873Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "春頃に私の好感度を上げようとして逆に下げまくる人がいてオヨヨー(´༎ຶོρ༎ຶོ`)てなっていたんですよね。私と仲良くしてもいいことはないので近寄らんといてください……",
+      "author": "@renge32.bsky.social",
+      "url": "https://bsky.app/profile/renge32.bsky.social/post/3mv3jumykps25",
+      "posted_at": "2026-09-09T12:26:17.365Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "薬飲んだけど頭痛引かないためちょと仮眠とる……オヨヨ",
+      "author": "@2525bnk.bsky.social",
+      "url": "https://bsky.app/profile/2525bnk.bsky.social/post/3mv3i3u4la22p",
+      "posted_at": "2026-09-09T11:54:31.770Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "コーヒー飲んだら吐き気がし始めてｵﾖﾖ……",
+      "author": "@lemonelow.bsky.social",
+      "url": "https://bsky.app/profile/lemonelow.bsky.social/post/3mv3ccyhbms2w",
+      "posted_at": "2026-09-09T10:11:09.560Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "プリンテックさんの孔版印刷で考えてるけど前は本文色変え紙変え無制限でしたと思うのですが仕様が変わった…？情勢上しゃあないし前に作った時ほど変えるつもりは無いと言えども…😭オヨヨ",
+      "author": "@ikeda9192.bsky.social",
+      "url": "https://bsky.app/profile/ikeda9192.bsky.social/post/3mv2yipgbac2p",
+      "posted_at": "2026-09-09T07:15:23.659Z",
+      "lang": "ja"
+    },
+    {
       "source": "youtube",
-      "text": "oyoyo #keşfet #keşfet ##keşfetbeniöneçıkart #keşfet #keşfet #keşfet #keşfet",
-      "author": "mrbacnm",
-      "url": "https://www.youtube.com/watch?v=pHe88citqF0",
-      "posted_at": "2026-09-08T13:12:54Z",
+      "text": "EVENING OYOYO||8TH SEPTEMBER 2026",
+      "author": "Wazobia FM",
+      "url": "https://www.youtube.com/watch?v=aU4_NDExw2g",
+      "posted_at": "2026-09-09T06:04:03Z",
       "lang": "",
-      "video_title": "oyoyo #keşfet #keşfet ##keşfetbeniöneçıkart #keşfet #keşfet #keşfet #keşfet",
+      "video_title": "EVENING OYOYO||8TH SEPTEMBER 2026",
       "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "here's one that I don't see mentioned anywhere: Gusson Oyoyo (but from who?) https://www.exophase.com/game/3411680-steam/achievements/",
+      "author": "@allcityslopshop.com",
+      "url": "https://bsky.app/profile/allcityslopshop.com/post/3mv2sn47dc2zb",
+      "posted_at": "2026-09-09T05:30:31.963Z",
+      "lang": "en"
+    },
+    {
+      "source": "bluesky",
+      "text": "GUSSUN OYOYO STEAM WHAT THE HELL",
+      "author": "@thesilkiest.bsky.social",
+      "url": "https://bsky.app/profile/thesilkiest.bsky.social/post/3mv2mxew4sc2x",
+      "posted_at": "2026-09-09T03:48:49.461Z",
+      "lang": "en"
     },
     {
       "source": "bluesky",
@@ -108,14 +164,6 @@
       "lang": "ja"
     },
     {
-      "source": "bluesky",
-      "text": "やぱ雨続くと元気はなくなる\nオヨヨのモード",
-      "author": "@horohukidaikon.bsky.social",
-      "url": "https://bsky.app/profile/horohukidaikon.bsky.social/post/3muucbcwbrs2w",
-      "posted_at": "2026-09-06T15:21:36.875Z",
-      "lang": "ja"
-    },
-    {
       "source": "youtube",
       "text": "期待、予感、可能性　怪人オヨヨ💕　（NHK少年ドラマシリーズより）　by　ピアノ即興詩人かわせひろし♪　2026/9/6（日）浜松駅　喫茶KAWAI　グランド・ピアノにて",
       "author": "かわせひろしHiroshi Kawase",
@@ -124,54 +172,6 @@
       "lang": "",
       "video_title": "期待、予感、可能性　怪人オヨヨ💕　（NHK少年ドラマシリーズより）　by　ピアノ即興詩人かわせひろし♪　2026/9/6（日）浜松駅　喫茶KAWAI　グランド・ピアノにて",
       "kind": "video_title"
-    },
-    {
-      "source": "bluesky",
-      "text": "上手にできました！🧂 ͗ ͗₍₍⁽⁽ 🍗 ₎₎⁾⁾🔥ﾎﾞ👉✨🫙✨\n\n威勢のいい声が響いているぜ〜！！！ 🫛🐕➰➰➰ 💥🌲🐴\n黒ガゴといいどうして初期降り地(?)につよ敵がいるんでしょうか🥺ｵﾖﾖ…\n🔥あれぃ！を撃ちたい😭マーキングがない😭あぁぁぁ…🐕➰➰\n\nセーブデータ共有があれば…！😭😭😭\nスリーブもかっこいい紙製のがついていたり🉐🉐🉐…",
-      "author": "@gao-sushi.bsky.social",
-      "url": "https://bsky.app/profile/gao-sushi.bsky.social/post/3mutwzfqkxk2c",
-      "posted_at": "2026-09-06T12:00:18.064Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "ヒョウリくん向いてると思う……ﾖ……ｵﾖﾖ……",
-      "author": "@duraheart.bsky.social",
-      "url": "https://bsky.app/profile/duraheart.bsky.social/post/3mutfsydtt222",
-      "posted_at": "2026-09-06T06:52:28.961Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "怒り通り越して凹んでいる あんなねむねむだったのに目が冴えてしまった オヨヨ…",
-      "author": "@arisannmiso.bsky.social",
-      "url": "https://bsky.app/profile/arisannmiso.bsky.social/post/3mursoeklvs2v",
-      "posted_at": "2026-09-05T15:37:13.060Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "明日朝から活動しなきゃいけないのやだよ〜〜オヨヨ〜〜",
-      "author": "@arnayn.bsky.social",
-      "url": "https://bsky.app/profile/arnayn.bsky.social/post/3murjowpwu22z",
-      "posted_at": "2026-09-05T12:56:28.661Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "シャドハはいいぞ\nウルアリ……カレン……ｵﾖﾖ……PS2のメモカがないからディスクがあっても遊べないんだ…",
-      "author": "@moromideeat.bsky.social",
-      "url": "https://bsky.app/profile/moromideeat.bsky.social/post/3mur7bkrw4226",
-      "posted_at": "2026-09-05T09:50:02.958Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "うーん、まだ2クレとはいえ、若干目が追いついてないをかんじる…オヨヨ",
-      "author": "@2525bnk.bsky.social",
-      "url": "https://bsky.app/profile/2525bnk.bsky.social/post/3muqkyzkfm22z",
-      "posted_at": "2026-09-05T03:47:21.460Z",
-      "lang": "ja"
     },
     {
       "source": "youtube",
@@ -191,26 +191,6 @@
       "posted_at": "2026-08-26T06:08:25Z",
       "lang": "",
       "video_title": "EVENING OYOYO | 25TH AUGUST 2026",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "Oyoyo Akara #hsmfitv #africa #akara #myhealth",
-      "author": "HSMFI Tv",
-      "url": "https://www.youtube.com/watch?v=WOZAOncF95M",
-      "posted_at": "2026-08-19T12:05:39Z",
-      "lang": "",
-      "video_title": "Oyoyo Akara #hsmfitv #africa #akara #myhealth",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "( ´:ω:` )ｵﾖﾖニャンコしゃんそんなものを...# #ai #aiart #aishorts #コスプレ #アニメーション #sf #自作曲",
-      "author": "のあわ",
-      "url": "https://www.youtube.com/watch?v=aSSPNmbypOU",
-      "posted_at": "2026-07-13T11:00:40Z",
-      "lang": "",
-      "video_title": "( ´:ω:` )ｵﾖﾖニャンコしゃんそんなものを...# #ai #aiart #aishorts #コスプレ #アニメーション #sf #自作曲",
       "kind": "video_title"
     },
     {
