@@ -1,50 +1,68 @@
 {
-  "updated_at": "2026-09-09T22:52:30+00:00",
-  "count": 27,
+  "updated_at": "2026-09-10T22:52:39+00:00",
+  "count": 30,
   "sources": {
-    "youtube": 9,
     "bluesky": 12,
+    "youtube": 12,
     "mastodon": 6
   },
   "items": [
     {
+      "source": "bluesky",
+      "text": "最近ヨガをやってないのは、雨でヨガスペースが洗濯物に侵食されてるからです…オヨヨ…(涙)\n\nマラソン(足踏み)だけするか",
+      "author": "@imori30rou.bsky.social",
+      "url": "https://bsky.app/profile/imori30rou.bsky.social/post/3mv6wqzokt22a",
+      "posted_at": "2026-09-10T20:54:53.870Z",
+      "lang": "ja"
+    },
+    {
       "source": "youtube",
-      "text": "OYOYO  is live!",
+      "text": "OYOYO  is live! 🌅 Morning Routine 🥱",
       "author": "OYOYO ",
-      "url": "https://www.youtube.com/watch?v=3cwNwuIhKfk",
-      "posted_at": "2026-09-09T21:41:19Z",
+      "url": "https://www.youtube.com/watch?v=NpAyJ9vHB1Y",
+      "posted_at": "2026-09-10T20:18:29Z",
       "lang": "",
-      "video_title": "OYOYO  is live!",
+      "video_title": "OYOYO  is live! 🌅 Morning Routine 🥱",
       "kind": "video_title"
     },
     {
       "source": "youtube",
-      "text": "ABUBAKAR NA MANZO OYOYO (OFFICIAL AUDIO MP4",
-      "author": "Musa Na Annabi Saw",
-      "url": "https://www.youtube.com/watch?v=3UefctkRSXE",
-      "posted_at": "2026-09-09T17:59:55Z",
+      "text": "OYOYO  is live! Fleeting my Room 🐝🦋",
+      "author": "OYOYO ",
+      "url": "https://www.youtube.com/watch?v=1RaoBcSoOUo",
+      "posted_at": "2026-09-10T19:52:01Z",
       "lang": "",
-      "video_title": "ABUBAKAR NA MANZO OYOYO (OFFICIAL AUDIO MP4",
+      "video_title": "OYOYO  is live! Fleeting my Room 🐝🦋",
       "kind": "video_title"
     },
     {
       "source": "youtube",
-      "text": "OYOYO  is live! Using Chewing Stick to Brush My Teeth",
+      "text": "OYOYO  is live! 🙏 Prayers and Testimonies 🙏🙌🙌🙌🙌",
       "author": "OYOYO ",
-      "url": "https://www.youtube.com/watch?v=rn5dIxRvrSA",
-      "posted_at": "2026-09-09T15:15:56Z",
+      "url": "https://www.youtube.com/watch?v=JvTeYXfsTzQ",
+      "posted_at": "2026-09-10T19:46:33Z",
       "lang": "",
-      "video_title": "OYOYO  is live! Using Chewing Stick to Brush My Teeth",
+      "video_title": "OYOYO  is live! 🙏 Prayers and Testimonies 🙏🙌🙌🙌🙌",
       "kind": "video_title"
     },
     {
       "source": "youtube",
-      "text": "OYOYO  is live! Tailoring is Stressful jorrh!!!",
+      "text": "OYOYO  is live! I&#39;m Bored",
       "author": "OYOYO ",
-      "url": "https://www.youtube.com/watch?v=NFexPztqA6c",
-      "posted_at": "2026-09-09T14:32:29Z",
+      "url": "https://www.youtube.com/watch?v=yHlpjovZyvw",
+      "posted_at": "2026-09-10T18:28:21Z",
       "lang": "",
-      "video_title": "OYOYO  is live! Tailoring is Stressful jorrh!!!",
+      "video_title": "OYOYO  is live! I&#39;m Bored",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "#1billionviews #food #africa#1t #oyoyo outube#birds#ilovefood#popula#foodchallenge#benue#1mviewers",
+      "author": "Juneboi",
+      "url": "https://www.youtube.com/watch?v=IwrYhVlrV8E",
+      "posted_at": "2026-09-10T16:58:58Z",
+      "lang": "",
+      "video_title": "#1billionviews #food #africa#1t #oyoyo outube#birds#ilovefood#popula#foodchallenge#benue#1mviewers",
       "kind": "video_title"
     },
     {
@@ -86,16 +104,6 @@
       "url": "https://bsky.app/profile/ikeda9192.bsky.social/post/3mv2yipgbac2p",
       "posted_at": "2026-09-09T07:15:23.659Z",
       "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "EVENING OYOYO||8TH SEPTEMBER 2026",
-      "author": "Wazobia FM",
-      "url": "https://www.youtube.com/watch?v=aU4_NDExw2g",
-      "posted_at": "2026-09-09T06:04:03Z",
-      "lang": "",
-      "video_title": "EVENING OYOYO||8TH SEPTEMBER 2026",
-      "kind": "video_title"
     },
     {
       "source": "bluesky",
@@ -156,14 +164,6 @@
       "lang": "ja"
     },
     {
-      "source": "bluesky",
-      "text": "夢ジャンル見てると割と腐女子が踏み荒らして嫌いになったみたいな意見目に入っちゃってすまんオヨヨという気持ちになる機会が増えた",
-      "author": "@morinosita1224.bsky.social",
-      "url": "https://bsky.app/profile/morinosita1224.bsky.social/post/3muuho5stl22u",
-      "posted_at": "2026-09-06T16:58:14.567Z",
-      "lang": "ja"
-    },
-    {
       "source": "youtube",
       "text": "期待、予感、可能性　怪人オヨヨ💕　（NHK少年ドラマシリーズより）　by　ピアノ即興詩人かわせひろし♪　2026/9/6（日）浜松駅　喫茶KAWAI　グランド・ピアノにて",
       "author": "かわせひろしHiroshi Kawase",
@@ -191,6 +191,36 @@
       "posted_at": "2026-08-26T06:08:25Z",
       "lang": "",
       "video_title": "EVENING OYOYO | 25TH AUGUST 2026",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "Oyoyo Akara #hsmfitv #africa #akara #myhealth",
+      "author": "HSMFI Tv",
+      "url": "https://www.youtube.com/watch?v=WOZAOncF95M",
+      "posted_at": "2026-08-19T12:05:39Z",
+      "lang": "",
+      "video_title": "Oyoyo Akara #hsmfitv #africa #akara #myhealth",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "( ´:ω:` )ｵﾖﾖニャンコしゃんそんなものを...# #ai #aiart #aishorts #コスプレ #アニメーション #sf #自作曲",
+      "author": "のあわ",
+      "url": "https://www.youtube.com/watch?v=aSSPNmbypOU",
+      "posted_at": "2026-07-13T11:00:40Z",
+      "lang": "",
+      "video_title": "( ´:ω:` )ｵﾖﾖニャンコしゃんそんなものを...# #ai #aiart #aishorts #コスプレ #アニメーション #sf #自作曲",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "EZE OYOYO #shorts #fyp",
+      "author": "Jonesjoke Solution",
+      "url": "https://www.youtube.com/watch?v=0bkzpPFmH_0",
+      "posted_at": "2026-07-05T18:30:01Z",
+      "lang": "",
+      "video_title": "EZE OYOYO #shorts #fyp",
       "kind": "video_title"
     },
     {
