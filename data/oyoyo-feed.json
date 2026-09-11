@@ -1,12 +1,96 @@
 {
-  "updated_at": "2026-09-10T22:52:39+00:00",
-  "count": 30,
+  "updated_at": "2026-09-11T22:55:12+00:00",
+  "count": 28,
   "sources": {
+    "youtube": 10,
     "bluesky": 12,
-    "youtube": 12,
     "mastodon": 6
   },
   "items": [
+    {
+      "source": "youtube",
+      "text": "OYOYO  is live! Stress na your mate?😴",
+      "author": "OYOYO ",
+      "url": "https://www.youtube.com/watch?v=iv-eAR55qCo",
+      "posted_at": "2026-09-11T22:01:14Z",
+      "lang": "",
+      "video_title": "OYOYO  is live! Stress na your mate?😴",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "Risquer oyoyo Shehu",
+      "author": "Chiitou risquer la vie Yaou",
+      "url": "https://www.youtube.com/watch?v=NCbqw14P-xg",
+      "posted_at": "2026-09-11T21:41:49Z",
+      "lang": "",
+      "video_title": "Risquer oyoyo Shehu",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "OYOYO  is live!",
+      "author": "OYOYO ",
+      "url": "https://www.youtube.com/watch?v=--ABk2LK7JI",
+      "posted_at": "2026-09-11T21:26:01Z",
+      "lang": "",
+      "video_title": "OYOYO  is live!",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "Oyoyo Yã Rasulallah by Saifu Masoyi Maje",
+      "author": "Saifullahi Abdulkareem",
+      "url": "https://www.youtube.com/watch?v=Gksghn_N2FU",
+      "posted_at": "2026-09-11T19:40:14Z",
+      "lang": "",
+      "video_title": "Oyoyo Yã Rasulallah by Saifu Masoyi Maje",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "oyoyo #смешновидео #roblox #смешновидео #foryou #memes #funny #live  #smartphone #keeploving #прикол",
+      "author": "JACKSOOON M.",
+      "url": "https://www.youtube.com/watch?v=q9M68d4G0aE",
+      "posted_at": "2026-09-11T17:23:21Z",
+      "lang": "",
+      "video_title": "oyoyo #смешновидео #roblox #смешновидео #foryou #memes #funny #live  #smartphone #keeploving #прикол",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "オヨヨ😢",
+      "author": "@mi-mi2929.keik.info",
+      "url": "https://bsky.app/profile/mi-mi2929.keik.info/post/3mva5you4co2l",
+      "posted_at": "2026-09-11T08:37:06.690Z",
+      "lang": ""
+    },
+    {
+      "source": "youtube",
+      "text": "EVENING OYOYO | 10TH SEPTEMBER 2026",
+      "author": "Wazobia FM",
+      "url": "https://www.youtube.com/watch?v=f2u53u3JJwY",
+      "posted_at": "2026-09-11T06:04:42Z",
+      "lang": "",
+      "video_title": "EVENING OYOYO | 10TH SEPTEMBER 2026",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "このあと中華カフェに予約決めてるのですが、だからお昼は控えめに…と芳林堂さんと同じビルにあるチャイカ（ロシア飯）に行くのはやめたんですが、チェーンのカフェに入っても同じくらいの値段がするのでオヨヨ…となってる",
+      "author": "@tsuruyoshino.bsky.social",
+      "url": "https://bsky.app/profile/tsuruyoshino.bsky.social/post/3mv7q327umc2s",
+      "posted_at": "2026-09-11T04:28:34.160Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "私が描いてた頃治安ほんとうに悪かったのに、ｵﾖﾖ　今治安がいいみたいな話よく聞いて　ｵﾖﾖ\n\nわざわざ明言するということは………？",
+      "author": "@minamoizen.bsky.social",
+      "url": "https://bsky.app/profile/minamoizen.bsky.social/post/3mv7mtxzfac2g",
+      "posted_at": "2026-09-11T03:30:14.164Z",
+      "lang": "ja"
+    },
     {
       "source": "bluesky",
       "text": "最近ヨガをやってないのは、雨でヨガスペースが洗濯物に侵食されてるからです…オヨヨ…(涙)\n\nマラソン(足踏み)だけするか",
@@ -14,56 +98,6 @@
       "url": "https://bsky.app/profile/imori30rou.bsky.social/post/3mv6wqzokt22a",
       "posted_at": "2026-09-10T20:54:53.870Z",
       "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "OYOYO  is live! 🌅 Morning Routine 🥱",
-      "author": "OYOYO ",
-      "url": "https://www.youtube.com/watch?v=NpAyJ9vHB1Y",
-      "posted_at": "2026-09-10T20:18:29Z",
-      "lang": "",
-      "video_title": "OYOYO  is live! 🌅 Morning Routine 🥱",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "OYOYO  is live! Fleeting my Room 🐝🦋",
-      "author": "OYOYO ",
-      "url": "https://www.youtube.com/watch?v=1RaoBcSoOUo",
-      "posted_at": "2026-09-10T19:52:01Z",
-      "lang": "",
-      "video_title": "OYOYO  is live! Fleeting my Room 🐝🦋",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "OYOYO  is live! 🙏 Prayers and Testimonies 🙏🙌🙌🙌🙌",
-      "author": "OYOYO ",
-      "url": "https://www.youtube.com/watch?v=JvTeYXfsTzQ",
-      "posted_at": "2026-09-10T19:46:33Z",
-      "lang": "",
-      "video_title": "OYOYO  is live! 🙏 Prayers and Testimonies 🙏🙌🙌🙌🙌",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "OYOYO  is live! I&#39;m Bored",
-      "author": "OYOYO ",
-      "url": "https://www.youtube.com/watch?v=yHlpjovZyvw",
-      "posted_at": "2026-09-10T18:28:21Z",
-      "lang": "",
-      "video_title": "OYOYO  is live! I&#39;m Bored",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "#1billionviews #food #africa#1t #oyoyo outube#birds#ilovefood#popula#foodchallenge#benue#1mviewers",
-      "author": "Juneboi",
-      "url": "https://www.youtube.com/watch?v=IwrYhVlrV8E",
-      "posted_at": "2026-09-10T16:58:58Z",
-      "lang": "",
-      "video_title": "#1billionviews #food #africa#1t #oyoyo outube#birds#ilovefood#popula#foodchallenge#benue#1mviewers",
-      "kind": "video_title"
     },
     {
       "source": "bluesky",
@@ -130,22 +164,6 @@
       "lang": "ja"
     },
     {
-      "source": "bluesky",
-      "text": "オヨヨ",
-      "author": "@mi-mi2929.keik.info",
-      "url": "https://bsky.app/profile/mi-mi2929.keik.info/post/3muymdwet3w2l",
-      "posted_at": "2026-09-08T08:32:38.859Z",
-      "lang": ""
-    },
-    {
-      "source": "bluesky",
-      "text": "頭痛いになってきました オヨヨ",
-      "author": "@2525bnk.bsky.social",
-      "url": "https://bsky.app/profile/2525bnk.bsky.social/post/3muwkxoeknk2j",
-      "posted_at": "2026-09-07T13:02:34.670Z",
-      "lang": "ja"
-    },
-    {
       "source": "youtube",
       "text": "孝太郎farmオヨヨ❕これじゃ刈れませんね‼️",
       "author": "孝太郎Farmオﾖﾖ‼️",
@@ -154,14 +172,6 @@
       "lang": "",
       "video_title": "孝太郎farmオヨヨ❕これじゃ刈れませんね‼️",
       "kind": "video_title"
-    },
-    {
-      "source": "bluesky",
-      "text": "わたしのサクカ字が見づらい 普通にテキストにすればよかった ｵﾖﾖ……",
-      "author": "@80ka.bsky.social",
-      "url": "https://bsky.app/profile/80ka.bsky.social/post/3muunqcwkzc2q",
-      "posted_at": "2026-09-06T18:46:51.466Z",
-      "lang": "ja"
     },
     {
       "source": "youtube",
@@ -191,36 +201,6 @@
       "posted_at": "2026-08-26T06:08:25Z",
       "lang": "",
       "video_title": "EVENING OYOYO | 25TH AUGUST 2026",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "Oyoyo Akara #hsmfitv #africa #akara #myhealth",
-      "author": "HSMFI Tv",
-      "url": "https://www.youtube.com/watch?v=WOZAOncF95M",
-      "posted_at": "2026-08-19T12:05:39Z",
-      "lang": "",
-      "video_title": "Oyoyo Akara #hsmfitv #africa #akara #myhealth",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "( ´:ω:` )ｵﾖﾖニャンコしゃんそんなものを...# #ai #aiart #aishorts #コスプレ #アニメーション #sf #自作曲",
-      "author": "のあわ",
-      "url": "https://www.youtube.com/watch?v=aSSPNmbypOU",
-      "posted_at": "2026-07-13T11:00:40Z",
-      "lang": "",
-      "video_title": "( ´:ω:` )ｵﾖﾖニャンコしゃんそんなものを...# #ai #aiart #aishorts #コスプレ #アニメーション #sf #自作曲",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "EZE OYOYO #shorts #fyp",
-      "author": "Jonesjoke Solution",
-      "url": "https://www.youtube.com/watch?v=0bkzpPFmH_0",
-      "posted_at": "2026-07-05T18:30:01Z",
-      "lang": "",
-      "video_title": "EZE OYOYO #shorts #fyp",
       "kind": "video_title"
     },
     {
