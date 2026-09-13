@@ -1,41 +1,65 @@
 {
-  "updated_at": "2026-09-12T22:44:16+00:00",
-  "count": 28,
+  "updated_at": "2026-09-13T22:44:39+00:00",
+  "count": 26,
   "sources": {
-    "youtube": 10,
+    "youtube": 8,
     "bluesky": 12,
     "mastodon": 6
   },
   "items": [
     {
       "source": "youtube",
-      "text": "OYOYO  is live! Oyoyo Ministry😲",
-      "author": "OYOYO ",
-      "url": "https://www.youtube.com/watch?v=NY10wsgaYMA",
-      "posted_at": "2026-09-12T21:01:29Z",
+      "text": "Risquer Oyoyo",
+      "author": "Chiitou risquer la vie Yaou",
+      "url": "https://www.youtube.com/watch?v=kVAen7zu0gI",
+      "posted_at": "2026-09-13T19:08:49Z",
       "lang": "",
-      "video_title": "OYOYO  is live! Oyoyo Ministry😲",
+      "video_title": "Risquer Oyoyo",
       "kind": "video_title"
     },
     {
       "source": "youtube",
-      "text": "Oyoyo family, would you eat an egg this BIG? ❤️#FoodCreator #OyoyoKitchen #AIvideo #AIFood #viral",
-      "author": "OYOYO KITCHEN  TV",
-      "url": "https://www.youtube.com/watch?v=heI6xtOLvds",
-      "posted_at": "2026-09-12T20:49:17Z",
-      "lang": "",
-      "video_title": "Oyoyo family, would you eat an egg this BIG? ❤️#FoodCreator #OyoyoKitchen #AIvideo #AIFood #viral",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "the boi oyoyo",
+      "text": "that stream oyoyo",
       "author": "kurapa",
-      "url": "https://www.youtube.com/watch?v=wXSffBfdkcw",
-      "posted_at": "2026-09-12T19:11:03Z",
+      "url": "https://www.youtube.com/watch?v=XXjKunKe3Bk",
+      "posted_at": "2026-09-13T18:02:27Z",
       "lang": "",
-      "video_title": "the boi oyoyo",
+      "video_title": "that stream oyoyo",
       "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "Oy oy oy yedi beni #edit #oyoyo #turkishseries #explore #love",
+      "author": "Devoo",
+      "url": "https://www.youtube.com/watch?v=NdOe5naEf2g",
+      "posted_at": "2026-09-13T16:31:42Z",
+      "lang": "",
+      "video_title": "Oy oy oy yedi beni #edit #oyoyo #turkishseries #explore #love",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "いやほんまにそうですよね　一緒で嬉しいです🤝\n罪→タッちゃん…♡ﾀﾁﾔ…♡\n罰→た、達哉ーーーッッッ‼️‼️‼️‼️‼️た、たつや……\nなんかこれくらいの温度差ありますよね泣　三点リーダーもそう言ってますｵﾖﾖ……",
+      "author": "@poipoidski.bsky.social",
+      "url": "https://bsky.app/profile/poipoidski.bsky.social/post/3mvf7we6f4s2i",
+      "posted_at": "2026-09-13T08:54:55.459Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "三遠、前シーズンのファウルからフリースローもらった数で1位だったの……\nなお、フリースローの成功率はｵﾖﾖ…",
+      "author": "@sk56rn.bsky.social",
+      "url": "https://bsky.app/profile/sk56rn.bsky.social/post/3mvexgt5qic2l",
+      "posted_at": "2026-09-13T06:23:05.161Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "期限が近いネップリと来週に向けて会場のマップを印刷しに近くのコンビニに行ったら、お子さん2人が駆け回っていたので、元気どすなあ～、親御さんは近くにおらんのかえ？と思いつつ、ぶつからないように注意しながらレジに行くと、店員さんが連続でレジ打ちをしていたのもあってかアイスのカップを置くときに勢いがあったので、ピリついてるなあ…オヨヨ…となりつつも、おつかれさまです…と思いながらお店を出てきたのであった。",
+      "author": "@roadtosky2002.bsky.social",
+      "url": "https://bsky.app/profile/roadtosky2002.bsky.social/post/3mveomes5bs2b",
+      "posted_at": "2026-09-13T03:45:15.478Z",
+      "lang": "ja"
     },
     {
       "source": "bluesky",
@@ -44,26 +68,6 @@
       "url": "https://bsky.app/profile/kazuki-a-uver.bsky.social/post/3mvdejkeqz22f",
       "posted_at": "2026-09-12T15:11:58.966Z",
       "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "OYOYO  is live! Sewing ",
-      "author": "OYOYO ",
-      "url": "https://www.youtube.com/watch?v=B3DfwQVdJQE",
-      "posted_at": "2026-09-12T14:57:06Z",
-      "lang": "",
-      "video_title": "OYOYO  is live! Sewing ",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "Var bir xəyalımız #altıüstüistanbul #oyoyo #altıüstüistanbul",
-      "author": "Mələyin",
-      "url": "https://www.youtube.com/watch?v=zdo3QU9ToDU",
-      "posted_at": "2026-09-12T14:46:26Z",
-      "lang": "",
-      "video_title": "Var bir xəyalımız #altıüstüistanbul #oyoyo #altıüstüistanbul",
-      "kind": "video_title"
     },
     {
       "source": "bluesky",
@@ -127,30 +131,6 @@
       "author": "@imori30rou.bsky.social",
       "url": "https://bsky.app/profile/imori30rou.bsky.social/post/3mv6wqzokt22a",
       "posted_at": "2026-09-10T20:54:53.870Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "己の創作話的なアレソレとして根底にある精神的マウント云々の話を政治的な見解に紐づけられて悲しいよ･･･ｵﾖﾖ･･･",
-      "author": "@siontukiya.uktrompeloeil.com.ap.brid.gy",
-      "url": "https://bsky.app/profile/siontukiya.uktrompeloeil.com.ap.brid.gy/post/3mv3k64aafdw2",
-      "posted_at": "2026-09-09T12:31:45.873Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "春頃に私の好感度を上げようとして逆に下げまくる人がいてオヨヨー(´༎ຶོρ༎ຶོ`)てなっていたんですよね。私と仲良くしてもいいことはないので近寄らんといてください……",
-      "author": "@renge32.bsky.social",
-      "url": "https://bsky.app/profile/renge32.bsky.social/post/3mv3jumykps25",
-      "posted_at": "2026-09-09T12:26:17.365Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "薬飲んだけど頭痛引かないためちょと仮眠とる……オヨヨ",
-      "author": "@2525bnk.bsky.social",
-      "url": "https://bsky.app/profile/2525bnk.bsky.social/post/3mv3i3u4la22p",
-      "posted_at": "2026-09-09T11:54:31.770Z",
       "lang": "ja"
     },
     {
