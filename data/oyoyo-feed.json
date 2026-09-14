@@ -1,41 +1,125 @@
 {
-  "updated_at": "2026-09-13T22:44:39+00:00",
-  "count": 26,
+  "updated_at": "2026-09-14T23:38:47+00:00",
+  "count": 28,
   "sources": {
-    "youtube": 8,
     "bluesky": 12,
+    "youtube": 10,
     "mastodon": 6
   },
   "items": [
     {
+      "source": "bluesky",
+      "text": "強くて賢いIQの高い大統領\n\nオヨヨ…",
+      "author": "@imori30rou.bsky.social",
+      "url": "https://bsky.app/profile/imori30rou.bsky.social/post/3mvj7smgbpk2i",
+      "posted_at": "2026-09-14T23:03:28.158Z",
+      "lang": "ja"
+    },
+    {
       "source": "youtube",
-      "text": "Risquer Oyoyo",
-      "author": "Chiitou risquer la vie Yaou",
-      "url": "https://www.youtube.com/watch?v=kVAen7zu0gI",
-      "posted_at": "2026-09-13T19:08:49Z",
+      "text": "OYOYO  is live! I Need Fruits 🍓🍑",
+      "author": "OYOYO ",
+      "url": "https://www.youtube.com/watch?v=e6rcNpsBZNw",
+      "posted_at": "2026-09-14T21:09:20Z",
       "lang": "",
-      "video_title": "Risquer Oyoyo",
+      "video_title": "OYOYO  is live! I Need Fruits 🍓🍑",
       "kind": "video_title"
     },
     {
       "source": "youtube",
-      "text": "that stream oyoyo",
-      "author": "kurapa",
-      "url": "https://www.youtube.com/watch?v=XXjKunKe3Bk",
-      "posted_at": "2026-09-13T18:02:27Z",
+      "text": "OYOYO MUNA MAKA OYOYO 2027 PRINCE ID ZANGO Please watch and subscribe ❤️🫶🥰✌️",
+      "author": "PRINCE ID ZANGO",
+      "url": "https://www.youtube.com/watch?v=ICw7KnIPlnI",
+      "posted_at": "2026-09-14T19:35:55Z",
       "lang": "",
-      "video_title": "that stream oyoyo",
+      "video_title": "OYOYO MUNA MAKA OYOYO 2027 PRINCE ID ZANGO Please watch and subscribe ❤️🫶🥰✌️",
       "kind": "video_title"
     },
     {
       "source": "youtube",
-      "text": "Oy oy oy yedi beni #edit #oyoyo #turkishseries #explore #love",
-      "author": "Devoo",
-      "url": "https://www.youtube.com/watch?v=NdOe5naEf2g",
-      "posted_at": "2026-09-13T16:31:42Z",
+      "text": "Oyoyo Seplat Accelerating 🔥🔥🔥Thanks to everyone for your love, support and encouragement, thank you",
+      "author": "Don Jerry J 🎤 TV ",
+      "url": "https://www.youtube.com/watch?v=8Uob766iPac",
+      "posted_at": "2026-09-14T16:39:00Z",
       "lang": "",
-      "video_title": "Oy oy oy yedi beni #edit #oyoyo #turkishseries #explore #love",
+      "video_title": "Oyoyo Seplat Accelerating 🔥🔥🔥Thanks to everyone for your love, support and encouragement, thank you",
       "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "OYOYO  is live!",
+      "author": "OYOYO ",
+      "url": "https://www.youtube.com/watch?v=4rUtjGgz78Y",
+      "posted_at": "2026-09-14T14:15:57Z",
+      "lang": "",
+      "video_title": "OYOYO  is live!",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "『ちいかわ』は「なんか小さくてかわいいやつ」の略で、包括的でいいタイトルだなと思っていたら、「ちいかわ」という名前のキャラクターがいるらしい。『オヨネコぶーにゃん』は「ぶーにゃん」という名前のキャラクターがいるように思わせておいて、ネコの名前は「オヨヨ」という。好きだ。",
+      "author": "@ststmks.bsky.social",
+      "url": "https://bsky.app/profile/ststmks.bsky.social/post/3mvi7finras2r",
+      "posted_at": "2026-09-14T13:23:28.257Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "オヨヨ",
+      "author": "@moritaro-ojiji.bsky.social",
+      "url": "https://bsky.app/profile/moritaro-ojiji.bsky.social/post/3mvhzfn3t3s2m",
+      "posted_at": "2026-09-14T11:36:10.563Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "オヨヨ　オヨヨ　オヨヨ(困惑のさとうきび畑)",
+      "author": "@ymgc-10.bsky.social",
+      "url": "https://bsky.app/profile/ymgc-10.bsky.social/post/3mvhyhknhak2t",
+      "posted_at": "2026-09-14T11:19:21.561Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "最近ハマったプラモ、シリーズが止まりかけているみたい？ｵﾖﾖ",
+      "author": "@tanigawara.misskey.io.ap.brid.gy",
+      "url": "https://bsky.app/profile/tanigawara.misskey.io.ap.brid.gy/post/3mvhv4dc473t2",
+      "posted_at": "2026-09-14T10:19:35.057Z",
+      "lang": ""
+    },
+    {
+      "source": "youtube",
+      "text": "Mama oyoyo #shorts #mama #fyp  #dance",
+      "author": "Jbiano",
+      "url": "https://www.youtube.com/watch?v=gp0Paaj6cqE",
+      "posted_at": "2026-09-14T10:09:29Z",
+      "lang": "",
+      "video_title": "Mama oyoyo #shorts #mama #fyp  #dance",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "ショウアップナイター無い！？オヨヨ〜",
+      "author": "@imojuice.bsky.social",
+      "url": "https://bsky.app/profile/imojuice.bsky.social/post/3mvhpshxyk22b",
+      "posted_at": "2026-09-14T08:44:24.157Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "ちょっと9〜10月に色々学ばなきゃいけない新たな業務が山積みで軽く凹んでる&普通に忙しいので低浮上気味ですが、生きてはいます\nオヨヨ……😰",
+      "author": "@ukikuru0127.bsky.social",
+      "url": "https://bsky.app/profile/ukikuru0127.bsky.social/post/3mvh64ixfwc2g",
+      "posted_at": "2026-09-14T03:27:56.866Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "今日も仕事じゃ　オヨヨ〜",
+      "author": "@shiroru.bsky.social",
+      "url": "https://bsky.app/profile/shiroru.bsky.social/post/3mvgorbgjzkd2",
+      "posted_at": "2026-09-13T22:53:10.161Z",
+      "lang": "ja"
     },
     {
       "source": "bluesky",
@@ -67,70 +151,6 @@
       "author": "@kazuki-a-uver.bsky.social",
       "url": "https://bsky.app/profile/kazuki-a-uver.bsky.social/post/3mvdejkeqz22f",
       "posted_at": "2026-09-12T15:11:58.966Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "ほかの編成で使えるのはわかってるんだけど！！😭😭😭😭\nでもマルチやるってなったらなんでこのキャラ？って思う人もいるし、どうしたって型落ちって言う人だっているしでオヨヨ〜",
-      "author": "@narcissus1o.bsky.social",
-      "url": "https://bsky.app/profile/narcissus1o.bsky.social/post/3mvd74m4unk2u",
-      "posted_at": "2026-09-12T13:35:11.861Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "youtu.be/MG5nbALA0M4\nオヨヨ…",
-      "author": "@asab-aba.bsky.social",
-      "url": "https://bsky.app/profile/asab-aba.bsky.social/post/3mvcsnmoiic2b",
-      "posted_at": "2026-09-12T09:52:05.458Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "西田さんだけになっちゃうじゃんね オヨヨ…",
-      "author": "@asab-aba.bsky.social",
-      "url": "https://bsky.app/profile/asab-aba.bsky.social/post/3mvcsihyrms2b",
-      "posted_at": "2026-09-12T09:49:10.962Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "信号が変わりそうだったから「パカパカする〜」てナチュラルに名古屋弁が出たオヨヨ",
-      "author": "@renge32.bsky.social",
-      "url": "https://bsky.app/profile/renge32.bsky.social/post/3mvbt4gmr5s2b",
-      "posted_at": "2026-09-12T00:27:41.165Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "オヨヨ😢",
-      "author": "@mi-mi2929.keik.info",
-      "url": "https://bsky.app/profile/mi-mi2929.keik.info/post/3mva5you4co2l",
-      "posted_at": "2026-09-11T08:37:06.690Z",
-      "lang": ""
-    },
-    {
-      "source": "bluesky",
-      "text": "このあと中華カフェに予約決めてるのですが、だからお昼は控えめに…と芳林堂さんと同じビルにあるチャイカ（ロシア飯）に行くのはやめたんですが、チェーンのカフェに入っても同じくらいの値段がするのでオヨヨ…となってる",
-      "author": "@tsuruyoshino.bsky.social",
-      "url": "https://bsky.app/profile/tsuruyoshino.bsky.social/post/3mv7q327umc2s",
-      "posted_at": "2026-09-11T04:28:34.160Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "私が描いてた頃治安ほんとうに悪かったのに、ｵﾖﾖ　今治安がいいみたいな話よく聞いて　ｵﾖﾖ\n\nわざわざ明言するということは………？",
-      "author": "@minamoizen.bsky.social",
-      "url": "https://bsky.app/profile/minamoizen.bsky.social/post/3mv7mtxzfac2g",
-      "posted_at": "2026-09-11T03:30:14.164Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "最近ヨガをやってないのは、雨でヨガスペースが洗濯物に侵食されてるからです…オヨヨ…(涙)\n\nマラソン(足踏み)だけするか",
-      "author": "@imori30rou.bsky.social",
-      "url": "https://bsky.app/profile/imori30rou.bsky.social/post/3mv6wqzokt22a",
-      "posted_at": "2026-09-10T20:54:53.870Z",
       "lang": "ja"
     },
     {
