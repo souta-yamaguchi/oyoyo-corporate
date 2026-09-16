@@ -1,28 +1,104 @@
 {
-  "updated_at": "2026-09-15T23:20:31+00:00",
-  "count": 28,
+  "updated_at": "2026-09-16T23:27:59+00:00",
+  "count": 27,
   "sources": {
-    "youtube": 10,
+    "youtube": 9,
     "bluesky": 12,
     "mastodon": 6
   },
   "items": [
     {
       "source": "youtube",
-      "text": "Oyoyo Chioma&#39;s worship on my birthday She is a wonderful singer, my friend, a friend of God.",
-      "author": "Prisonervoice",
-      "url": "https://www.youtube.com/watch?v=MAxSFmgSCbU",
-      "posted_at": "2026-09-15T20:16:57Z",
+      "text": "Ewedu # Achingbara # Ayoyo # Oyoyo leaf# Naijafood# Healthyfood",
+      "author": "Flavvywinkles channels",
+      "url": "https://www.youtube.com/watch?v=zPvbd8YzRNs",
+      "posted_at": "2026-09-16T23:00:12Z",
       "lang": "",
-      "video_title": "Oyoyo Chioma&#39;s worship on my birthday She is a wonderful singer, my friend, a friend of God.",
+      "video_title": "Ewedu # Achingbara # Ayoyo # Oyoyo leaf# Naijafood# Healthyfood",
       "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "オヨヨ！怪我にはお気をつけて　菊花は喜んでしまいますが…(悪癖)",
+      "author": "@stmtg.bsky.social",
+      "url": "https://bsky.app/profile/stmtg.bsky.social/post/3mvnzy5phsk2p",
+      "posted_at": "2026-09-16T21:02:32.662Z",
+      "lang": "ja"
+    },
+    {
+      "source": "youtube",
+      "text": "oyoyo #keşfetbeniöneçıkar #ytdayibenionecikarnolur #keşfetteyiz #keşfet #keşfet",
+      "author": "Gece_only",
+      "url": "https://www.youtube.com/watch?v=mvJFvf7z3z8",
+      "posted_at": "2026-09-16T20:31:31Z",
+      "lang": "",
+      "video_title": "oyoyo #keşfetbeniöneçıkar #ytdayibenionecikarnolur #keşfetteyiz #keşfet #keşfet",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "OYOYO #akpanandoduma #asakedance #duet #dance #love #song #newsong #share",
+      "author": "Biggpikin Entertainment Tv",
+      "url": "https://www.youtube.com/watch?v=EUDoG8fQdrc",
+      "posted_at": "2026-09-16T20:19:20Z",
+      "lang": "",
+      "video_title": "OYOYO #akpanandoduma #asakedance #duet #dance #love #song #newsong #share",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "鍵垢の方で落書きしてたりで全然世に出してない絵とコス写いっぱいある　てか絵垢ももう全然動かせてないし統合しちゃいたいけどすけべ描いてるし名義違うしでめんどくさいね🥲ｵﾖﾖ",
+      "author": "@ind073.bsky.social",
+      "url": "https://bsky.app/profile/ind073.bsky.social/post/3mvngm7zmp22z",
+      "posted_at": "2026-09-16T15:15:49.258Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "怖かったので今残ってる分はエクスポートした…ｵﾖﾖ",
+      "author": "@thcurry.bsky.social",
+      "url": "https://bsky.app/profile/thcurry.bsky.social/post/3mvnfla4kp225",
+      "posted_at": "2026-09-16T14:57:21.961Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "そこから後ずっとオヨヨ…ってなります\n『明日もポケモンやるのかな』なんて歌詞どこから出してきたんだ",
+      "author": "@himatea.bsky.social",
+      "url": "https://bsky.app/profile/himatea.bsky.social/post/3mvn3k5qqls2l",
+      "posted_at": "2026-09-16T11:57:48.861Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "なお手元にアクリルしかまだないので油断できません　オヨヨ",
+      "author": "@kamonegist312.bsky.social",
+      "url": "https://bsky.app/profile/kamonegist312.bsky.social/post/3mvmwr4mtbk2h",
+      "posted_at": "2026-09-16T10:32:11.360Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "オヨヨ…",
+      "author": "@kngaai.bsky.social",
+      "url": "https://bsky.app/profile/kngaai.bsky.social/post/3mvmsunks2c2h",
+      "posted_at": "2026-09-16T09:22:42.657Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "バキバキに肩が痛い。。\n寒いからかな。。（オヨヨ）",
+      "author": "@imori30rou.bsky.social",
+      "url": "https://bsky.app/profile/imori30rou.bsky.social/post/3mvmlhi7a6s22",
+      "posted_at": "2026-09-16T07:09:58.864Z",
+      "lang": "ja"
     },
     {
       "source": "youtube",
       "text": "OYOYO  is live! Making Dinner 🍽️",
       "author": "OYOYO ",
       "url": "https://www.youtube.com/watch?v=jsCI6jijqW8",
-      "posted_at": "2026-09-15T18:18:53Z",
+      "posted_at": "2026-09-16T06:54:13Z",
       "lang": "",
       "video_title": "OYOYO  is live! Making Dinner 🍽️",
       "kind": "video_title"
@@ -34,36 +110,6 @@
       "url": "https://bsky.app/profile/sakizachiyue.bsky.social/post/3mvl4zuokhk2c",
       "posted_at": "2026-09-15T17:19:09.857Z",
       "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "O teri 😜 | funny | trending | viral short | funny video | trending shorts | oyoyo | short feed |",
-      "author": "Entertainment with Harry",
-      "url": "https://www.youtube.com/watch?v=vI4-jmm7X6g",
-      "posted_at": "2026-09-15T17:07:28Z",
-      "lang": "",
-      "video_title": "O teri 😜 | funny | trending | viral short | funny video | trending shorts | oyoyo | short feed |",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "Oyoyo predict https://t.me/oyoyo_predict.             Join my Telegram channel                   ",
-      "author": "Oyoyo 10 10",
-      "url": "https://www.youtube.com/watch?v=cNykAkdSl7g",
-      "posted_at": "2026-09-15T16:35:18Z",
-      "lang": "",
-      "video_title": "Oyoyo predict https://t.me/oyoyo_predict.             Join my Telegram channel                   ",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "waaaasup oyoyo",
-      "author": "kurapa",
-      "url": "https://www.youtube.com/watch?v=wRYJ-Fctyp4",
-      "posted_at": "2026-09-15T16:34:47Z",
-      "lang": "",
-      "video_title": "waaaasup oyoyo",
-      "kind": "video_title"
     },
     {
       "source": "bluesky",
@@ -108,60 +154,14 @@
       "lang": "ja"
     },
     {
-      "source": "bluesky",
-      "text": "ゆえに幸せそうな2人の顔に慣れてたらシリアスに身が入り辛くて描き辛くなった。オヨヨ…",
-      "author": "@yami-wakasagi.bsky.social",
-      "url": "https://bsky.app/profile/yami-wakasagi.bsky.social/post/3mvjvkx6gq226",
-      "posted_at": "2026-09-15T05:32:54.163Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "もう薬が無くなるからね…貰いに行かなきゃなのね…薬飲んででも3年は今のとこで働くように夫に言われましてねオヨヨ…",
-      "author": "@aquamarine38.bsky.social",
-      "url": "https://bsky.app/profile/aquamarine38.bsky.social/post/3mvjcke7v7k2h",
-      "posted_at": "2026-09-14T23:52:33.265Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "強くて賢いIQの高い大統領\n\nオヨヨ…",
-      "author": "@imori30rou.bsky.social",
-      "url": "https://bsky.app/profile/imori30rou.bsky.social/post/3mvj7smgbpk2i",
-      "posted_at": "2026-09-14T23:03:28.158Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "『ちいかわ』は「なんか小さくてかわいいやつ」の略で、包括的でいいタイトルだなと思っていたら、「ちいかわ」という名前のキャラクターがいるらしい。『オヨネコぶーにゃん』は「ぶーにゃん」という名前のキャラクターがいるように思わせておいて、ネコの名前は「オヨヨ」という。好きだ。",
-      "author": "@ststmks.bsky.social",
-      "url": "https://bsky.app/profile/ststmks.bsky.social/post/3mvi7finras2r",
-      "posted_at": "2026-09-14T13:23:28.257Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "オヨヨ",
-      "author": "@moritaro-ojiji.bsky.social",
-      "url": "https://bsky.app/profile/moritaro-ojiji.bsky.social/post/3mvhzfn3t3s2m",
-      "posted_at": "2026-09-14T11:36:10.563Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "オヨヨ　オヨヨ　オヨヨ(困惑のさとうきび畑)",
-      "author": "@ymgc-10.bsky.social",
-      "url": "https://bsky.app/profile/ymgc-10.bsky.social/post/3mvhyhknhak2t",
-      "posted_at": "2026-09-14T11:19:21.561Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "最近ハマったプラモ、シリーズが止まりかけているみたい？ｵﾖﾖ",
-      "author": "@tanigawara.misskey.io.ap.brid.gy",
-      "url": "https://bsky.app/profile/tanigawara.misskey.io.ap.brid.gy/post/3mvhv4dc473t2",
-      "posted_at": "2026-09-14T10:19:35.057Z",
-      "lang": ""
+      "source": "youtube",
+      "text": "EVENING OYOYO||8TH SEPTEMBER 2026",
+      "author": "Wazobia FM",
+      "url": "https://www.youtube.com/watch?v=aU4_NDExw2g",
+      "posted_at": "2026-09-09T06:04:03Z",
+      "lang": "",
+      "video_title": "EVENING OYOYO||8TH SEPTEMBER 2026",
+      "kind": "video_title"
     },
     {
       "source": "youtube",
@@ -191,16 +191,6 @@
       "posted_at": "2026-09-03T02:00:31Z",
       "lang": "",
       "video_title": "今週追加の嶋村とオヨヨについて【プロスピA】【阪神純正】",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "EVENING OYOYO | 31ST AUGUST 2026",
-      "author": "Wazobia FM",
-      "url": "https://www.youtube.com/watch?v=-Gas0Qcgvwg",
-      "posted_at": "2026-09-01T06:03:34Z",
-      "lang": "",
-      "video_title": "EVENING OYOYO | 31ST AUGUST 2026",
       "kind": "video_title"
     },
     {
