@@ -1,12 +1,114 @@
 {
-  "updated_at": "2026-09-18T22:56:12+00:00",
-  "count": 28,
+  "updated_at": "2026-09-19T22:36:11+00:00",
+  "count": 29,
   "sources": {
+    "youtube": 11,
     "bluesky": 12,
-    "youtube": 10,
     "mastodon": 6
   },
   "items": [
+    {
+      "source": "youtube",
+      "text": "OYOYO  is live! Singing 🌎",
+      "author": "OYOYO ",
+      "url": "https://www.youtube.com/watch?v=3EA3kSuL6Z0",
+      "posted_at": "2026-09-19T21:20:34Z",
+      "lang": "",
+      "video_title": "OYOYO  is live! Singing 🌎",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "OYOYO- Wisdom To Succeed And Make It",
+      "author": "OYOYO ",
+      "url": "https://www.youtube.com/watch?v=4vnVdXdqeAE",
+      "posted_at": "2026-09-19T20:56:20Z",
+      "lang": "",
+      "video_title": "OYOYO- Wisdom To Succeed And Make It",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "OY OYO 🔥 | Dance Challenge | David Jones – Oyoyo #Shorts",
+      "author": "Rikjoy Performing Arts Academy",
+      "url": "https://www.youtube.com/watch?v=xSkrWPUj7Pk",
+      "posted_at": "2026-09-19T20:18:22Z",
+      "lang": "",
+      "video_title": "OY OYO 🔥 | Dance Challenge | David Jones – Oyoyo #Shorts",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "OYOYO  is live!",
+      "author": "OYOYO ",
+      "url": "https://www.youtube.com/watch?v=iYYsumrGsKo",
+      "posted_at": "2026-09-19T17:36:09Z",
+      "lang": "",
+      "video_title": "OYOYO  is live!",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "DADDY OYOYO LIVE PERFORMANCE",
+      "author": "THUNDER PRAYER TV ",
+      "url": "https://www.youtube.com/watch?v=TJ9i8iJKDG8",
+      "posted_at": "2026-09-19T17:20:39Z",
+      "lang": "",
+      "video_title": "DADDY OYOYO LIVE PERFORMANCE",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "プロット冷静に見て、これもしかして尊厳破壊ってやつなのでは？と思い至り今頭抱えてます\nウッ……………………ウウ…ｵﾖﾖ",
+      "author": "@n0me-g.bsky.social",
+      "url": "https://bsky.app/profile/n0me-g.bsky.social/post/3mvutvo2hsk2f",
+      "posted_at": "2026-09-19T14:02:24.366Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "恐怖心展、ホラーとかじゃなくて恐怖症の話だから自分にぴったりくるものがあると途端に即も即で心かなり絞られる。わたしはいまだに注射がめちゃくちゃ苦手で、それは痛いとかじゃなくて腕に針が刺さってるそりゃもう盛大に刺さってる誰がどうみたって腕に針がめり込んでるのがダメで思いっきり目を逸らしてしまうんだけど、まさにそれがありました心絞られすぎて汁出たｵﾖﾖ…",
+      "author": "@katoubn.bsky.social",
+      "url": "https://bsky.app/profile/katoubn.bsky.social/post/3mvunpm6t5k2s",
+      "posted_at": "2026-09-19T12:11:36.659Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "暑いけど寒いよぉ 湿気を感じるよォ…ｵﾖﾖ🥵🥶🤮",
+      "author": "@sun--san.bsky.social",
+      "url": "https://bsky.app/profile/sun--san.bsky.social/post/3mvu2oihc222o",
+      "posted_at": "2026-09-19T06:30:58.260Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "も少しアフターとかでキャッキャしたかったなぁ　鬼滅もまだみれてないし　オヨヨ",
+      "author": "@rokuen06.bsky.social",
+      "url": "https://bsky.app/profile/rokuen06.bsky.social/post/3mvtw7pxhek27",
+      "posted_at": "2026-09-19T05:11:07.658Z",
+      "lang": "ja"
+    },
+    {
+      "source": "youtube",
+      "text": "oYoYo // Backdraft",
+      "author": "@reeel_music_ent",
+      "url": "https://www.youtube.com/watch?v=vLcLx3VvNEY",
+      "posted_at": "2026-09-18T23:08:32Z",
+      "lang": "",
+      "video_title": "オヨヨ ✨#阪神タイガース #hanshintigers #npb #及川雅貴 #応援曲",
+      "kind": "comment"
+    },
+    {
+      "source": "youtube",
+      "text": "オヨヨ ✨#阪神タイガース #hanshintigers #npb #及川雅貴 #応援曲",
+      "author": "ReeeL Music Ent.",
+      "url": "https://www.youtube.com/watch?v=vLcLx3VvNEY",
+      "posted_at": "2026-09-18T23:07:49Z",
+      "lang": "",
+      "video_title": "オヨヨ ✨#阪神タイガース #hanshintigers #npb #及川雅貴 #応援曲",
+      "kind": "video_title"
+    },
     {
       "source": "bluesky",
       "text": "みんなおはスト〜\n昨日も勝って連勝‼️\n大竹が久々好投\nそしてオヨヨ川工藤がナイピやったし\n何気にくまちゃんの守備も良かったなあ\n打線もクリンナップさすがやわ\n今日は村上さん\n頼むぞ〜(！\nモンストはララバイ勝てましたー\n勝利画面ないのでオーブ回収画面のみですm(*_ _)m",
@@ -30,16 +132,6 @@
       "url": "https://bsky.app/profile/2525bnk.bsky.social/post/3mvt4wawwvc2b",
       "posted_at": "2026-09-18T21:38:27.167Z",
       "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "OYOYO  is live! HELLO From Nigeria 😜",
-      "author": "OYOYO ",
-      "url": "https://www.youtube.com/watch?v=Y61vZ7rPcGY",
-      "posted_at": "2026-09-18T16:15:11Z",
-      "lang": "",
-      "video_title": "OYOYO  is live! HELLO From Nigeria 😜",
-      "kind": "video_title"
     },
     {
       "source": "bluesky",
@@ -82,78 +174,6 @@
       "lang": "ja"
     },
     {
-      "source": "bluesky",
-      "text": "ちゃそ　初めてのお遊戯会\nセリフがとんでしまい…オヨヨと手をニギニギしてましたら…客席にパッパを見つけ…ニコーとなり\nセリフも思ひ出すのでした",
-      "author": "@v4gzj.bsky.social",
-      "url": "https://bsky.app/profile/v4gzj.bsky.social/post/3mvrh55kink24",
-      "posted_at": "2026-09-18T05:35:55.763Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "うっかりしていた。しまった。やっちまった。今日シフトで出社日なの見落として予定組んですっかり在宅してた。上司電話繋がらねぇ。バカ焦ってる😇😇😇オヨヨ",
-      "author": "@gooooocuten.bsky.social",
-      "url": "https://bsky.app/profile/gooooocuten.bsky.social/post/3mvqz77wd3k2q",
-      "posted_at": "2026-09-18T01:26:33.260Z",
-      "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "OYOYO  is live!",
-      "author": "OYOYO ",
-      "url": "https://www.youtube.com/watch?v=39zPKET6fAk",
-      "posted_at": "2026-09-18T01:13:05Z",
-      "lang": "",
-      "video_title": "OYOYO  is live!",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "OYOYO  is live!",
-      "author": "OYOYO ",
-      "url": "https://www.youtube.com/watch?v=NaJvMae923o",
-      "posted_at": "2026-09-18T01:12:35Z",
-      "lang": "",
-      "video_title": "OYOYO  is live!",
-      "kind": "video_title"
-    },
-    {
-      "source": "bluesky",
-      "text": "好きなキャラを挙げるやーつ　深く考えずらくがき添えて投稿してるのだが、まだ折り返しにもきていない　ｵﾖﾖｰ!",
-      "author": "@tsumo.bsky.social",
-      "url": "https://bsky.app/profile/tsumo.bsky.social/post/3mvqos235os23",
-      "posted_at": "2026-09-17T22:20:13.170Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "仮に後者があるとしたら、それってどんな時？張形やその他人肌を感じない異物を突っ込まれた時しか思いつきません　オヨヨ\n実際自慰するとしたらこれだしな  英才教育次第で自慰を見せることも性癖になっているのかもしれない　先生はおしまい",
-      "author": "@neuneunew.bsky.social",
-      "url": "https://bsky.app/profile/neuneunew.bsky.social/post/3mvpyw3lfzk27",
-      "posted_at": "2026-09-17T15:48:47.881Z",
-      "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "oyoyo)))",
-      "author": "Alizade777🖤🩶",
-      "url": "https://www.youtube.com/watch?v=UIjY6XE9EY0",
-      "posted_at": "2026-09-17T09:27:53Z",
-      "lang": "",
-      "video_title": "oyoyo)))",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "Shehu Khalifa Oyoyo Alqalamin ✍️✍️ IBRAHIM NA SHEHU MUNTSIRA 08165109623",
-      "author": "IBRAHIM NA SHEHU ",
-      "url": "https://www.youtube.com/watch?v=bVbz5_2WQ5o",
-      "posted_at": "2026-09-17T09:16:46Z",
-      "lang": "",
-      "video_title": "Shehu Khalifa Oyoyo Alqalamin ✍️✍️ IBRAHIM NA SHEHU MUNTSIRA 08165109623",
-      "kind": "video_title"
-    },
-    {
       "source": "youtube",
       "text": "🧶オヨヨ",
       "author": "Yael Grande",
@@ -191,16 +211,6 @@
       "posted_at": "2026-09-06T12:32:56Z",
       "lang": "",
       "video_title": "期待、予感、可能性　怪人オヨヨ💕　（NHK少年ドラマシリーズより）　by　ピアノ即興詩人かわせひろし♪　2026/9/6（日）浜松駅　喫茶KAWAI　グランド・ピアノにて",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "今週追加の嶋村とオヨヨについて【プロスピA】【阪神純正】",
-      "author": "せうき",
-      "url": "https://www.youtube.com/watch?v=8tbzYX-O0L0",
-      "posted_at": "2026-09-03T02:00:31Z",
-      "lang": "",
-      "video_title": "今週追加の嶋村とオヨヨについて【プロスピA】【阪神純正】",
       "kind": "video_title"
     },
     {
