@@ -1,21 +1,77 @@
 {
-  "updated_at": "2026-10-03T23:27:12+00:00",
-  "count": 28,
+  "updated_at": "2026-10-04T23:45:21+00:00",
+  "count": 29,
   "sources": {
-    "youtube": 10,
+    "youtube": 11,
     "bluesky": 12,
     "mastodon": 6
   },
   "items": [
     {
       "source": "youtube",
-      "text": "Flavour -  | OYOYO The Most Fun African Dance Anthem That Will Get Everybody On Their Feet 🎉💃🌍",
-      "author": "Afro Rhythm planet",
-      "url": "https://www.youtube.com/watch?v=l8obYwhlGmM",
-      "posted_at": "2026-10-03T22:49:04Z",
+      "text": "Sweet oyoyo rice",
+      "author": "@kenfaithful3310",
+      "url": "https://www.youtube.com/watch?v=sUIDqu6rWZU",
+      "posted_at": "2026-10-04T19:20:08Z",
       "lang": "",
-      "video_title": "Flavour -  | OYOYO The Most Fun African Dance Anthem That Will Get Everybody On Their Feet 🎉💃🌍",
+      "video_title": "baba Tunde, the oyoyo rice seller.",
+      "kind": "comment"
+    },
+    {
+      "source": "youtube",
+      "text": "baba Tunde, the oyoyo rice seller.",
+      "author": "ken faithful",
+      "url": "https://www.youtube.com/watch?v=sUIDqu6rWZU",
+      "posted_at": "2026-10-04T18:37:47Z",
+      "lang": "",
+      "video_title": "baba Tunde, the oyoyo rice seller.",
       "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "OYOYO  is live! Discover your purpose 🕯️",
+      "author": "OYOYO ",
+      "url": "https://www.youtube.com/watch?v=n5kmlWuUZW0",
+      "posted_at": "2026-10-04T12:25:43Z",
+      "lang": "",
+      "video_title": "OYOYO  is live! Discover your purpose 🕯️",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "フードの完売早くないかナｯ😭ｵﾖﾖ～～～頑張って～～",
+      "author": "@tudura8.bsky.social",
+      "url": "https://bsky.app/profile/tudura8.bsky.social/post/3mx2ebrql4k2q",
+      "posted_at": "2026-10-04T12:03:57.358Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "オヨヨヨ…オヨヨ…",
+      "author": "@tamani-kz.bsky.social",
+      "url": "https://bsky.app/profile/tamani-kz.bsky.social/post/3mx25v3u2as2q",
+      "posted_at": "2026-10-04T10:09:31.162Z",
+      "lang": "ja"
+    },
+    {
+      "source": "youtube",
+      "text": "OYOYO  is live! I&#39;m not happy 😔",
+      "author": "OYOYO ",
+      "url": "https://www.youtube.com/watch?v=es-25Y6DbFI",
+      "posted_at": "2026-10-04T04:36:35Z",
+      "lang": "",
+      "video_title": "OYOYO  is live! I&#39;m not happy 😔",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "Mommy oyoyo",
+      "author": "@TimelessTrend-p5e",
+      "url": "https://www.youtube.com/watch?v=es-25Y6DbFI",
+      "posted_at": "2026-10-04T01:09:17Z",
+      "lang": "",
+      "video_title": "OYOYO  is live! I&#39;m not happy 😔",
+      "kind": "comment"
     },
     {
       "source": "bluesky",
@@ -24,26 +80,6 @@
       "url": "https://bsky.app/profile/honzumaru.bsky.social/post/3mwykzwhtes23",
       "posted_at": "2026-10-03T18:59:32.469Z",
       "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "oh Adonia by PST Theophilous Sunday #theophilous Sunday  #viraltimes#viralshorts #oyoyo #olakira",
-      "author": "THE VOICE OF THE REMNANT TV",
-      "url": "https://www.youtube.com/watch?v=BfY91VVOTjQ",
-      "posted_at": "2026-10-03T18:19:00Z",
-      "lang": "",
-      "video_title": "oh Adonia by PST Theophilous Sunday #theophilous Sunday  #viraltimes#viralshorts #oyoyo #olakira",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "OYOYO  is live! I&#39;m not happy 😔",
-      "author": "OYOYO ",
-      "url": "https://www.youtube.com/watch?v=es-25Y6DbFI",
-      "posted_at": "2026-10-03T15:29:36Z",
-      "lang": "",
-      "video_title": "OYOYO  is live! I&#39;m not happy 😔",
-      "kind": "video_title"
     },
     {
       "source": "bluesky",
@@ -68,16 +104,6 @@
       "url": "https://bsky.app/profile/nitt.bsky.social/post/3mwxfzjg5nc2l",
       "posted_at": "2026-10-03T07:57:10.756Z",
       "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "OYOYO  is live! October My Month of Unlimited Wealth🌧️",
-      "author": "OYOYO ",
-      "url": "https://www.youtube.com/watch?v=_D0DKi0mMa0",
-      "posted_at": "2026-10-03T03:44:01Z",
-      "lang": "",
-      "video_title": "OYOYO  is live! October My Month of Unlimited Wealth🌧️",
-      "kind": "video_title"
     },
     {
       "source": "bluesky",
@@ -125,22 +151,6 @@
       "author": "@k-k-info.bsky.social",
       "url": "https://bsky.app/profile/k-k-info.bsky.social/post/3mwtwuwn4gk23",
       "posted_at": "2026-10-01T22:48:11.464Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "…\n\nおれも「障害者に見えないですね」は言われることあるんだけど、\n\nあーよく聞くやつ～と思うけど、割と「そーすか～それで～」で流してしまう\n\n…他人に興味がなくて…(オヨヨ)\n\nなんかその手の話になる時って何かしら必要で(税金とか制度とか)話してることが多いと思って、相手と親しくなるために話してなかったりするので…別にどうでもい(あまり言うな)\n\n明らかに侮蔑的な視線が含まれていれば軽蔑するけど、正直どうでもい(あまり言うな)\n\nn=1の話で、傷ついた人を否定するものでは全くないけど、おれはそうという話。\n\nADHDの「人の話を聞かない」特性とおれの性格がミックスしたアレかなーとは思う…",
-      "author": "@imori30rou.bsky.social",
-      "url": "https://bsky.app/profile/imori30rou.bsky.social/post/3mwtls6gm6k2q",
-      "posted_at": "2026-10-01T19:29:48.671Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "ふーと部屋なくなってて涙\nもうこんな時間だもんね…オヨヨ",
-      "author": "@cd2fm.bsky.social",
-      "url": "https://bsky.app/profile/cd2fm.bsky.social/post/3mwtc6f6mds2w",
-      "posted_at": "2026-10-01T16:37:39.966Z",
       "lang": "ja"
     },
     {
