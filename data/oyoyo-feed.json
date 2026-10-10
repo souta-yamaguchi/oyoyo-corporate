@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T00:54:03+00:00",
+  "updated_at": "2026-10-10T00:24:02+00:00",
   "count": 29,
   "sources": {
     "youtube": 11,
@@ -7,6 +7,84 @@
     "mastodon": 6
   },
   "items": [
+    {
+      "source": "youtube",
+      "text": "#DreamTrackAI Oyoyo Nwanyi, Oyoyo Nwanyi na I mara Nma, ibu eriwa agwu agwu na ime ndu moo, I mara",
+      "author": "Chinyere Mina",
+      "url": "https://www.youtube.com/watch?v=nrHBTziSl9M",
+      "posted_at": "2026-10-09T20:07:47Z",
+      "lang": "",
+      "video_title": "#DreamTrackAI Oyoyo Nwanyi, Oyoyo Nwanyi na I mara Nma, ibu eriwa agwu agwu na ime ndu moo, I mara",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "ﾜｱｯ…………‼️‼️‼️‼️‼️\n私は攻め座を描きたいだけで受けな可愛いこゆちゃんは生まれないですよ…ｵﾖﾖ……",
+      "author": "@poor-thing-cute.bsky.social",
+      "url": "https://bsky.app/profile/poor-thing-cute.bsky.social/post/3mxgvirhwcs2y",
+      "posted_at": "2026-10-09T11:44:05.864Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "おれの当該ポストは削除した\nオヨヨ......",
+      "author": "@yanouraba.bsky.social",
+      "url": "https://bsky.app/profile/yanouraba.bsky.social/post/3mxgu5mtyis2s",
+      "posted_at": "2026-10-09T11:19:58.058Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "有給と書いて明日を休みにする魔法と書くけれども、土曜出勤の代わりの平日おやすみをいただいてしまった身では…オヨヨ",
+      "author": "@nomnomhomhom.bsky.social",
+      "url": "https://bsky.app/profile/nomnomhomhom.bsky.social/post/3mxgspqfhac2d",
+      "posted_at": "2026-10-09T10:54:18.358Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "@stomachkitten.com いとうさんごめんなさい！！スパークの日、先約があるのを見逃しておりました……行けないよォ～～😭😭😭😭😭😭😭😭😭なんばんおうらいは他の方にさしあげてください……オヨヨ……またの機会に握手しましょう！！！！！",
+      "author": "@wakanatrium.site",
+      "url": "https://bsky.app/profile/wakanatrium.site/post/3mxgqooss7s2a",
+      "posted_at": "2026-10-09T10:17:55.158Z",
+      "lang": "ja"
+    },
+    {
+      "source": "youtube",
+      "text": "EVENING OYOYO 08/10/2026",
+      "author": "Wazobia FM",
+      "url": "https://www.youtube.com/watch?v=vnr0r35cnlo",
+      "posted_at": "2026-10-09T06:03:55Z",
+      "lang": "",
+      "video_title": "EVENING OYOYO 08/10/2026",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "アニメで、こんな格好だしまろは走れないでおじゃるよ〜…てｵﾖﾖするゆめのに「そんなら裸で走ればええやないか」ってマジレスするﾛｮが永遠に好きでこれずっと擦ってる",
+      "author": "@monmontak.bsky.social",
+      "url": "https://bsky.app/profile/monmontak.bsky.social/post/3mxg2mtz3is2y",
+      "posted_at": "2026-10-09T03:43:08.153Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "ｵﾙ~ｷﾞｵさん…まぶしすぎるよ…今後ゆーきゃんの声できけちゃうですか…ｵﾖﾖ…🫠",
+      "author": "@matsucha-oekaki.bsky.social",
+      "url": "https://bsky.app/profile/matsucha-oekaki.bsky.social/post/3mxfvcydll22t",
+      "posted_at": "2026-10-09T02:08:08.956Z",
+      "lang": "ja"
+    },
+    {
+      "source": "youtube",
+      "text": "GOOD MORNING OYOYO FAMILY ❤️ LIVE CHAT | Let’s Gist, Connect &amp; Share Positive Vibes 🎁",
+      "author": "OYOYO KITCHEN  TV",
+      "url": "https://www.youtube.com/watch?v=N2Zj_GpNbbI",
+      "posted_at": "2026-10-09T01:46:48Z",
+      "lang": "",
+      "video_title": "GOOD MORNING OYOYO FAMILY ❤️ LIVE CHAT | Let’s Gist, Connect &amp; Share Positive Vibes 🎁",
+      "kind": "video_title"
+    },
     {
       "source": "youtube",
       "text": "OYOYO  is live! Getting Ready For Work😍🙈🤣",
@@ -25,26 +103,6 @@
       "posted_at": "2026-10-08T20:13:39Z",
       "lang": "",
       "video_title": "Snake Girl Caught Oyoyo",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "EVENING OYOYO 08/10/2026",
-      "author": "Wazobia FM",
-      "url": "https://www.youtube.com/watch?v=vnr0r35cnlo",
-      "posted_at": "2026-10-08T17:23:53Z",
-      "lang": "",
-      "video_title": "EVENING OYOYO 08/10/2026",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "oyoyo",
-      "author": "THE ZEYNEP",
-      "url": "https://www.youtube.com/watch?v=77I7iPo6FCY",
-      "posted_at": "2026-10-08T15:53:31Z",
-      "lang": "",
-      "video_title": "oyoyo",
       "kind": "video_title"
     },
     {
@@ -80,16 +138,6 @@
       "lang": "ja"
     },
     {
-      "source": "youtube",
-      "text": "EVENING OYOYO | 07/10/2026",
-      "author": "Wazobia FM",
-      "url": "https://www.youtube.com/watch?v=Ra1tMYUpbVU",
-      "posted_at": "2026-10-08T06:00:58Z",
-      "lang": "",
-      "video_title": "EVENING OYOYO | 07/10/2026",
-      "kind": "video_title"
-    },
-    {
       "source": "bluesky",
       "text": "今日久々にﾌｫｰﾄﾅﾑﾒｲｽｫﾝに行ったら売り場がめちゃくちゃ、めっっっちゃくちゃ縮小されててオヨヨ……になった……品数も少なくなってて……🥹",
       "author": "@chiy7777.bsky.social",
@@ -103,54 +151,6 @@
       "author": "@tigers55.bsky.social",
       "url": "https://bsky.app/profile/tigers55.bsky.social/post/3mxbvvup4c22u",
       "posted_at": "2026-10-07T12:08:08.958Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "オヨヨよろしくね\n西さんの引退セレモニー勝って最後の花道にしよう😭",
-      "author": "@luna-and-becky.bsky.social",
-      "url": "https://bsky.app/profile/luna-and-becky.bsky.social/post/3mxbvm2yiws2u",
-      "posted_at": "2026-10-07T12:02:38.367Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "予約しているものが2つくらい延びた……オヨヨ",
-      "author": "@hiratainaha.bsky.social",
-      "url": "https://bsky.app/profile/hiratainaha.bsky.social/post/3mxbs666pxc2h",
-      "posted_at": "2026-10-07T11:01:08.965Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "誰でも歌わせられるけど上手く歌わせられるかどうかは別なんだよｵﾖﾖ……",
-      "author": "@harui416.bsky.social",
-      "url": "https://bsky.app/profile/harui416.bsky.social/post/3mxbs5y27uk2r",
-      "posted_at": "2026-10-07T11:01:03.459Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "オヨヨ〜〜〜〜〜😂😂😂　この前天井まで回させたくせにこれ以上優しくしないで………….",
-      "author": "@nekochanohayou.bsky.social",
-      "url": "https://bsky.app/profile/nekochanohayou.bsky.social/post/3mxbotz2oq222",
-      "posted_at": "2026-10-07T10:01:47.261Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "ディズニークリスマスも行きたいよオヨヨ",
-      "author": "@morinosita1224.bsky.social",
-      "url": "https://bsky.app/profile/morinosita1224.bsky.social/post/3mxbnt55uak2h",
-      "posted_at": "2026-10-07T09:43:23.361Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "SNSを控えてから全然こっち見なくなっちゃってた…オヨヨ…",
-      "author": "@gabainld.bsky.social",
-      "url": "https://bsky.app/profile/gabainld.bsky.social/post/3mxbkwa6l5c2c",
-      "posted_at": "2026-10-07T08:51:27.058Z",
       "lang": "ja"
     },
     {
@@ -195,22 +195,22 @@
     },
     {
       "source": "youtube",
-      "text": "EVENING OYOYO | 10TH SEPTEMBER 2026",
-      "author": "Wazobia FM",
-      "url": "https://www.youtube.com/watch?v=f2u53u3JJwY",
-      "posted_at": "2026-09-11T06:04:42Z",
+      "text": "孝太郎farmオヨヨ❕これじゃ刈れませんね‼️",
+      "author": "孝太郎Farmオﾖﾖ‼️",
+      "url": "https://www.youtube.com/watch?v=UanfOGyfpMU",
+      "posted_at": "2026-09-07T11:35:41Z",
       "lang": "",
-      "video_title": "EVENING OYOYO | 10TH SEPTEMBER 2026",
+      "video_title": "孝太郎farmオヨヨ❕これじゃ刈れませんね‼️",
       "kind": "video_title"
     },
     {
       "source": "youtube",
-      "text": "EVENING OYOYO||8TH SEPTEMBER 2026",
-      "author": "Wazobia FM",
-      "url": "https://www.youtube.com/watch?v=aU4_NDExw2g",
-      "posted_at": "2026-09-09T06:04:03Z",
+      "text": "期待、予感、可能性　怪人オヨヨ💕　（NHK少年ドラマシリーズより）　by　ピアノ即興詩人かわせひろし♪　2026/9/6（日）浜松駅　喫茶KAWAI　グランド・ピアノにて",
+      "author": "かわせひろしHiroshi Kawase",
+      "url": "https://www.youtube.com/watch?v=5h9Er8gF9nA",
+      "posted_at": "2026-09-06T12:32:56Z",
       "lang": "",
-      "video_title": "EVENING OYOYO||8TH SEPTEMBER 2026",
+      "video_title": "期待、予感、可能性　怪人オヨヨ💕　（NHK少年ドラマシリーズより）　by　ピアノ即興詩人かわせひろし♪　2026/9/6（日）浜松駅　喫茶KAWAI　グランド・ピアノにて",
       "kind": "video_title"
     },
     {
