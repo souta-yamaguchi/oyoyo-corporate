@@ -1,12 +1,70 @@
 {
-  "updated_at": "2026-10-27T00:08:48+00:00",
-  "count": 26,
+  "updated_at": "2026-10-28T00:10:27+00:00",
+  "count": 25,
   "sources": {
-    "youtube": 8,
     "bluesky": 12,
+    "youtube": 7,
     "mastodon": 6
   },
   "items": [
+    {
+      "source": "bluesky",
+      "text": "For those curious on the options for challenge #106:\n- Super Gussun Oyoyo [SFC]\n- Ganbare Goemon 2 [SFC]\n- Faxanadu [FC]",
+      "author": "@gamegaijin.bsky.social",
+      "url": "https://bsky.app/profile/gamegaijin.bsky.social/post/3myvh7ktilk2i",
+      "posted_at": "2026-10-28T00:03:23.472Z",
+      "lang": "en"
+    },
+    {
+      "source": "bluesky",
+      "text": "自給自足できるようになりたいよ〜ｵﾖﾖ………",
+      "author": "@anko2727.bsky.social",
+      "url": "https://bsky.app/profile/anko2727.bsky.social/post/3myv3gcmw4c24",
+      "posted_at": "2026-10-27T20:32:31.863Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "うおおお私もなので……わかります……！自認字書きのつもりなのに定期的に自信を失います🫨オヨヨ……\nアワーーーーーう、うれしいです……😭のぇさんには本当にお世話になったしご迷惑やご心配もおかけしてしまったと思っていたので……そう言っていただけて本当に嬉しいです……！😭うっうつ……\n長文全然大丈夫ですので！苦しいと思ったこと、ぜひスッキリされるまで吐き出しちゃってください……！✨",
+      "author": "@umiusisumi.bsky.social",
+      "url": "https://bsky.app/profile/umiusisumi.bsky.social/post/3myueepxo6k22",
+      "posted_at": "2026-10-27T13:40:03.667Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "オヨヨ……",
+      "author": "@ipral.bsky.social",
+      "url": "https://bsky.app/profile/ipral.bsky.social/post/3myucxkfank2k",
+      "posted_at": "2026-10-27T13:14:46.967Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "小林信彦さん、亡くなられたのか。子供の時にオヨヨと出会って、大好きで毎年読み返してた。唐獅子も神野推理氏も何度も読み返してた。氏の著作で初めて知った事物も多かった。素晴らしい読書体験をありがとうございました🙏",
+      "author": "@chatnoir222.bsky.social",
+      "url": "https://bsky.app/profile/chatnoir222.bsky.social/post/3mytfhoadw22l",
+      "posted_at": "2026-10-27T04:26:55.965Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "こんにちは、お昼の早川書房（机）です。小林信彦さんの訃報に接し、過去の記憶を遡りました。小林信彦さんとはクリスティーの『親指のうずき』の解説についてやり取りしたことがあります。クリスティー後期の読み方を教わりました。くれぐれも失礼のないようにと上司に言い聞かされましたが、私の拙い連絡に、朗らかにお答えくださいました。オヨヨや紳士同盟が好きだったけど、影響を受けたのは『地獄の読書録』とヒッチコック・マガジンです。ご冥福をお祈りします。\n\nさて、火曜のお昼のお知らせです。",
+      "author": "@hayakawa-online.co.jp",
+      "url": "https://bsky.app/profile/hayakawa-online.co.jp/post/3mytb7x5lm22c",
+      "posted_at": "2026-10-27T03:11:02.364Z",
+      "lang": "ja"
+    },
+    {
+      "source": "youtube",
+      "text": "Abu Samankwe Oyoyo",
+      "author": "Release - Topic",
+      "url": "https://www.youtube.com/watch?v=1zLPqry5nLI",
+      "posted_at": "2026-10-27T01:27:42Z",
+      "lang": "",
+      "video_title": "Abu Samankwe Oyoyo",
+      "kind": "video_title"
+    },
     {
       "source": "youtube",
       "text": "OYOYO Chim",
@@ -22,33 +80,15 @@
       "text": "新木場さんのことを信頼している理由が語られて新木場さんに会おうしかもう考えられなくなった………大崎君は醜くもないしこの島にいる誰より人間だよ…オヨヨ…",
       "author": "@tanetane441.bsky.social",
       "url": "https://bsky.app/profile/tanetane441.bsky.social/post/3myst3xgzmk27",
-      "posted_at": "2026-10-26T22:58:16.374Z",
+      "posted_at": "2026-10-26T22:58:16.271Z",
       "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "ikot ekpene we are outside #akwaibomstate #comedy #funny #prank #youtube #oyoyo",
-      "author": "king no time",
-      "url": "https://www.youtube.com/watch?v=MCOs5EQc344",
-      "posted_at": "2026-10-26T17:33:33Z",
-      "lang": "",
-      "video_title": "ikot ekpene we are outside #akwaibomstate #comedy #funny #prank #youtube #oyoyo",
-      "kind": "video_title"
     },
     {
       "source": "bluesky",
       "text": "らんま風、優雅に舞ってたはずなのに...ｵﾖﾖ......😭😭😭",
       "author": "@iaia-sakw.bsky.social",
       "url": "https://bsky.app/profile/iaia-sakw.bsky.social/post/3mysadlmijs26",
-      "posted_at": "2026-10-26T17:22:31.038Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "やばい！わたしの鍵垢の話には触れないで\nオヨヨ、ヨヨ、",
-      "author": "@nem-a.bsky.social",
-      "url": "https://bsky.app/profile/nem-a.bsky.social/post/3mys6rou3l22m",
-      "posted_at": "2026-10-26T16:54:35.937Z",
+      "posted_at": "2026-10-26T17:22:31.174Z",
       "lang": "ja"
     },
     {
@@ -56,7 +96,7 @@
       "text": "寝るべきか？そうだよな…｡ﾟ(ﾟ ◜ᴗ◝ﾟ)ﾟ｡ｵﾖﾖ",
       "author": "@kachi-okibako.bsky.social",
       "url": "https://bsky.app/profile/kachi-okibako.bsky.social/post/3mys3yyn6ks2e",
-      "posted_at": "2026-10-26T16:05:00.542Z",
+      "posted_at": "2026-10-26T16:05:00.472Z",
       "lang": "ja"
     },
     {
@@ -64,7 +104,7 @@
       "text": "ふろむのテキスト結構読めないときある。己の日本語能力の低下を感じるオヨヨ…",
       "author": "@kabeyobe.bsky.social",
       "url": "https://bsky.app/profile/kabeyobe.bsky.social/post/3myrtflbtks2j",
-      "posted_at": "2026-10-26T13:30:58.337Z",
+      "posted_at": "2026-10-26T13:30:58.268Z",
       "lang": "ja"
     },
     {
@@ -72,65 +112,15 @@
       "text": "SANABIの話なんすけど、闇市で主人公がワイヤーのメンテした後にモニター？電光掲示板？でハッピーバースデーって流れたやつ😭知らない人の家の窓を覗いて幸せな家庭を見る絵面みたいでオヨヨ…！！😭😭(想像力豊か！)\nおじさんを幸せにしなきゃ…🔥",
       "author": "@mi-memo.bsky.social",
       "url": "https://bsky.app/profile/mi-memo.bsky.social/post/3myroczcx2s2d",
-      "posted_at": "2026-10-26T12:00:04.137Z",
+      "posted_at": "2026-10-26T12:00:04.071Z",
       "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "oyoyo #haveitoldyoulatelythatiloveyou #anasayfa #kpop #keşfetteyiz #keşfetaçıl",
-      "author": "cikolatalısut🦖",
-      "url": "https://www.youtube.com/watch?v=Fn20vXJhaiI",
-      "posted_at": "2026-10-26T05:47:55Z",
-      "lang": "",
-      "video_title": "oyoyo #haveitoldyoulatelythatiloveyou #anasayfa #kpop #keşfetteyiz #keşfetaçıl",
-      "kind": "video_title"
     },
     {
       "source": "bluesky",
       "text": "最近ちょっといかがわしい絵ばかり描いているせいでなかなかここに貼れるものがない　ｵﾖﾖ",
       "author": "@tomato117t.bsky.social",
       "url": "https://bsky.app/profile/tomato117t.bsky.social/post/3myqx7i26tc24",
-      "posted_at": "2026-10-26T05:06:28.937Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "オヨヨとなっているが母から程よく心遣いのあるLINEが来てちょっと落ち着いたりする。",
-      "author": "@yamadasan25.bsky.social",
-      "url": "https://bsky.app/profile/yamadasan25.bsky.social/post/3myqtu7xaw22n",
-      "posted_at": "2026-10-26T04:06:27.535Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "どうせブラッディフェスティバルウィークに入ってしまったしと思って薬飲んでるけど、なんかそれ以上に頭と耳が「痛くなりますよこれからもっとネ…♡」って感じで、オヨヨ",
-      "author": "@hona34869.bsky.social",
-      "url": "https://bsky.app/profile/hona34869.bsky.social/post/3myqmj4ubhc2f",
-      "posted_at": "2026-10-26T01:55:03.643Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "ああ、唐獅子を読もうと思っていたのにオヨヨ大統領になっちゃった。",
-      "author": "@gojimoto.fedibird.com.ap.brid.gy",
-      "url": "https://bsky.app/profile/gojimoto.fedibird.com.ap.brid.gy/post/3myqkw7tbep72",
-      "posted_at": "2026-10-26T01:26:35.040Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "オヨヨ　ちゃんと受けてください汗",
-      "author": "@mi-mi2929.keik.info",
-      "url": "https://bsky.app/profile/mi-mi2929.keik.info/post/3myqk4jnbm22g",
-      "posted_at": "2026-10-26T01:12:11.941Z",
-      "lang": ""
-    },
-    {
-      "source": "bluesky",
-      "text": "毎日23時間の、Twitterをロックするアプリ使ってるから、23時間後には開放されるので「あ、Twitterがある！(錦鯉)」になってしまい、学習しないから30分後に「ここは私が住める場所では無い……ｵﾖﾖ」とか言ってまたアプリロックしてる。マジで学習してない。",
-      "author": "@wasyawasya00.bsky.social",
-      "url": "https://bsky.app/profile/wasyawasya00.bsky.social/post/3myqbq2wwm22z",
-      "posted_at": "2026-10-25T22:42:03.540Z",
+      "posted_at": "2026-10-26T05:06:28.771Z",
       "lang": "ja"
     },
     {
