@@ -1,12 +1,86 @@
 {
-  "updated_at": "2026-10-29T00:32:24+00:00",
-  "count": 26,
+  "updated_at": "2026-10-30T00:31:24+00:00",
+  "count": 27,
   "sources": {
+    "youtube": 9,
     "bluesky": 12,
-    "youtube": 8,
     "mastodon": 6
   },
   "items": [
+    {
+      "source": "youtube",
+      "text": "OYOYO DADDY! 😭💔 | HAWAYEN SOJA | Hausa AI Drama #aihausaseries #comedy",
+      "author": "Aihausaseries ",
+      "url": "https://www.youtube.com/watch?v=zx4vK3QjjmU",
+      "posted_at": "2026-10-29T19:02:34Z",
+      "lang": "",
+      "video_title": "OYOYO DADDY! 😭💔 | HAWAYEN SOJA | Hausa AI Drama #aihausaseries #comedy",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "月末、毎日残業している 明日も1時間長い、オヨヨ",
+      "author": "@2525bnk.bsky.social",
+      "url": "https://bsky.app/profile/2525bnk.bsky.social/post/3myzpqq5phc25",
+      "posted_at": "2026-10-29T16:46:56.087Z",
+      "lang": "ja"
+    },
+    {
+      "source": "youtube",
+      "text": "The Royal Legacy of Owa Ooye, Oba Oyoyo II | A Special Tribute",
+      "author": "Yemi Dynamic Tv",
+      "url": "https://www.youtube.com/watch?v=_HY1fsy-cyo",
+      "posted_at": "2026-10-29T16:05:05Z",
+      "lang": "",
+      "video_title": "The Royal Legacy of Owa Ooye, Oba Oyoyo II | A Special Tribute",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "Amb. oyoyo",
+      "author": "Obystixx Tv ",
+      "url": "https://www.youtube.com/watch?v=bZ2XQg8yIco",
+      "posted_at": "2026-10-29T15:00:17Z",
+      "lang": "",
+      "video_title": "Amb. oyoyo",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "Ambassador Oyoyo ",
+      "author": "Obystixx Tv ",
+      "url": "https://www.youtube.com/watch?v=Ii248RnlYrw",
+      "posted_at": "2026-10-29T14:00:37Z",
+      "lang": "",
+      "video_title": "Ambassador Oyoyo ",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "――参戦！  さんは、人の心わかんなくてかわいい。帰れ。\nラストのおきよっちゃんが羽を広げた鳥さんに思えてｵﾖﾖ……て泣いた  自作で泣いて何が悪い（自分の足を食うタコ生百周年）",
+      "author": "@morismsms1338.bsky.social",
+      "url": "https://bsky.app/profile/morismsms1338.bsky.social/post/3myzcnvvdgs2n",
+      "posted_at": "2026-10-29T12:52:43.284Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "拙作「歩け足、以下略」のおきよっちゃん、フッ軽氏政のことかなり初期から憧れててこうなりたい…みたいな気持ちありつつ、氏政の動作をまねっこしても軽くなれなくてｵﾖﾖ…て泣いてる  自作で泣かないでください",
+      "author": "@morismsms1338.bsky.social",
+      "url": "https://bsky.app/profile/morismsms1338.bsky.social/post/3myzck5g3bk2n",
+      "posted_at": "2026-10-29T12:50:37.378Z",
+      "lang": "ja"
+    },
+    {
+      "source": "youtube",
+      "text": "Amb. Oyoyo",
+      "author": "Obystixx Tv ",
+      "url": "https://www.youtube.com/watch?v=uy-kZTkbEv4",
+      "posted_at": "2026-10-29T11:16:59Z",
+      "lang": "",
+      "video_title": "Amb. Oyoyo",
+      "kind": "video_title"
+    },
     {
       "source": "bluesky",
       "text": "手馴れてるwww語彙にウケちゃったwwwwwwwwww\nギャルとは正反対な人間で😿ｵﾖﾖ😿",
@@ -14,26 +88,6 @@
       "url": "https://bsky.app/profile/haruto-cos2.bsky.social/post/3myxv33bjic23",
       "posted_at": "2026-10-28T23:16:52.176Z",
       "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "#oyoyo #dance #afrobeats #dancechallenge",
-      "author": "Okuku Scott",
-      "url": "https://www.youtube.com/watch?v=KSpbxO8Tu1A",
-      "posted_at": "2026-10-28T21:03:57Z",
-      "lang": "",
-      "video_title": "#oyoyo #dance #afrobeats #dancechallenge",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "EVENING OYOYO || 28/10/2026",
-      "author": "Wazobia FM",
-      "url": "https://www.youtube.com/watch?v=FsCosz8nXz0",
-      "posted_at": "2026-10-28T17:21:03Z",
-      "lang": "",
-      "video_title": "EVENING OYOYO || 28/10/2026",
-      "kind": "video_title"
     },
     {
       "source": "bluesky",
@@ -68,16 +122,6 @@
       "lang": "ja"
     },
     {
-      "source": "youtube",
-      "text": "Raja Dipa Prema kahani love story Odia #omata #oyo #omletarcade #oyosports #oyoyo by #odia My love 😭",
-      "author": "Raja Dipa love story ",
-      "url": "https://www.youtube.com/watch?v=Qdgu9tBNEH4",
-      "posted_at": "2026-10-28T02:50:15Z",
-      "lang": "",
-      "video_title": "Raja Dipa Prema kahani love story Odia #omata #oyo #omletarcade #oyosports #oyoyo by #odia My love 😭",
-      "kind": "video_title"
-    },
-    {
       "source": "bluesky",
       "text": "For those curious on the options for challenge #106:\n- Super Gussun Oyoyo [SFC]\n- Ganbare Goemon 2 [SFC]\n- Faxanadu [FC]",
       "author": "@gamegaijin.bsky.social",
@@ -107,30 +151,6 @@
       "author": "@ipral.bsky.social",
       "url": "https://bsky.app/profile/ipral.bsky.social/post/3myucxkfank2k",
       "posted_at": "2026-10-27T13:14:46.978Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "小林信彦さん、亡くなられたのか。子供の時にオヨヨと出会って、大好きで毎年読み返してた。唐獅子も神野推理氏も何度も読み返してた。氏の著作で初めて知った事物も多かった。素晴らしい読書体験をありがとうございました🙏",
-      "author": "@chatnoir222.bsky.social",
-      "url": "https://bsky.app/profile/chatnoir222.bsky.social/post/3mytfhoadw22l",
-      "posted_at": "2026-10-27T04:26:55.974Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "こんにちは、お昼の早川書房（机）です。小林信彦さんの訃報に接し、過去の記憶を遡りました。小林信彦さんとはクリスティーの『親指のうずき』の解説についてやり取りしたことがあります。クリスティー後期の読み方を教わりました。くれぐれも失礼のないようにと上司に言い聞かされましたが、私の拙い連絡に、朗らかにお答えくださいました。オヨヨや紳士同盟が好きだったけど、影響を受けたのは『地獄の読書録』とヒッチコック・マガジンです。ご冥福をお祈りします。\n\nさて、火曜のお昼のお知らせです。",
-      "author": "@hayakawa-online.co.jp",
-      "url": "https://bsky.app/profile/hayakawa-online.co.jp/post/3mytb7x5lm22c",
-      "posted_at": "2026-10-27T03:11:02.275Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "新木場さんのことを信頼している理由が語られて新木場さんに会おうしかもう考えられなくなった………大崎君は醜くもないしこの島にいる誰より人間だよ…オヨヨ…",
-      "author": "@tanetane441.bsky.social",
-      "url": "https://bsky.app/profile/tanetane441.bsky.social/post/3myst3xgzmk27",
-      "posted_at": "2026-10-26T22:58:16.374Z",
       "lang": "ja"
     },
     {
@@ -171,16 +191,6 @@
       "posted_at": "2026-10-14T09:20:43Z",
       "lang": "",
       "video_title": "ショート 【神谷明】オヨヨ・ナイトフィーバー 『オヨネコぶーにゃん』オープニングテーマ",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "【神谷明】オヨヨ・ナイトフィーバー 『オヨネコぶーにゃん』オープニングテーマ",
-      "author": "Stick Raji",
-      "url": "https://www.youtube.com/watch?v=tcILZwwNMuI",
-      "posted_at": "2026-10-14T09:15:32Z",
-      "lang": "",
-      "video_title": "【神谷明】オヨヨ・ナイトフィーバー 『オヨネコぶーにゃん』オープニングテーマ",
       "kind": "video_title"
     },
     {
