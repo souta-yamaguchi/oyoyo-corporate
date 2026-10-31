@@ -1,12 +1,84 @@
 {
-  "updated_at": "2026-10-31T00:16:55+00:00",
-  "count": 26,
+  "updated_at": "2026-10-31T23:52:57+00:00",
+  "count": 28,
   "sources": {
+    "youtube": 10,
     "bluesky": 12,
-    "youtube": 8,
     "mastodon": 6
   },
   "items": [
+    {
+      "source": "youtube",
+      "text": "J Martins – Oyoyo Throwback Vibes ❤️🔥",
+      "author": "Highlife & Afrobeat King👑",
+      "url": "https://www.youtube.com/watch?v=u3g9-dXqHOw",
+      "posted_at": "2026-10-31T21:33:41Z",
+      "lang": "",
+      "video_title": "J Martins – Oyoyo Throwback Vibes ❤️🔥",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "ハロウィン絵ｵﾖﾖ（ファッションに疎くてデザインがムズいよ音頭）",
+      "author": "@vvovvovvo.bsky.social",
+      "url": "https://bsky.app/profile/vvovvovvo.bsky.social/post/3mz6tu7mf4c2w",
+      "posted_at": "2026-10-31T17:43:46.580Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "ｵﾖﾖｰ😭 そう言ってもらえて嬉しい…‼️\n黒い服の子は描くのすげぇ〜楽しかったです…ﾃﾍ😉",
+      "author": "@wasayamaiswowo.bsky.social",
+      "url": "https://bsky.app/profile/wasayamaiswowo.bsky.social/post/3mz6opoc3ns2q",
+      "posted_at": "2026-10-31T16:11:44.778Z",
+      "lang": "ja"
+    },
+    {
+      "source": "youtube",
+      "text": "New update #kingobidogo #duet #odua #igboamaka #stitch #goviral #comedy #funny #oyoyo",
+      "author": "King Obidogo ",
+      "url": "https://www.youtube.com/watch?v=BukHWLdgQBA",
+      "posted_at": "2026-10-31T14:33:25Z",
+      "lang": "",
+      "video_title": "New update #kingobidogo #duet #odua #igboamaka #stitch #goviral #comedy #funny #oyoyo",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "oyoyo yedi beni",
+      "author": "sıla",
+      "url": "https://www.youtube.com/watch?v=e2VsNMyoUmE",
+      "posted_at": "2026-10-31T14:22:35Z",
+      "lang": "",
+      "video_title": "oyoyo yedi beni",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "何回もいうけどこれがみわくんの側からすると言及するようなことじゃないってことはふたりの関係や名前の呼び方に関するのはよねやくんに関係するエピソードってことじゃんオヨヨ〜",
+      "author": "@mokemokke.bsky.social",
+      "url": "https://bsky.app/profile/mokemokke.bsky.social/post/3mz6bajbn3c2n",
+      "posted_at": "2026-10-31T12:10:38.375Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "体が痛くて散財したくなる　オヨヨ",
+      "author": "@kaisui231219.bsky.social",
+      "url": "https://bsky.app/profile/kaisui231219.bsky.social/post/3mz5ydktgx22f",
+      "posted_at": "2026-10-31T09:31:17.075Z",
+      "lang": "ja"
+    },
+    {
+      "source": "youtube",
+      "text": "happy birthday Oyoyo Nwanyi ❤️",
+      "author": "Chinyere Mina",
+      "url": "https://www.youtube.com/watch?v=UYUe5urBlps",
+      "posted_at": "2026-10-31T07:25:58Z",
+      "lang": "",
+      "video_title": "happy birthday Oyoyo Nwanyi ❤️",
+      "kind": "video_title"
+    },
     {
       "source": "bluesky",
       "text": "もうひと頑張りしたいところですが私は夜更かしとか徹夜ができない人間…ｵﾖﾖ…寝てる場合じゃね〜…が寝ます",
@@ -34,16 +106,6 @@
       "lang": "en"
     },
     {
-      "source": "youtube",
-      "text": "OYOYO  is live! I love This bead👑🤗",
-      "author": "OYOYO ",
-      "url": "https://www.youtube.com/watch?v=ensNuDaB29Y",
-      "posted_at": "2026-10-30T10:45:29Z",
-      "lang": "",
-      "video_title": "OYOYO  is live! I love This bead👑🤗",
-      "kind": "video_title"
-    },
-    {
       "source": "bluesky",
       "text": "オヨヨ\n牛乳ももうないものね……",
       "author": "@akaduki-4th.bsky.social",
@@ -58,16 +120,6 @@
       "url": "https://bsky.app/profile/iyou-nuo.bsky.social/post/3mz2rug5qh22j",
       "posted_at": "2026-10-30T02:57:26.971Z",
       "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "OYOYO DADDY! 😭💔 | HAWAYEN SOJA | Hausa AI Drama #aihausaseries #comedy",
-      "author": "Aihausaseries ",
-      "url": "https://www.youtube.com/watch?v=zx4vK3QjjmU",
-      "posted_at": "2026-10-29T19:02:34Z",
-      "lang": "",
-      "video_title": "OYOYO DADDY! 😭💔 | HAWAYEN SOJA | Hausa AI Drama #aihausaseries #comedy",
-      "kind": "video_title"
     },
     {
       "source": "bluesky",
@@ -109,38 +161,6 @@
       "author": "@haruto-cos2.bsky.social",
       "url": "https://bsky.app/profile/haruto-cos2.bsky.social/post/3myxv33bjic23",
       "posted_at": "2026-10-28T23:16:52.176Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "チャリさんありがとうございますよ😭😭ｵﾖﾖ",
-      "author": "@kachi-okibako.bsky.social",
-      "url": "https://bsky.app/profile/kachi-okibako.bsky.social/post/3myx33buc222p",
-      "posted_at": "2026-10-28T15:31:41.674Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "そういやコードまとめるバンドがどこにあるか覚えてねえー　ｵﾖﾖ　机の上が汚すぎる　変なやつで留めるか…もっと使いやすいボタンのやつがあるのに～",
-      "author": "@kbt230.bsky.social",
-      "url": "https://bsky.app/profile/kbt230.bsky.social/post/3mywxebqehk2g",
-      "posted_at": "2026-10-28T14:25:10.380Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "イスが回るからｵﾖﾖ……てなったりもするし…",
-      "author": "@opan2.bsky.social",
-      "url": "https://bsky.app/profile/opan2.bsky.social/post/3mywveoviok2q",
-      "posted_at": "2026-10-28T13:49:34.572Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "ミラノ風ドリアでお腹満足するけど、食べたくて辛味チキンを頼みｵﾖﾖってなりながら帰るサイゼ。",
-      "author": "@duraheart.bsky.social",
-      "url": "https://bsky.app/profile/duraheart.bsky.social/post/3mywhynq4c22b",
-      "posted_at": "2026-10-28T09:50:12.171Z",
       "lang": "ja"
     },
     {
