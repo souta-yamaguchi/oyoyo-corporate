@@ -1,12 +1,64 @@
 {
-  "updated_at": "2026-10-30T00:31:24+00:00",
-  "count": 27,
+  "updated_at": "2026-10-31T00:16:55+00:00",
+  "count": 26,
   "sources": {
-    "youtube": 9,
     "bluesky": 12,
+    "youtube": 8,
     "mastodon": 6
   },
   "items": [
+    {
+      "source": "bluesky",
+      "text": "もうひと頑張りしたいところですが私は夜更かしとか徹夜ができない人間…ｵﾖﾖ…寝てる場合じゃね〜…が寝ます",
+      "author": "@yurarayu-ra.bsky.social",
+      "url": "https://bsky.app/profile/yurarayu-ra.bsky.social/post/3mz436reooc2g",
+      "posted_at": "2026-10-30T15:16:58.283Z",
+      "lang": "ja"
+    },
+    {
+      "source": "youtube",
+      "text": "New update #kingobidogo #goviral #fyp #igboamaka # #duet #odua #stitch #comedy #oyoyo #okeysokay",
+      "author": "King Obidogo ",
+      "url": "https://www.youtube.com/watch?v=jmhK5tWFNb8",
+      "posted_at": "2026-10-30T14:37:59Z",
+      "lang": "",
+      "video_title": "New update #kingobidogo #goviral #fyp #igboamaka # #duet #odua #stitch #comedy #oyoyo #okeysokay",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "えーーーーーーーー？！シーツ被ってスタッフのハロウィンtiktok撮ろうよなんて言えるなら月曜からちゃんと働いてくれないかなあ？！？！\n「ワタシ、孫がフロリダに引っ越しちゃって傷心だから使い物にならないｵﾖﾖ😭」なんて言ってずっとマジで座ってるだけなんだけど今週！！！！？！！！！！！！",
+      "author": "@u-mani0ta9.bsky.social",
+      "url": "https://bsky.app/profile/u-mani0ta9.bsky.social/post/3mz3wxnnhkk2h",
+      "posted_at": "2026-10-30T14:01:23.282Z",
+      "lang": "en"
+    },
+    {
+      "source": "youtube",
+      "text": "OYOYO  is live! I love This bead👑🤗",
+      "author": "OYOYO ",
+      "url": "https://www.youtube.com/watch?v=ensNuDaB29Y",
+      "posted_at": "2026-10-30T10:45:29Z",
+      "lang": "",
+      "video_title": "OYOYO  is live! I love This bead👑🤗",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "オヨヨ\n牛乳ももうないものね……",
+      "author": "@akaduki-4th.bsky.social",
+      "url": "https://bsky.app/profile/akaduki-4th.bsky.social/post/3mz32xlhwzc25",
+      "posted_at": "2026-10-30T05:40:16.680Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "すずちゃまは昨夜もひめちゃまのグルーミングがウザい！と激おこするのでケージから出してヨシヨシしたところ、私にもシャー！し出してオヨヨ…となりながら抱っこして宥めてフニャーンとなった辺りで戻した(やらなきゃいけん家事があったのよ…)",
+      "author": "@iyou-nuo.bsky.social",
+      "url": "https://bsky.app/profile/iyou-nuo.bsky.social/post/3mz2rug5qh22j",
+      "posted_at": "2026-10-30T02:57:26.971Z",
+      "lang": "ja"
+    },
     {
       "source": "youtube",
       "text": "OYOYO DADDY! 😭💔 | HAWAYEN SOJA | Hausa AI Drama #aihausaseries #comedy",
@@ -36,26 +88,6 @@
       "kind": "video_title"
     },
     {
-      "source": "youtube",
-      "text": "Amb. oyoyo",
-      "author": "Obystixx Tv ",
-      "url": "https://www.youtube.com/watch?v=bZ2XQg8yIco",
-      "posted_at": "2026-10-29T15:00:17Z",
-      "lang": "",
-      "video_title": "Amb. oyoyo",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "Ambassador Oyoyo ",
-      "author": "Obystixx Tv ",
-      "url": "https://www.youtube.com/watch?v=Ii248RnlYrw",
-      "posted_at": "2026-10-29T14:00:37Z",
-      "lang": "",
-      "video_title": "Ambassador Oyoyo ",
-      "kind": "video_title"
-    },
-    {
       "source": "bluesky",
       "text": "――参戦！  さんは、人の心わかんなくてかわいい。帰れ。\nラストのおきよっちゃんが羽を広げた鳥さんに思えてｵﾖﾖ……て泣いた  自作で泣いて何が悪い（自分の足を食うタコ生百周年）",
       "author": "@morismsms1338.bsky.social",
@@ -70,16 +102,6 @@
       "url": "https://bsky.app/profile/morismsms1338.bsky.social/post/3myzck5g3bk2n",
       "posted_at": "2026-10-29T12:50:37.378Z",
       "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "Amb. Oyoyo",
-      "author": "Obystixx Tv ",
-      "url": "https://www.youtube.com/watch?v=uy-kZTkbEv4",
-      "posted_at": "2026-10-29T11:16:59Z",
-      "lang": "",
-      "video_title": "Amb. Oyoyo",
-      "kind": "video_title"
     },
     {
       "source": "bluesky",
@@ -119,38 +141,6 @@
       "author": "@duraheart.bsky.social",
       "url": "https://bsky.app/profile/duraheart.bsky.social/post/3mywhynq4c22b",
       "posted_at": "2026-10-28T09:50:12.171Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "For those curious on the options for challenge #106:\n- Super Gussun Oyoyo [SFC]\n- Ganbare Goemon 2 [SFC]\n- Faxanadu [FC]",
-      "author": "@gamegaijin.bsky.social",
-      "url": "https://bsky.app/profile/gamegaijin.bsky.social/post/3myvh7ktilk2i",
-      "posted_at": "2026-10-28T00:03:23.487Z",
-      "lang": "en"
-    },
-    {
-      "source": "bluesky",
-      "text": "自給自足できるようになりたいよ〜ｵﾖﾖ………",
-      "author": "@anko2727.bsky.social",
-      "url": "https://bsky.app/profile/anko2727.bsky.social/post/3myv3gcmw4c24",
-      "posted_at": "2026-10-27T20:32:31.780Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "うおおお私もなので……わかります……！自認字書きのつもりなのに定期的に自信を失います🫨オヨヨ……\nアワーーーーーう、うれしいです……😭のぇさんには本当にお世話になったしご迷惑やご心配もおかけしてしまったと思っていたので……そう言っていただけて本当に嬉しいです……！😭うっうつ……\n長文全然大丈夫ですので！苦しいと思ったこと、ぜひスッキリされるまで吐き出しちゃってください……！✨",
-      "author": "@umiusisumi.bsky.social",
-      "url": "https://bsky.app/profile/umiusisumi.bsky.social/post/3myueepxo6k22",
-      "posted_at": "2026-10-27T13:40:03.592Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "オヨヨ……",
-      "author": "@ipral.bsky.social",
-      "url": "https://bsky.app/profile/ipral.bsky.social/post/3myucxkfank2k",
-      "posted_at": "2026-10-27T13:14:46.978Z",
       "lang": "ja"
     },
     {
