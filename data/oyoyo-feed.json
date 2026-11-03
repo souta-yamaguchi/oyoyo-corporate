@@ -1,12 +1,38 @@
 {
-  "updated_at": "2026-11-02T00:04:34+00:00",
+  "updated_at": "2026-11-03T02:43:35+00:00",
   "count": 27,
   "sources": {
-    "youtube": 9,
     "bluesky": 12,
+    "youtube": 9,
     "mastodon": 6
   },
   "items": [
+    {
+      "source": "bluesky",
+      "text": "oyoyo",
+      "author": "@waeaves.com",
+      "url": "https://bsky.app/profile/waeaves.com/post/3mze5d27k4k2u",
+      "posted_at": "2026-11-02T20:16:26.076Z",
+      "lang": "en"
+    },
+    {
+      "source": "bluesky",
+      "text": "も〜原稿しようとしたけどそんな時間なく…落書き\nオヨヨ",
+      "author": "@aaaoutbreakaaa.bsky.social",
+      "url": "https://bsky.app/profile/aaaoutbreakaaa.bsky.social/post/3mzdshrtktc2u",
+      "posted_at": "2026-11-02T17:02:14.076Z",
+      "lang": "ja"
+    },
+    {
+      "source": "youtube",
+      "text": "HARUNA PEHLE OYOYO MALAM ALI ISAH OFFICIAL AUDIO 🎻🎷🎸",
+      "author": "Haruna pehle",
+      "url": "https://www.youtube.com/watch?v=aMpGCBxrLiU",
+      "posted_at": "2026-11-02T11:57:28Z",
+      "lang": "",
+      "video_title": "HARUNA PEHLE OYOYO MALAM ALI ISAH OFFICIAL AUDIO 🎻🎷🎸",
+      "kind": "video_title"
+    },
     {
       "source": "youtube",
       "text": "oyoyo",
@@ -62,16 +88,6 @@
       "lang": "ja"
     },
     {
-      "source": "youtube",
-      "text": "love 👑❤️‍🔥........#viralshorts #yoytube #oyoyo #vrilvideo",
-      "author": "THE_TWIN5d8_",
-      "url": "https://www.youtube.com/watch?v=BXPKe3yEYqI",
-      "posted_at": "2026-11-01T08:59:40Z",
-      "lang": "",
-      "video_title": "love 👑❤️‍🔥........#viralshorts #yoytube #oyoyo #vrilvideo",
-      "kind": "video_title"
-    },
-    {
       "source": "bluesky",
       "text": "ｵﾖﾖ糖さん",
       "author": "@takenoko.misskey.nokotaro.com.ap.brid.gy",
@@ -125,22 +141,6 @@
       "author": "@mokemokke.bsky.social",
       "url": "https://bsky.app/profile/mokemokke.bsky.social/post/3mz6bajbn3c2n",
       "posted_at": "2026-10-31T12:10:38.375Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "体が痛くて散財したくなる　オヨヨ",
-      "author": "@kaisui231219.bsky.social",
-      "url": "https://bsky.app/profile/kaisui231219.bsky.social/post/3mz5ydktgx22f",
-      "posted_at": "2026-10-31T09:31:17.075Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "もうひと頑張りしたいところですが私は夜更かしとか徹夜ができない人間…ｵﾖﾖ…寝てる場合じゃね〜…が寝ます",
-      "author": "@yurarayu-ra.bsky.social",
-      "url": "https://bsky.app/profile/yurarayu-ra.bsky.social/post/3mz436reooc2g",
-      "posted_at": "2026-10-30T15:16:58.283Z",
       "lang": "ja"
     },
     {
