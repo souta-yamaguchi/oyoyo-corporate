@@ -1,12 +1,30 @@
 {
-  "updated_at": "2026-11-11T00:57:31+00:00",
-  "count": 27,
+  "updated_at": "2026-11-12T02:04:03+00:00",
+  "count": 26,
   "sources": {
-    "youtube": 9,
     "bluesky": 12,
+    "youtube": 8,
     "mastodon": 6
   },
   "items": [
+    {
+      "source": "bluesky",
+      "text": "おまえ………あれだけ好きだったのに………ｵﾖﾖ…………と嘆いていたあの頃の私、戻ってこい",
+      "author": "@chomateyooo.bsky.social",
+      "url": "https://bsky.app/profile/chomateyooo.bsky.social/post/3n22afh3ff22t",
+      "posted_at": "2026-11-11T15:10:02.591Z",
+      "lang": "ja"
+    },
+    {
+      "source": "youtube",
+      "text": "**CENTRAL CEE X CHIEF OSITA OSADEBE – OYOYO BU EGWU (AFRO DRILL REMIX)**",
+      "author": "Vic Iyke",
+      "url": "https://www.youtube.com/watch?v=aV7OPpEKxjI",
+      "posted_at": "2026-11-11T04:03:58Z",
+      "lang": "",
+      "video_title": "**CENTRAL CEE X CHIEF OSITA OSADEBE – OYOYO BU EGWU (AFRO DRILL REMIX)**",
+      "kind": "video_title"
+    },
     {
       "source": "youtube",
       "text": "MALAM WALI OYOYO",
@@ -25,26 +43,6 @@
       "posted_at": "2026-11-10T18:06:32Z",
       "lang": "",
       "video_title": "#trending #comedy oyoyo",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "EBENEZER YOU ARE MY HELPER - POWERFUL NIGERIAN CHRISTIAN PRAISE BY AMB. OYOYO",
-      "author": "Gospel Tunes Network",
-      "url": "https://www.youtube.com/watch?v=cjTkJGdvGbw",
-      "posted_at": "2026-11-10T16:30:23Z",
-      "lang": "",
-      "video_title": "EBENEZER YOU ARE MY HELPER - POWERFUL NIGERIAN CHRISTIAN PRAISE BY AMB. OYOYO",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "Oyoyo",
-      "author": "DJ Xclusive - Topic",
-      "url": "https://www.youtube.com/watch?v=TfwFknd8CCM",
-      "posted_at": "2026-11-10T15:31:31Z",
-      "lang": "",
-      "video_title": "Oyoyo",
       "kind": "video_title"
     },
     {
@@ -143,14 +141,6 @@
       "author": "@roukaukauka.bsky.social",
       "url": "https://bsky.app/profile/roukaukauka.bsky.social/post/3mznptdoalk2c",
       "posted_at": "2026-11-06T15:41:37.974Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "魔術の才能もあり周りから好かれなんでも持っているヴァッサーゴが唯一手に入れられなかったストラスと今再開し20年待ったよと愛を囁くこの…素直さ愛おしさ……オヨヨ…泣 負けないで欲しいけど負けて欲しい…(え⁉️)",
-      "author": "@zoumotuda.bsky.social",
-      "url": "https://bsky.app/profile/zoumotuda.bsky.social/post/3mzncpjhqks27",
-      "posted_at": "2026-11-06T11:46:50.882Z",
       "lang": "ja"
     },
     {
