@@ -1,12 +1,102 @@
 {
-  "updated_at": "2026-11-12T02:04:03+00:00",
-  "count": 26,
+  "updated_at": "2026-11-13T01:36:45+00:00",
+  "count": 28,
   "sources": {
+    "youtube": 10,
     "bluesky": 12,
-    "youtube": 8,
     "mastodon": 6
   },
   "items": [
+    {
+      "source": "youtube",
+      "text": "happy birthday Oyoyo Nwanyi guys celebrate with me",
+      "author": "Oyoyo Nwanyi ",
+      "url": "https://www.youtube.com/watch?v=xzNSH-xDF3k",
+      "posted_at": "2026-11-12T18:04:58Z",
+      "lang": "",
+      "video_title": "happy birthday Oyoyo Nwanyi guys celebrate with me",
+      "kind": "video_title"
+    },
+    {
+      "source": "youtube",
+      "text": "Omo this is just sooo coincidence oo omo Only1kesh🔥🙌🏻❤️❤️ #oyoyo",
+      "author": "YL_IN_LAGOS⚡️",
+      "url": "https://www.youtube.com/watch?v=BFwpzS-NMKw",
+      "posted_at": "2026-11-12T17:07:54Z",
+      "lang": "",
+      "video_title": "Omo this is just sooo coincidence oo omo Only1kesh🔥🙌🏻❤️❤️ #oyoyo",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "眠れんくなったオヨヨ",
+      "author": "@renge32.bsky.social",
+      "url": "https://bsky.app/profile/renge32.bsky.social/post/3n24smo5pxs2g",
+      "posted_at": "2026-11-12T15:41:31.282Z",
+      "lang": "ja"
+    },
+    {
+      "source": "youtube",
+      "text": "the sweetest sound from Oyoyo Nwanyi",
+      "author": "Oyoyo Nwanyi ",
+      "url": "https://www.youtube.com/watch?v=n1LoKS5F6t4",
+      "posted_at": "2026-11-12T14:44:31Z",
+      "lang": "",
+      "video_title": "the sweetest sound from Oyoyo Nwanyi",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "ペアルック🐇⁉️オヨヨ",
+      "author": "@dancingusachan.bsky.social",
+      "url": "https://bsky.app/profile/dancingusachan.bsky.social/post/3n24ldprsms2g",
+      "posted_at": "2026-11-12T13:31:14.669Z",
+      "lang": "ja"
+    },
+    {
+      "source": "youtube",
+      "text": "Oyoyo Baba, sannu da dawowa ✋.#Radda2027 #Tinubu2027 #malamabdulmaje",
+      "author": "Malam Fatihu Kuraye",
+      "url": "https://www.youtube.com/watch?v=s-HyHQ5L3F0",
+      "posted_at": "2026-11-12T12:40:21Z",
+      "lang": "",
+      "video_title": "Oyoyo Baba, sannu da dawowa ✋.#Radda2027 #Tinubu2027 #malamabdulmaje",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "やらこくてかわいい毛糸あったかも🎶と編み始めてみたがまあこれが…目が…目がどこがどれ…ｵﾖﾖ……",
+      "author": "@shikimi-k.bsky.social",
+      "url": "https://bsky.app/profile/shikimi-k.bsky.social/post/3n24iik5w3s2l",
+      "posted_at": "2026-11-12T12:40:16.580Z",
+      "lang": "ja"
+    },
+    {
+      "source": "youtube",
+      "text": "Oyoyo Malan Pantami",
+      "author": "DIGITAl DEMOCRACY PANTAMIYYA SQUAD (DDPS)",
+      "url": "https://www.youtube.com/watch?v=FVFv08wx1SI",
+      "posted_at": "2026-11-12T11:02:40Z",
+      "lang": "",
+      "video_title": "Oyoyo Malan Pantami",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "ポリティカルパン見てると「わかる〜」と「気まずい〜」と「許せね〜」の気持ちがたくさん湧いてくるよｵﾖﾖ………………ほんと、10年後に生きてるのかもわからない人たちがこの国の舵を握ってるのどうにかしてほしいよㅠㅠ定年作ってくれまじで",
+      "author": "@ichica-777.bsky.social",
+      "url": "https://bsky.app/profile/ichica-777.bsky.social/post/3n24bfujdms2d",
+      "posted_at": "2026-11-12T10:33:30.081Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "応援している馬たちがどんどん引退していくよ～ｵﾖﾖｰって少し寂しくなっていたところに例の丹頂ステークスからのアルゼンチン共和国杯ですよ\n最高だったな",
+      "author": "@magebi.bsky.social",
+      "url": "https://bsky.app/profile/magebi.bsky.social/post/3n23zr36ql2n5",
+      "posted_at": "2026-11-12T08:16:35.470Z",
+      "lang": "ja"
+    },
     {
       "source": "bluesky",
       "text": "おまえ………あれだけ好きだったのに………ｵﾖﾖ…………と嘆いていたあの頃の私、戻ってこい",
@@ -14,36 +104,6 @@
       "url": "https://bsky.app/profile/chomateyooo.bsky.social/post/3n22afh3ff22t",
       "posted_at": "2026-11-11T15:10:02.591Z",
       "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "**CENTRAL CEE X CHIEF OSITA OSADEBE – OYOYO BU EGWU (AFRO DRILL REMIX)**",
-      "author": "Vic Iyke",
-      "url": "https://www.youtube.com/watch?v=aV7OPpEKxjI",
-      "posted_at": "2026-11-11T04:03:58Z",
-      "lang": "",
-      "video_title": "**CENTRAL CEE X CHIEF OSITA OSADEBE – OYOYO BU EGWU (AFRO DRILL REMIX)**",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "MALAM WALI OYOYO",
-      "author": "Abubakar Dunga - Topic",
-      "url": "https://www.youtube.com/watch?v=zNrwjT9ROoU",
-      "posted_at": "2026-11-10T20:35:38Z",
-      "lang": "",
-      "video_title": "MALAM WALI OYOYO",
-      "kind": "video_title"
-    },
-    {
-      "source": "youtube",
-      "text": "#trending #comedy oyoyo",
-      "author": "Shamsu mai sala",
-      "url": "https://www.youtube.com/watch?v=2XWLhA9ugto",
-      "posted_at": "2026-11-10T18:06:32Z",
-      "lang": "",
-      "video_title": "#trending #comedy oyoyo",
-      "kind": "video_title"
     },
     {
       "source": "bluesky",
@@ -102,46 +162,6 @@
       "lang": "",
       "video_title": "20261007　ｵﾖﾖがｵｾﾛ！　#及川雅貴　#投球練習　ｵｰﾛﾗﾋﾞｼﾞｮﾝ演出　#shorts　10回表　阪神ﾀｲｶﾞｰｽ＠阪神甲子園球場･ﾚﾌﾄ外野",
       "kind": "video_title"
-    },
-    {
-      "source": "bluesky",
-      "text": "🔥生きてる世界線の原作の👒すぎてｵﾖﾖしたいい夢だけど悪い夢ではあるのでまだ苦しんでるんだろうと思うと本当にこの手は救いの手………🥲🥲",
-      "author": "@taka4nojje.bsky.social",
-      "url": "https://bsky.app/profile/taka4nojje.bsky.social/post/3mzqy35wvas2x",
-      "posted_at": "2026-11-07T22:47:09.931Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "ペン入れ終わった～！がこの漫画って本当にいりますかね…？のBAD思考が入ってしまい…ｵﾖﾖ…眠たいのとお腹が空いてるからかな…寝ますね…👋皆さんも温かくして寝てくださいね～😴",
-      "author": "@sawadakkk.bsky.social",
-      "url": "https://bsky.app/profile/sawadakkk.bsky.social/post/3mzqb77mp5k22",
-      "posted_at": "2026-11-07T15:57:50.370Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "悲しい( ´:ω:` )ｵﾖﾖ",
-      "author": "@super-oishikunai.bsky.social",
-      "url": "https://bsky.app/profile/super-oishikunai.bsky.social/post/3mzpanwhaak26",
-      "posted_at": "2026-11-07T06:15:29.780Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "餌箱にひまわりの種を入れるといつもなら寝床からすぐに出てきて頬張りはじめるハムスターが冬の朝はなかなか出てこず、目は開いているのにほかほかの巣材から出るのを渋っていて、掃除のために無理矢理追い出すと本当にオヨヨ…という感じで出てくるので、あれ程ごはんのために生きている感じのハムスターですらあったかい寝床からは離れがたいものなんだと感心(？)した",
-      "author": "@nbamfmf.bsky.social",
-      "url": "https://bsky.app/profile/nbamfmf.bsky.social/post/3mzoopjyme226",
-      "posted_at": "2026-11-07T00:54:16.076Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "YouTubeで適当に動画か音楽流しながら寝る習慣なんだけどYouTubeアプリが重くて繋がんない（ ;  ; ）オヨヨ",
-      "author": "@roukaukauka.bsky.social",
-      "url": "https://bsky.app/profile/roukaukauka.bsky.social/post/3mznptdoalk2c",
-      "posted_at": "2026-11-06T15:41:37.974Z",
-      "lang": "ja"
     },
     {
       "source": "youtube",
