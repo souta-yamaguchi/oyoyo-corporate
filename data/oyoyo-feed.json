@@ -1,12 +1,102 @@
 {
-  "updated_at": "2026-11-23T01:17:32+00:00",
+  "updated_at": "2026-11-24T05:05:11+00:00",
   "count": 27,
   "sources": {
-    "youtube": 9,
     "bluesky": 12,
+    "youtube": 9,
     "mastodon": 6
   },
   "items": [
+    {
+      "source": "bluesky",
+      "text": "ｵﾖﾖ…",
+      "author": "@a62d.bsky.social",
+      "url": "https://bsky.app/profile/a62d.bsky.social/post/3n2zohuzkw22k",
+      "posted_at": "2026-11-24T03:14:28.441Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "この世界の猫大体四足歩行でスラッとしてるのに、オヨヨだけシルエットとサイズ感が違いすぎて並んだ時ガチで笑ってしまう　四角すぎだしデカすぎだし、ベラベラ喋りすぎ",
+      "author": "@kurageg.bsky.social",
+      "url": "https://bsky.app/profile/kurageg.bsky.social/post/3n2zoaxue7k2k",
+      "posted_at": "2026-11-24T03:10:36.249Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "83話、オヨヨって家庭持って家族のために働きたいとか思うんだ……って衝撃だった\n銀行コラボで謎の家族できてたけど案外考えられる未来の1つなのかもな　面食いのオヨヨが四角い雌猫を許容できるのか、そもそもオヨヨ以外にこんな四角い猫がいるのかは謎だけど……",
+      "author": "@kurageg.bsky.social",
+      "url": "https://bsky.app/profile/kurageg.bsky.social/post/3n2zo6kuz2s2k",
+      "posted_at": "2026-11-24T03:09:17.544Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "でも本編で「オヨネコぶーにゃん」って呼称出てきたの何気に初じゃないか　オヨヨかオヨネコかぶーにゃんのうちから好きなの選んで呼んでるイメージある",
+      "author": "@kurageg.bsky.social",
+      "url": "https://bsky.app/profile/kurageg.bsky.social/post/3n2znyc2yas2k",
+      "posted_at": "2026-11-24T03:05:45.442Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "マジでオヨヨの呼称が定まらないから、名前聞かれた時どうすんだろと思って見てたら「人呼んでオヨネコぶーにゃん、俺呼んでオヨヨﾝ♪」つってて腑に落ちた　確かにオヨヨは自称でぶーにゃんは他称だな⁉️と思ったけどこの回Aパートでたまごが「ぶー」って初めて聞く名前で呼んでて、流石に雑すぎで可愛い",
+      "author": "@kurageg.bsky.social",
+      "url": "https://bsky.app/profile/kurageg.bsky.social/post/3n2znw7nbs22k",
+      "posted_at": "2026-11-24T03:04:35.743Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "しおらしいオヨヨって世界一可愛いな",
+      "author": "@kurageg.bsky.social",
+      "url": "https://bsky.app/profile/kurageg.bsky.social/post/3n2zneq26h22k",
+      "posted_at": "2026-11-24T02:54:49.646Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "娘氏、2ヶ月半ぶりに風邪 すごい 免疫が強くなっているのを感じる\nついでに私ももらいました オヨヨ",
+      "author": "@ponchanpon.bsky.social",
+      "url": "https://bsky.app/profile/ponchanpon.bsky.social/post/3n2zc767ntc2s",
+      "posted_at": "2026-11-23T23:34:50.754Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "私らの世代ですでに「知る人ぞ知る」だった桂三枝との騒動が未だ認知されているとは驚きです。やはりゴシップは強い。\nシリーズは『オヨヨ島の冒険』、『怪人オヨヨ大統領』、『大統領の密使』、『大統領の晩餐』、『合言葉はオヨヨ』、『秘密司令オヨヨ』、『オヨヨ城の秘密』、『オヨヨ大統領の悪夢』と続きますが、できれば順に読んでいただきたいですね。",
+      "author": "@goldenpicnics.bsky.social",
+      "url": "https://bsky.app/profile/goldenpicnics.bsky.social/post/3n2xzy7hp2s2v",
+      "posted_at": "2026-11-23T11:35:08.644Z",
+      "lang": "ja"
+    },
+    {
+      "source": "youtube",
+      "text": "MARIA OYOYO",
+      "author": "Sis Ngozi Uchechukwu - Topic",
+      "url": "https://www.youtube.com/watch?v=rr18i47u69o",
+      "posted_at": "2026-11-23T10:02:09Z",
+      "lang": "",
+      "video_title": "MARIA OYOYO",
+      "kind": "video_title"
+    },
+    {
+      "source": "bluesky",
+      "text": "バレリーさん凸したくてガチャひいてたらミティヤ1凸してしまい　ｵﾖﾖ",
+      "author": "@dvgtk.bsky.social",
+      "url": "https://bsky.app/profile/dvgtk.bsky.social/post/3n2xucizlr22b",
+      "posted_at": "2026-11-23T09:53:32.647Z",
+      "lang": "ja"
+    },
+    {
+      "source": "bluesky",
+      "text": "オヨヨ大統領は桂三枝とのトラブルで知っていましたが、面白そうですね。今度取り寄せて読んでみます。",
+      "author": "@saitou-akane.bsky.social",
+      "url": "https://bsky.app/profile/saitou-akane.bsky.social/post/3n2xop3rbxc25",
+      "posted_at": "2026-11-23T08:13:11.544Z",
+      "lang": "ja"
+    },
     {
       "source": "youtube",
       "text": "OYOYO KLHAAAAAAAAAWWOPP Effects (Sponsored by Preview 314327 Effects)",
@@ -34,30 +124,6 @@
       "lang": "ja"
     },
     {
-      "source": "bluesky",
-      "text": "最近化粧崩れに年齢を感じ始めたから、estのファンデーション買ってみた。届くの楽しみ！\n楽天ポイントたまってたから、ついでに下地とアイシャドウも新調。気に入ってるウォンジョンヨのパレットも気づけば2年前のものだった…🥲オヨヨ",
-      "author": "@myonkichi.bsky.social",
-      "url": "https://bsky.app/profile/myonkichi.bsky.social/post/3n2vszajpys2d",
-      "posted_at": "2026-11-22T14:25:06.548Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "でも結局リンクは救われないのでオヨヨ",
-      "author": "@ponchanpon.bsky.social",
-      "url": "https://bsky.app/profile/ponchanpon.bsky.social/post/3n2v22jni422w",
-      "posted_at": "2026-11-22T06:58:26.641Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "喉がカッサカサなのか刺激に弱くなったのかわからんけど常に飴を舐めてないと空咳が止まらなくなってしまった　オヨヨ〜😭",
-      "author": "@hebitaromogu.bsky.social",
-      "url": "https://bsky.app/profile/hebitaromogu.bsky.social/post/3n2uym5hkgs2w",
-      "posted_at": "2026-11-22T06:32:29.844Z",
-      "lang": "ja"
-    },
-    {
       "source": "youtube",
       "text": "OYOYO ",
       "author": "BASHIR B BASH",
@@ -76,72 +142,6 @@
       "lang": "",
       "video_title": "MAI OYOYO=YAN AHLUL SUFFA MAULIDI KIRU 2026",
       "kind": "video_title"
-    },
-    {
-      "source": "bluesky",
-      "text": "ぶーにゃん55話、幼児の頭を舐め回すオヨヨから始まって最悪すぎる",
-      "author": "@kurageg.bsky.social",
-      "url": "https://bsky.app/profile/kurageg.bsky.social/post/3n2tc5creyc2v",
-      "posted_at": "2026-11-21T14:17:50.641Z",
-      "lang": "ja"
-    },
-    {
-      "source": "youtube",
-      "text": "#music eze oyoyo 🤗👏👏👏",
-      "author": "Angela Chioma",
-      "url": "https://www.youtube.com/watch?v=gkUyeMRTakk",
-      "posted_at": "2026-11-21T13:17:37Z",
-      "lang": "",
-      "video_title": "#music eze oyoyo 🤗👏👏👏",
-      "kind": "video_title"
-    },
-    {
-      "source": "bluesky",
-      "text": "これ元々採用してくれたオーナーの性格はまぁ…って感じなんだけど(良くはない)、社員の人もアーン😫な感じでオヨヨ……",
-      "author": "@mchiy.bsky.social",
-      "url": "https://bsky.app/profile/mchiy.bsky.social/post/3n2szn36pu22r",
-      "posted_at": "2026-11-21T11:45:36.143Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "ｵﾃﾞ…すぐ隣の席の人に話しかけちゃうんですけど、今日おとなりだったレジェPさんとふれ～むPさん聖人君子みたいな方で…なんかごめん、こんな興奮全裸野郎が話しかけちって…😭になっちゃた…🙏でもエムチャン本当によき方たくさんいらっしゃるよ😭ｵﾖﾖ😭",
-      "author": "@ou-ewe.bsky.social",
-      "url": "https://bsky.app/profile/ou-ewe.bsky.social/post/3n2su2otuyc2t",
-      "posted_at": "2026-11-21T10:05:50.342Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "オヨヨ⋯\nお米食べてたらガリっとなって小石のような物が出てきまして⋯これ土台が凹状態になってる歯の僅かに残ってた出っ張り部分な疑惑がありまして⋯早く歯医者に行きたい⋯歯は大事ですね",
-      "author": "@nyame8.bsky.social",
-      "url": "https://bsky.app/profile/nyame8.bsky.social/post/3n2sqtof7qk2p",
-      "posted_at": "2026-11-21T09:08:14.644Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "オヨネコぶーにゃんのアニメ、1話に1回はオヨヨが急にワ゛ーーーーーーー‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️って画面いっぱいに顔出して叫ぶのガチうるさいし勢いで笑わせてくるのずるい",
-      "author": "@kurageg.bsky.social",
-      "url": "https://bsky.app/profile/kurageg.bsky.social/post/3n2soikdlp227",
-      "posted_at": "2026-11-21T08:26:13.540Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "オヨヨって悪知恵は無限に働くのにやっぱり猫の頭脳だから小学生に騙されて散々酷い目にあってて、可愛くないと可愛いをギリギリで両立させている",
-      "author": "@kurageg.bsky.social",
-      "url": "https://bsky.app/profile/kurageg.bsky.social/post/3n2snvhwzpc27",
-      "posted_at": "2026-11-21T08:15:32.942Z",
-      "lang": "ja"
-    },
-    {
-      "source": "bluesky",
-      "text": "オヨヨが可愛い瞬間って、どうしようもなくアホなせいでみんなに騙されてる時と、ママに媚び売ってる時だな　何と68話は両方あるので非常に可愛い",
-      "author": "@kurageg.bsky.social",
-      "url": "https://bsky.app/profile/kurageg.bsky.social/post/3n2snknp34c27",
-      "posted_at": "2026-11-21T08:09:30.151Z",
-      "lang": "ja"
     },
     {
       "source": "youtube",
